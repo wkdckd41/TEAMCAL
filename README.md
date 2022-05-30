@@ -1,6 +1,10 @@
 # TEAMCAL
 ## 방송통신대학교 BNB스터디 동아리 프로젝트 (2018.07.01 ~ 2018.08.05)
 
+목표가 같은 구성원들이 원하는 스터디에 가입하여 스터디 일정을 캘린더를 통해 그룹원들끼리 공유하여 단,장기간 등 
+기간별/목적별로 사용할 수 있는 웹사이트를 제작
+
+
 ![image](https://user-images.githubusercontent.com/94946079/171008837-14c38416-8b18-4533-9fc4-95bf44ed99b4.png)
 ![image](https://user-images.githubusercontent.com/94946079/171009052-9cb3fae3-3d52-4e89-8e71-a4191f48a11d.png)
 ![image](https://user-images.githubusercontent.com/94946079/171009078-eac37c16-967f-4e39-b0cd-b5727bfe8c16.png)
