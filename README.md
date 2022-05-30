@@ -1,5 +1,5 @@
 # TEAMCAL
-## 방송동신대학교 BNB스터디 동아리 프로젝트 (2018.07.01 ~ 2018.08.05)
+## 방송통신대학교 BNB스터디 동아리 프로젝트 (2018.07.01 ~ 2018.08.05)
 
 ![image](https://user-images.githubusercontent.com/94946079/171008837-14c38416-8b18-4533-9fc4-95bf44ed99b4.png)
 ![image](https://user-images.githubusercontent.com/94946079/171009052-9cb3fae3-3d52-4e89-8e71-a4191f48a11d.png)
