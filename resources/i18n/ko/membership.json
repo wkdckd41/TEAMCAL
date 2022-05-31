@@ -1,0 +1,271 @@
+{
+	"**********"	:	"membership_ko",
+	
+	"head"		:	{
+		"consent_title"			:	"회원가입 약관 동의 | 법무법인(유) 율촌"
+		,"consent_keyword"		:	"율촌, 회원가입, 멤버십, 약관 동의"
+		,"consent_description"	:	"회원가입의 약관 동의 입니다."
+		,"login_title"			:	"로그인 | 법무법인(유) 율촌"
+		,"login_keyword"		:	"율촌, 회원가입, 멤버십, 로그인"
+		,"login_description"	:	"율촌 회원 로그인 페이지입니다."
+		,"id_title"				:	"이메일(아이디) 찾기 | 법무법인(유) 율촌"
+		,"id_keyword"			:	"율촌, 회원가입, 멤버십, 로그인, 이메일, 아이디, 찾기"
+		,"id_description"		:	"율촌 회원의 이메일(아이디) 찾기 페이지입니다."
+		,"pw_title"				:	"비밀번호 찾기 | 법무법인(유) 율촌"
+		,"pw_keyword"			:	"율촌, 회원가입, 멤버십, 로그인, 이메일, 아이디, 비밀번호, 찾기"
+		,"pw_description"		:	"율촌 회원의 비밀번호 찾기 페이지입니다."
+	},
+	
+	"logo"					:	"법무법인(유) 율촌",
+	
+	"joinUs"				:	"회원가입",
+	"membership"			:	"회원가입",
+	"findOutAccount"		:	"이메일(아이디)찾기",
+	"findOutPW"				:	"비밀번호 찾기",
+	"passwordChange"		:	"비밀번호 변경",
+	"rpasswordChange"		:	"정기 비밀번호 변경",
+	"emailAuth"				:	"메일인증",
+
+	"email_resend"			:	"인증 메일 재전송",
+	"main"					:	"메인가기",
+	"login"					:	"로그인",
+	"list"					:	"목록",
+
+	"alert_email_resend"	:	"인증 메일이 재전송 되었습니다.",
+	"alert_change_pw"		:	"비밀번호가 재설정되었습니다.\n변경된 비밀번호로 로그인해주세요.",
+	"alert_login"			:	"로그인 후 이용 가능합니다.",
+	"alert_email"			:	"정상적인 이메일 주소가 아닙니다.",
+	"alert_link"			:	"유효하지 않은 링크입니다.",
+	"alert_opt_out"			:	"수신거부 처리 완료 되었습니다.",
+	"alert_error"			:	"오류가 발생하였습니다. 다시 시도해주세요.",
+	"alert_find_pw"			:	"비밀번호 찾기 화면으로 이동합니다.",
+	"alert_check"			:	"등록된 회원이 아닙니다.\n이메일과 비밀번호를 확인해 주세요.",
+	"alert_login_do"		:	"로그인 되었습니다.",
+	
+	"password_placeholder"	:	"새로운 비밀번호",
+	"password2_placeholder"	:	"새로운 비밀번호 재입력",
+	"phone_placeholder"		:	"'-' 제외",
+	
+	"emailEmpty"			:	"이메일을 입력해주세요.",
+   	"emailFormat"			:	"이메일 형식에 따라 입력해주세요.",
+   	"emailOverlap"			:	"이미 등록된 이메일 입니다.",
+   	"emailDomain"			:	"기업 메일 주소로 입력해 주세요.",
+   	"emailBlack"			:	"사용할 수 없는 이메일입니다.",
+   	
+   	"pw1Empty"				:	"비밀번호를 입력해 주세요.",
+   	"pw1Format"				:	"비밀번호 형식에 따라 입력해 주세요.",
+   	"pw1Blank"				:	"비밀번호는 공백 없이 입력해 주세요.",
+   	"pw1Email"				:	"비밀번호는 이메일 주소와 동일할 수 없습니다.",
+   	"pw1Refresh"			:	"기존의 비밀번호와 다른 비밀번호로 입력해주세요.",
+   	
+   	"pw2Empty"				:	"비밀번호를 한번 더 입력해 주세요.",
+	"pw2Matching"			:	"비밀번호가 일치하지 않습니다.",
+	
+	"opwRefresh"			:	"기존의 비밀번호와 맞지 않습니다.",
+	
+	"phEmpty"				:	"휴대전화 번호를 입력해 주세요.",
+	"phFormat"				:	"형식에 따라 입력해 주세요.",
+	
+	"tab"	:	{
+		"consent_to_terms_and_conditions"		:	"<span>1</span>약관 동의"
+	   ,"entry_of_information"					:	"<span>2</span>정보 입력"
+	   ,"completion_of_membership"				:	"<span>3</span>가입 완료"
+	},
+
+	"consent_to_terms_and_conditions"		:	{
+		"next"					:	"다음"
+	},
+	
+	"entry_of_information"		:	{
+		"txt_info"					:	"<span class=\"txt_essential\">*표기</span>는 필수 입력 항목입니다."
+	  
+	   ,"legend"					:	"회원가입 폼"
+
+	   ,"email"						:	"이메일(법인)<span class=\"txt_essential\">*</span>"
+	   ,"emailSuccess"				:	"사용가능한 이메일입니다."
+	   
+	   ,"password"					:	"비밀번호<span class=\"txt_essential\">*</span>"
+	   ,"pw1Success"				:	"안전합니다."
+	   ,"pw_txt_dsc"				:	"영문 대문자, 소문자, 숫자, 특수문자 중 3가지 이상을 조합하여 8~20자리로 구성해야 합니다."
+
+	   ,"password2"					:	"비밀번호 확인<span class=\"txt_essential\">*</span>"
+	   ,"pw2Success"				:	"비밀번호가 일치합니다."
+	   
+	   ,"memberName"				:	"이름<span class=\"txt_essential\">*</span>"
+	   ,"nmEmpty"					:	"이름을 입력해주세요."
+	   ,"nmFormat"					:	"이름을 2자 이상 입력해주세요."
+	   ,"nmMax"						:	"입력 가능한 이름의 최대 길이를 초과하였습니다."
+	   
+	   ,"cellphone"					:	"휴대전화번호<span class=\"txt_essential\">*</span>"
+	   ,"ph_txt_dsc"				:	"※ 휴대 전화번호 수집은 중복된 정보를 판단하기 위한 수단이며, 홍보의 수단으로 사용되지 않았습니다."
+
+	   ,"companyName"				:	"법인명<span class=\"txt_essential\">*</span>"
+	   ,"companyName_placeholder"	:	"법인명 입력"
+	   ,"cnmEmpty"					:	"법인명을 입력해 주세요."
+
+	   ,"lawyerYN"					:	"법조인 여부"
+	   ,"user_yes"					:	"예"
+	   ,"user_none"					:	"아니오"
+
+	   ,"phone"						:	"법인 전화번호"
+	   
+	   ,"department"				:	"부서명"
+	  
+	   ,"companyLevel"				:	"직함"
+
+	   ,"interestPart"				:	"관심분야"
+	   ,"partChoice"				:	"분야 선택"
+	   
+	   ,"joinComplete"				:	"가입완료"
+
+	   ,"alert_consent_to_terms_and_conditions"		:	"필수정보 동의 값이 존재하지 않습니다.\n회원가입을 다시 진행해주세요."
+	},
+	
+	"complete_sign_up"		:	{
+		"add_dsc"	:	"<p>메일에 있는 인증 버튼을 눌러 인증을 완료하시면 로그인이 가능합니다.</p><p>인증 메일이 확인 되지 않는다면 스팸 메일함을 확인해주시거나 <br>인증 메일을 재전송하실 수 있습니다.</p>"
+	},
+	
+	"completion_of_membership"		:	{
+		"dsc_tl"	:	"회원가입 완료"
+	   ,"add_dsc"	:	"<p><span>법무법인(유) 율촌 웹사이트</span>에 가입해주셔서 감사합니다.</p><p>지금 로그인하시면 최신 법무 정보 및 세미나 신청, 뉴스레터 정기 구독 등<br>다양하고 유익한 서비스를 더 편리하게 누리실 수 있습니다.</p>"
+	},
+	
+	"incomplete_email_address_confirmation"		:	{
+		"dsc_tl"	:	"이메일 인증 미완료 안내"
+	},
+	
+	"session_time_out"		:	{
+		"dsc_tl"	:	"인증 유효시간 초과"
+	   ,"membership_application_add_dsc"	:	"<p>인증 유효시간이 초과하여 인증할 수 없습니다.</p><p>하단의 인증 메일 재전송 버튼을 이용하여 인증메일을 <br>한번 더 전송하실 수 있습니다.</p>"
+	   ,"find_add_dsc"	:	"<p>인증 유효시간이 초과하여 인증할 수 없습니다. <br>하단의 인증메일 재전송 버튼을 이용하여<br>인증 메일을 다시 전송하실 수 있습니다.</p>"
+	   ,"my_account_add_dsc"	:	"<p>인증 유효시간이 초과하여 인증할 수 없습니다. <br>하단의 인증메일 재전송 버튼을 이용하여<br>인증 메일을 다시 전송하실 수 있습니다.</p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>인증 유효시간이 초과하여 인증할 수 없습니다.<br>하단의 인증메일 재전송 버튼을 이용하여<br>인증 메일을 한번 더 전송하실 수 있습니다.</p>"
+	},
+	
+	"verification_failure"	:	{
+		"dsc_tl"	:	"인증 실패"
+	   ,"membership_application_add_dsc"	:	"<p>유효하지 않은 링크입니다.</p><p>이미 재전송된 메일을 확인해주시거나<br>하단의 인증 메일 재전송 버튼을 이용하여 인증메일을  <br>한번 더 전송하실 수 있습니다.</p>"
+	   ,"find_add_dsc"	:	"<p>유효하지 않은 링크입니다. <br>이미 재전송된 메일을 확인해주시거나<br>하단의 인증메일 재전송 버튼을 이용하여<br>인증 메일을 한번 더 전송하실 수 있습니다.</p>"
+	   ,"my_account_add_dsc"	:	"<p>유효하지 않은 링크입니다. <br>이미 재전송된 메일을 확인해주시거나<br>하단의 인증메일 재전송 버튼을 이용하여 인증 메일을 <br>한번 더 전송하실 수 있습니다.</p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>유효하지 않은 링크입니다. <br>이미 재전송된 메일을 확인해주시거나<br>하단의 인증메일 재전송 버튼을 이용하여<br>인증 메일을 한번 더 전송하실 수 있습니다.</p>"
+	},
+	
+	"complete"			: 	{
+		"find_out_pw"	: "비밀번호를 잊으셨다면?<span><a href=\"javascript:find.fnFindOutPW();\">비밀번호 찾기</a></span>"
+	},
+	
+	"find_out_email_address_or_id"	: 	{
+		"legend"				:	"이메일(아이디)찾기  폼"
+		
+	   ,"name_placeholder"		:	"이름"
+	   ,"nameEmpty"				:	"이름을 입력해 주세요."
+	   
+	   ,"cellphone_placeholder"	:	"휴대 전화번호('-'는 제외)"
+	   
+	   ,"al_left"				:	"비밀번호를 잊으셨다면?<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutPW();\">비밀번호 찾기</a></span>"
+
+	   ,"alert_find_out_email_address_or_id"				:	"등록된 정보를 찾을 수 없습니다."
+	},
+	
+	"find_out_password"	: 	{
+	   "al_left"		:	"이메일(아이디)를 잊으셨다면?<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutEmail();\">이메일(아이디) 찾기</a></span>"
+	   
+	   ,"alert_find_out_password"				:	"등록된 정보를 찾을 수 없습니다."
+	},
+	
+	"password_change"	:	{
+		"password_change_p"			:	"영문 대문자, 소문자, 숫자, 특수문자 중 3가지 이상을<br>조합하여 8~20자리로 구성해야 합니다."
+	   ,"legend"					:	"비밀번호 변경 폼"
+	   ,"opw_placeholder"			:	"기존 비밀번호"
+	   ,"npw_placeholder"			:	"새로운 비밀번호"
+	   ,"rnpw_placeholder"			:	"새로운 비밀번호 재입력"
+	   ,"alert_password_change"		:	"비밀번호가 재설정되었습니다.\n변경된 비밀번호로 로그인해주세요."
+	},
+	
+	"sending_confirmation_email"	:	{
+		"add_dsc"	:	"<p>메일에 있는 인증 버튼을 눌러 재설정을 위한 인증을 완료하시기 바랍니다.<br>인증 메일이 확인되지 않는다면 스팸 메일함을 확인해주시거나 인증메일을 재전송하실 수 있습니다.</p>"
+	},
+	
+	"confirmation_of_password"	:	{
+		"dsc_tl"	:	"비밀번호 확인"
+	   ,"pw_confirm":	"비밀번호 확인"
+	   ,"password_placeholder"	:	"비밀번호"
+	   ,"alert_confirmation_of_password"	:	"비밀번호를 다시 확인해주세요."
+	},
+	
+	"membership_withdrawal"		:	{
+		"dsc_tl"	:	"회원 탈퇴 완료"
+	   ,"add_dsc"	:	"<p>법무법인(유) 율촌 웹사이트를 이용해 주셔서 감사합니다.</p>"
+	},
+	
+	"my_info"	:	{
+		"fm_txt_info"		:	"<span class=\"txt_essential\">*표기</span>는 필수 입력 항목입니다."
+	   ,"createDate"		:	"가입일"
+	   ,"email"				:	"이메일(법인)"
+	   ,"password"			:	"비밀번호"
+	   ,"password_change"	:	"비밀번호 변경"
+	   ,"memberName"		:	"이름"
+	   ,"cellphone"			:	"휴대전화번호<span class=\"txt_essential\">*</span>"
+	   ,"companyName"		:	"법인명"
+	   ,"lawyerYN"			:	"법조인 여부"
+	   ,"user_yes"			:	"예"
+	   ,"user_none"			:	"아니오"
+	   ,"phone"				:	"법인 전화번호"
+	   ,"department"		:	"부서명"
+	   ,"companyLevel"		:	"직함"
+	   ,"interestPart"		:	"관심분야"
+	   ,"partChoice"		:	"분야 선택"
+	   ,"serviceYN"			:	"서비스 수신"
+	   ,"info_txt"			:	"<em>회원 가입 시, 마케팅 수집/이용, 마케팅 수신 모두에 동의하지 않으셨거나 1개만 동의하신 경우, '미동의'로 설정되어 있습니다. 뉴스레터, 세미나 초청장 등의 수신을 원하시면 '동의'를 체크하여 주시고, 이는 마케팅 수집/이용, 수신 모두에 동의하신 것과 동일합니다.</em><em>동의에서 미동의로 체크하실 경우, 마케팅 수집/이용, 수신 모두에 미동의하신 것으로 간주하고 뉴스레터, 세미나 초청장 등이 발송되지 않도록 하겠습니다.</em>"
+	   ,"agree"				:	"동의"
+	   ,"nonagree"			:	"미동의"
+	   ,"update"			:	"수정완료"
+	   ,"withdrawal_txt"	:	"회원탈퇴"
+	   ,"withdrawal"		:	"탈퇴하기"
+	   ,"alert_my_info"		:	"등록된 정보를 찾을 수 없습니다."
+	   ,"confirm_my_info"	:	"회원 탈퇴를 하시면 율촌의 회원전용\n서비스를 더이상 받아보실 수 없으며,\n동일한 이메일로 30일간 재가입이\n불가능합니다.\n탈퇴하시겠습니까?"
+	},
+	
+	"my_seminar"	:	{
+		"detailView"		:	"상세보기"
+	   ,"pdfDownload"		:	"참석 확인서"
+	   ,"seminarTime"		:	"개최일시"
+	   ,"place"				:	"장소"
+	   ,"recruitingDate"	:	"접수일시"
+	   ,"recruitingDateView":	"접수일시"
+	   ,"requestNumber"		:	"접수번호"
+	   ,"keyword"			:	"세미나 검색"
+	   ,"keyword_title"		:	"세미나 검색어 입력"
+	   ,"not_attending"		:	"미참석"
+	   ,"before_attendance"	:	"참석 전"
+	},
+	
+	"my_account"	:	{
+		"add_dsc"	:	"<p>메일에 있는 인증 버튼을 눌러 재설정을 위한 인증을 완료하시기 바랍니다.</p><p>인증 메일이 확인 되지 않는다면 스팸 메일함을 확인해주시거나 <br>인증 메일을 재전송하실 수 있습니다.</p>"
+	},
+	
+	"regular_password_change"	:	{
+		"txt_dsc"			:	"법무법인(유) 율촌에서는<br>회원님의 개인정보를 안전하게 관리하여 개인정보 도용으로 인한 피해를 방지 하고자<br><span>11개월 단위로 비밀번호 변경</span>을시행하고 있습니다. <br>기한 내 변경하지 않으실 경우 자동 회원 탈퇴 처리되오니<br>이용에 불편이 없으시길 바랍니다.<br>"
+	   ,"time_to_change"	:	"변경기한"
+	   ,"year"				:	"년"
+	   ,"month"				:	"월"
+	   ,"date"				:	"일"
+	   ,"till"				:	"까지"
+	},
+	
+	"my_pdf"	:	{
+		"confirmation_of_participation"	:	"참석확인서"
+	   ,"date"							:	"일시"
+	   ,"venue"							:	"장소"
+	   ,"topics_and_speakers"			:	"발표 주제 및 연사"
+	   ,"presentation1"					:	"발표I"
+	   ,"presentation2"					:	"발표II"
+	   ,"presentation3"					:	"발표III"
+	   ,"presentation4"					:	"발표IV"
+	   ,"presentation5"					:	"발표V"
+	   ,"participant"					:	"참석자"
+	   ,"yulchon"						:	"법무법인(유) 율촌"
+	},
+	
+	"send_message"	:	"<span>{{email}}</span>(으)로<br> 인증 메일을 발송했습니다."
+}

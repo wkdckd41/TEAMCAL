@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMapConfig PUBLIC "-//iBATIS.com//DTD SQL Map Config 2.0//EN" "http://www.ibatis.com/dtd/sql-map-config-2.dtd">
+
+<sqlMapConfig>
+	<settings cacheModelsEnabled="true"
+            enhancementEnabled="false"
+            lazyLoadingEnabled="false"
+            maxRequests="512"
+            maxSessions="128"
+            maxTransactions="32"
+            useStatementNamespaces="true"
+            defaultStatementTimeout="300" />
+            
+	<sqlMap resource="egovframework/sqlmap/sample/EgovSample_Sample_SQL.xml"/>
+	<sqlMap resource="egovframework/membership/sqlmap/Membership_SQL.xml"/>
+	<sqlMap resource="egovframework/calendar/sqlmap/Calendar_SQL.xml"/>
+
+
+</sqlMapConfig>

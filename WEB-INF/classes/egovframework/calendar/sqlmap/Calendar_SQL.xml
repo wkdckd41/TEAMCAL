@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap PUBLIC "-//iBATIS.com//DTD SQL Map 2.0//EN" "http://www.ibatis.com/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="Calendar">
+
+    <typeAlias alias="egovMap" type="egovframework.rte.psl.dataaccess.util.EgovMap"/>
+    <typeAlias alias="calendarVO" type="egovframework.calendar.vo.CalendarVO"/>
+    <typeAlias alias="mainVO" type="egovframework.calendar.vo.MainVO"/>
+    <typeAlias alias="memoVO" type="egovframework.calendar.vo.MemoVO"/>
+    <typeAlias alias="memberVO" type="egovframework.calendar.vo.MemberVO"/>
+    <typeAlias alias="scheduleVO" type="egovframework.calendar.vo.ScheduleVO"/>
+
+    <!-- 스터디 신규 생성 -->
+    <insert id="calendarDAO.insertRegisterStudy" parameterClass="calendarVO" >
+        <selectKey resultClass="int" keyProperty="studySeq">
+            SELECT IFNULL(MAX(STUDY_SEQ), 0) + 1 FROM STUDY_TBL
+        </selectKey>
+        INSERT INTO STUDY_TBL
+            (STUDY_SEQ
+            ,MEMBER_SEQ
+            ,STUDY_TITLE
+            ,STUDY_DESC
+            ,STUDY_MAJOR
+            ,STUDY_MEM_LIMIT
+            ,STUDY_GRD_LIMIT
+            ,STUDY_FLG)
+        VALUES
+            (#studySeq#
+            ,#memberSeq#
+            ,#studyTitle#
+            ,#studyDesc#
+            ,#studyMajor#
+            ,#studyMemLimit#
+            ,#studyGrdLimit#
+            ,#studyFlg#)
+    </insert>
+    <!-- 스터디 멤버 추가 -->
+    <insert id="calendarDAO.insertStudyMbr" parameterClass="calendarVO" >
+        INSERT INTO STUDY_MBR_TBL
+            (STUDY_SEQ
+            ,MEMBER_SEQ
+            ,STUDY_MBR_NM
+            ,STUDY_MBR_FLG)
+        VALUES
+            (#studySeq#
+            ,#memberSeq#
+            ,#studyMbrNm#
+            ,#studyMbrFlg#)
+    </insert>
+    <!-- 스터디 목록 -->
+    <select id="calendarDAO.selectOpenStudyList" parameterClass="mainVO" resultClass="mainVO">
+        select
+            a.study_seq,
+            a.member_seq,
+            a.study_title,
+            a.study_desc,
+            b.major_nm,
+            a.study_mem_limit,
+            a.study_grd_limit,
+            a.study_flg
+        from study_tbl a
+           , MAJOR_TBL b
+       WHERE 1=1
+         AND a.STUDY_MAJOR = b.MAJOR_SEQ
+       <isNotEmpty property="search_major">
+       	 <isNotEqual property="search_major" compareValue="0">
+       	 AND a.study_major = #search_major#
+       	 </isNotEqual>
+       </isNotEmpty>
+       <isNotEmpty property="search_grd">
+         <isNotEqual property="search_grd" compareValue="0">
+         AND a.STUDY_GRD_LIMIT IN (0, #search_grd#)
+         </isNotEqual>
+       </isNotEmpty>
+       <isNotEmpty property="search_title">
+       	 AND a.STUDY_TITLE LIKE CONCAT('%', #search_title#, '%')
+       </isNotEmpty>
+        ORDER BY A.study_seq DESC
+        LIMIT #startPage#, #pageSize#
+    </select>
+
+    <select id="calendarDAO.selectOpenStudyListCount" resultClass="Integer">
+        select count(study_seq) as totalCount from study_tbl
+    </select>
+
+    <!-- 학과목록 -->
+    <select id="calendarDAO.selectMajorList" parameterClass="mainVO" resultClass="mainVO">
+    	SELECT MAJOR_SEQ as major_seq
+    	     , MAJOR_NM as major_nm
+    	  FROM MAJOR_TBL
+    </select>
+
+    <select id="calendarDAO.selectGetMemoList" parameterClass="memoVO" resultClass="memoVO">
+        SELECT
+            memo_seq
+            ,study_seq
+            ,member_seq
+            ,memo_content
+            ,memo_share_flg
+            ,status
+        FROM MEMO_TBL
+        WHERE study_seq = #study_seq# and status = 1
+        ORDER BY STUDY_SEQ ASC
+    </select>
+
+    <insert id="calendarDAO.insertSetMemoList" parameterClass="memoVO">
+        INSERT INTO MEMO_TBL
+        (study_seq ,member_seq ,memo_content ,memo_share_flg, status)
+        VALUES
+        (#study_seq#, #member_seq#, #memo_content#, 'n', 1)
+    </insert>
+
+    <update id="calendarDAO.updateDelMemoList" parameterClass="memoVO">
+        UPDATE MEMO_TBL SET status = 2 where memo_seq = #memo_seq#
+    </update>
+
+    <select id="calendarDAO.selectCalendarInfo" parameterClass="calendarVO" resultClass="calendarVO">
+        select
+            a.study_seq as studySeq,
+            a.member_seq as memberSeq,
+            a.study_title as studyTitle,
+            a.study_desc as studyDesc,
+            b.major_nm as majorNm,
+            a.study_mem_limit as studyMemLimit,
+            a.study_grd_limit as studyGrdLimit,
+            a.study_flg as studyFlg
+        from study_tbl a LEFT OUTER JOIN MAJOR_TBL b
+            on a.study_major = b.major_seq
+        WHERE a.study_seq = #studySeq#
+    </select>
+
+    <select id="calendarDAO.selectStudyMemberList" parameterClass="memberVO" resultClass="memberVO">
+        select
+        study_seq, member_seq, study_mbr_nm, study_mbr_flg
+        from study_mbr_tbl
+        WHERE study_seq = #study_seq#
+        ORDER BY study_mbr_flg, study_mbr_nm
+    </select>
+
+    <insert id="calendarDAO.insertScheduleList" parameterClass="scheduleVO">
+        INSERT INTO STUDY_SCHEDULE_TBL
+        (study_seq ,start_date ,end_date ,study_schedule_content, status)
+        VALUES
+        (#study_seq#, #start_date#, #end_date#, #study_schedule_content#, 1)
+    </insert>
+
+    <select id="calendarDAO.selectScheduleList" parameterClass="scheduleVO" resultClass="scheduleVO">
+        SELECT
+        start_date as start
+        ,end_date as end
+        ,study_schedule_content as title
+        FROM STUDY_SCHEDULE_TBL WHERE study_seq = #study_seq#
+    </select>
+
+    <select id="calendarDAO.selectStudyRegMember" parameterClass="memberVO" resultClass="memberVO">
+        SELECT member_seq FROM STUDY_MBR_TBL WHERE study_seq = #study_seq# and member_seq = #member_seq#
+    </select>
+
+    <insert id="calendarDAO.insertStudyMemberList" parameterClass="memberVO">
+        INSERT INTO STUDY_MBR_TBL
+        (study_seq ,member_seq ,study_mbr_nm ,study_mbr_flg)
+        VALUES
+        (#study_seq#, #member_seq#, #study_mbr_nm#, #study_mbr_flg#)
+    </insert>
+</sqlMap>

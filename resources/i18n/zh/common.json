@@ -1,0 +1,130 @@
+{
+	"****************************************" : "common_cn",
+	
+
+	"yulchon"		:	"율촌",
+	"print"			:	"프린트",
+	"comma_space"	:	"，",
+	"center_dot"	:	"・",
+	
+	"button"			:{
+		"go"			:	"确认",
+		"save"			:	"保存",
+		"cancel"		:	"취소",
+		"close"			:	"닫기",
+		"share"			:	"공유하기",
+		"like"			:	"좋아요",
+		"closed"		:	"닫힘",
+		"search"		:	"搜索",
+		"select"		:	"선택",
+		"all"			:	"전체",
+		"list"			:	"目录",
+		"learn_more"	:	"查看详情",
+		"shortcut"		:	"바로가기",
+		"view_more"		:	"查看更多",
+		"prev_btn"		:	"上文",
+		"next_btn"		:	"下文"
+	},
+	
+	"login"					: "登录",
+	"request_login"			: "请登录。",
+	"no_result"				: "无搜索结果。",
+	"turn_on_auto_complete"		:	"자동완성 켜기",
+	"turn_off_auto_complete"		:	"关闭自动完成工功能",
+	"no_keyword_result"			:	"无搜索结果。",
+	
+	"alt"					: {
+		"member_represent_image"	: "구성원 대표 이미지"
+	},
+	
+	"************"			: "header start",
+	"business_field"		: "业务领域",
+	"practices"				: "按领域",
+	"industries"			: "按产业",
+	"international"			: "按地域",
+	"member"				: "专业人员",
+	"news_data"				: "消息/资料",
+	"seminar"				: "研讨会",
+	"yulchon_introduce"		: "律村介绍",
+	"social_contribution"	: "社会贡献",
+	"incruit"				: "诚聘人才",
+	"introduction"				:	"介绍",
+	"legal_knowledge"			:	"将法律知识回馈于社会",
+	"sharing"					:	"实现分享的价值",
+	"creating_shared_value"		:	"创造共有价值",
+	"in_the_press"		:	"新闻报道",
+	"publications"		:	"律村期刊",
+	"periodicals"		:	"定期简讯",
+	"legal_update"		:	"最新法律信息",
+	"paper_pub"			:	"论文/著作",
+	"seminars"			:	"研讨会",
+	"seminars_info"	:	"研讨会介绍",
+	"confirmation_of_application"	:	"报名确认",
+	"confirmation_letter"	:	"签发参会确认函",
+	"our_firm"				:	"律村介绍",
+	"overview_values"		:	"概述/价值",
+	"accolades"				:	"获奖内容",
+	"academy"				:	"律村学院",
+	"location"				:	"事务所位置",
+	"global_office"				:	"海外事务所",
+	"yulchon_news"				:	"律村动向",
+	"*******"				: "header end",
+	
+	"business_case"			: "律村业绩",
+	"request_newletter"		: "申请订阅简讯",
+	"labe_word_part_member_news": "搜索业务领域、专业人员、消息/资料",
+	"searchkey_delete"		: "검색어 삭제",
+	"auto_complete_off"		: "关闭自动完成工功能",
+	
+	"alert"					: {
+		"thanks_to_contents": "感谢您对此内容的关注。"
+	},
+	
+	"footer"				: {
+		"legal_notice"					: "免责声明",
+		"privacy_policy"				: "个人信息处理方针",
+		"limited_liability"				: "有限责任",
+		"web_accessibility"				: "网站可访问性支持",
+		"web_acc_popup_content_1"		: "<span>为了减少不便于访问问站人士（如残疾人，老年人）的困扰，我们已按照网页可访问性相关准则的要求制作了网站。</span>",
+		"web_acc_popup_content_2"		: "为了方便所有客户，我们将持续改进。",
+		"site_map"						: "网站地图"
+	},
+	
+	"head"					: {
+			"main_title"		: "法务法人（有限）律村",
+			"main_keyword"		: "律村、法务法人（有限）律村、韩国律所、全球性律所、法律服务、成员、业务领域、消息、资料、获奖、事务所",
+			"main_description"	: "法务法人（有限）律村以“齐心协力共建法律专家之村庄”为理念于1997年设立。以丰富经验和卓越的专业知识为依托的各领域专家在公司法、金融、公平交易、诉讼及知识产权、劳动、海外投资等全部领域提供迅速且精准的服务。"
+		
+	},
+	
+	"title"					: {
+			"download"	:	"다운로드"
+	},
+	
+	"breadcrumb"			: {
+			"home"			: "홈",
+			"share"			: "공유하기",
+			"print_out"		: "프린트"
+			
+	},
+	
+	"ref"						:	{
+			"notice"			:	"公告"
+			,"award"			:	"荣誉"
+			,"seminar"			:	"研讨会"
+			,"contribution"		:	"投稿"
+			,"event"			:	"活动"
+			,"attended_event"	:	"参加活动"
+			,"commission"		:	"聘请"
+			,"selection"		:	"获评"
+			,"publication"		:	"发刊"
+			,"appointment"		:	"任命"
+			,"announcement"		:	"发表"
+			,"interview"		:	"采访"
+	}
+	
+	,"partChoice"		: 	"选择领域"
+	,"check_all"		: 	"全选"
+	,"logout_confirm"	: 	"你确定要退出吗？"
+	,"logout_result"	: 	"确定要退出吗?"
+}

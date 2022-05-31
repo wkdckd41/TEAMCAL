@@ -1,0 +1,268 @@
+{
+	"**********"	:	"membership_en",
+	
+	"head"		:	{
+		"consent_title"			:	"Joining membership, agree to terms and conditions | Yulchon LLC"
+		,"consent_keyword"		:	"Yulchon, joining membership, membership, agree to terms and conditions"
+		,"consent_description"	:	"This page is for Accepting Terms of Membership."
+		,"login_title"			:	"Login | Yulchon LLC"
+		,"login_keyword"		:	"Yulchon, joining membership, membership, login"
+		,"login_description"	:	"This is Yulchon member’s login page"
+		,"id_title"				:	"Find my E-mail(ID) | Yulchon LLC"
+		,"id_keyword"			:	"Yulchon, joining membership, Membership, Login, Email, Find my ID."
+		,"id_description"		:	"This is Yulchon member's email (ID) search page"
+		,"pw_title"				:	"Find my Password | Yulchon LLC"
+		,"pw_keyword"			:	"Yulchon, joining membership, Membership, Login, Email, ID, Find my password"
+		,"pw_description"		:	"This is Yulchon member's password search page"
+	},
+	
+	"logo"					:	"법무법인(유) 율촌",
+	
+	"joinUs"				:	"Membership Application",
+	"membership"			:	"Membership",
+	"findOutAccount"		:	"Find out Email Address (ID)",
+	"findOutPW"				:	"Find out Password",
+	"passwordChange"		:	"Password Change",
+	"rpasswordChange"		:	"Regular Password Change",
+	"emailAuth"				:	"Mail certification",
+
+	"email_resend"			:	"Resend verification email",
+	"main"					:	"Go to Main",
+	"login"					:	"Login",
+	"list"					:	"List",
+
+	"alert_email_resend"	:	"Verification email has been resent.",
+	"alert_change_pw"		:	"Password change has been completed.",
+	"alert_login"			:	"Available after login.",
+	"alert_email"			:	"This is not a regular email address.",
+	"alert_link"			:	"Invalid link.",
+	"alert_opt_out"			:	"Your opt-out process is complete.",
+	"alert_error"			:	"An error has occurred. Please try again.",
+	"alert_find_pw"			:	"Go to “Forgot Password” page",
+	"alert_check"			:	"You are not a registered member.\nPlease confirm your email address and password.",
+	"alert_login_do"		:	"Logged in.",
+	
+	"password_placeholder"	:	"Enter your new password",
+	"password2_placeholder"	:	"Enter your new password again",
+	"phone_placeholder"		:	"Please do not enter ‘-’",
+	
+	"emailEmpty"			:	"Please enter your email.",
+   	"emailFormat"			:	"Please enter your email address in a proper format.",
+   	"emailOverlap"			:	"The email address you have entered is already registered.",
+   	"emailDomain"			:	"Please enter your company’s email address.",
+   	"emailBlack"			:	"You cannot use the above email address.",
+   	
+   	"pw1Empty"				:	"Please enter your password.",
+   	"pw1Format"				:	"Please enter your password in a proper format",
+   	"pw1Blank"				:	"Please enter your password without space.",
+   	"pw1Email"				:	"Password should not be same as Email address.",
+   	"pw1Refresh"			:	"Your new password must be different from the current one.",
+   	
+   	"pw2Empty"				:	"Please enter your new password again.",
+	"pw2Matching"			:	"Passwords do not match.",
+	
+	"opwRefresh"			:	"The password you have entered does not match the current one.",
+	
+	"phEmpty"				:	"Please enter your mobile.",
+	"phFormat"				:	"Please enter your mobile phone number in a proper format.",
+	
+	"tab"	:	{
+		"consent_to_terms_and_conditions"		:	"<span>1</span>Consent to Terms and Conditions"
+	   ,"entry_of_information"					:	"<span>2</span>Entry of Information"
+	   ,"completion_of_membership"				:	"<span>3</span>Completion of Membership"
+	},
+
+	"consent_to_terms_and_conditions"		:	{
+		"next"					:	"Next"
+	},
+	
+	"entry_of_information"		:	{
+		"txt_info"					:	"<span class=\"txt_essential\">Items indicated with asterisk (*) </span>is mandatory."
+	  
+	   ,"legend"					:	"회원가입 폼"
+
+	   ,"email"						:	"Email address (company)<span class=\"txt_essential\">*</span>"
+	   ,"emailSuccess"				:	"You can use the above email address."
+	   
+	   ,"password"					:	"Password<span class=\"txt_essential\">*</span>"
+	   ,"pw1Success"				:	"Your password is safe."
+	   ,"pw_txt_dsc"				:	"Password must contain 8~20 long characters including English alphabets (upper case/lower case letters), numbers and special characters."
+
+	   ,"password2"					:	"Confirmation of password <span class=\"txt_essential\">*</span>"
+	   ,"pw2Success"				:	"Passwords match."
+	   
+	   ,"memberName"				:	"Name<span class=\"txt_essential\">*</span>"
+	   ,"nmEmpty"					:	"Please enter your name."
+	   ,"nmFormat"					:	"Please enter your name with more than two characters."
+	   ,"nmMax"						:	"Please check your name length."
+	   
+	   ,"cellphone"					:	"Mobile phone No.<span class=\"txt_essential\">*</span>"
+	   ,"ph_txt_dsc"				:	"We use your mobile phone number to check if there is any redundant information, but we do not use it for our PR purpose."
+
+	   ,"companyName"				:	"Company name<span class=\"txt_essential\">*</span>"
+	   ,"companyName_placeholder"	:	"Please enter your company name."
+	   ,"cnmEmpty"					:	"Please enter your company name."
+
+	   ,"lawyerYN"					:	"Legal professional"
+	   ,"user_yes"					:	"Yes"
+	   ,"user_none"					:	"No"
+
+	   ,"phone"						:	"Company phone number"
+	   
+	   ,"department"				:	"Name of department"
+	  
+	   ,"companyLevel"				:	"Title"
+
+	   ,"interestPart"				:	"Areas of interest"
+	   ,"partChoice"				:	"Select Area"
+	   
+	   ,"joinComplete"				:	"Completion of Membership"
+
+	   ,"alert_consent_to_terms_and_conditions"		:	"Please confirm your Required information The consent value."
+	},
+	
+	"complete_sign_up"		:	{
+		"add_dsc"	:	"<p>You can log in after completing verification by clicking verification button in your email.</p><p>If you do not receive the verification email, please check your spam mailbox or click the resend verification email button.</p>"
+	},
+	
+	"completion_of_membership"		:	{
+		"dsc_tl"	:	"Completion of Membership"
+	   ,"add_dsc"	:	"<p>Thank you for your membership to <span>Yulchon LLC’s website!</span></p><p class=\"non_br\">If you log in now, you can enjoy a variety of helpful service more conveniently. <br>You can get most recent legal information, apply for participation in seminars and sign up for a subscription to our newsletters.</p> <br><p class=\"non_br\">Yulchon implements the change password every eleven months in order to prevent you from <br>suffering any damages due to the theft of personal information by safely managing your <br>personal information. Please note that if you do not make any password changes within the due <br>date, you will be automatically withdrawn from Yulchon membership.</p>"
+	},
+	
+	"incomplete_email_address_confirmation"		:	{
+		"dsc_tl"	:	"Information on Email Verification"
+	},
+	
+	"session_time_out"		:	{
+		"dsc_tl"	:	"Session Time Out"
+	   ,"membership_application_add_dsc"	:	"<p>Your verification session has been timed out and authentication cannot be performed. <br>You can send the verification mail again by using the <br>authentication mail resend button below.</p>"
+	   ,"find_add_dsc"	:	"<p>Your verification session has been timed out and authentication cannot be performed. <br>You can send the verification mail again by using the authentication mail resend button below.</p>"
+	   ,"my_account_add_dsc"	:	"<p>Your verification session has been timed out and authentication cannot be performed. <br>You can send the verification mail again by using the authentication mail resend button below.</p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>Your verification session has been timed out and authentication cannot be performed.<br>You can send the verification mail again by using the authentication mail resend button below.</p>"
+	},
+	
+	"verification_failure"	:	{
+		"dsc_tl"	:	"Verification Failure"
+	   ,"membership_application_add_dsc"	:	"<p>This page isn’t valid anymore.</p><p>You can confirm the already resent email or you can send verification mail <br>again by clicking the ‘resend a verification mail’ button below.</p>"
+	   ,"find_add_dsc"	:	"<p>This page isn’t valid anymore. <br>You can confirm the already resent email or you can send verification mail again by clicking the ‘resend a verification mail’ button below.</p>"
+	   ,"my_account_add_dsc"	:	"<p>This page isn’t valid anymore. <br>You can confirm the already resent email or you can send verification mail again by clicking the ‘resend a verification mail’ button below.</p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>This page isn’t valid anymore.<br>You can confirm the already resent email or you can send verification mail again by clicking the ‘resend a verification mail’ button below.</p>"
+	},
+	
+	"complete"			: 	{
+		"find_out_pw"	: "Forgot your password?<span><a href=\"javascript:find.fnFindOutPW();\">Find out Password</a></span>"
+	},
+	
+	"find_out_email_address_or_id"	: 	{
+		"legend"				:	"이메일(아이디)찾기  폼"
+		
+	   ,"name_placeholder"		:	"Name"
+	   ,"nameEmpty"				:	"Please enter your name."
+	   
+	   ,"cellphone_placeholder"	:	"Mobile phone number (please do not enter ‘-’)"
+	   
+	   ,"al_left"				:	"Forgot your password?<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutPW();\">Find out Password</a></span>"
+
+	   ,"alert_find_out_email_address_or_id"				:	"We cannot find your registeration information."
+	},
+	
+	"find_out_password"	: 	{
+	   "al_left"		:	"Forgot your email address (ID)?<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutEmail();\">Find out Email Address (ID)</a></span>"
+	   
+	   ,"alert_find_out_password"				:	"We cannot find your registeration information."
+	},
+	
+	"password_change"	:	{
+		"password_change_p"			:	"Password must contain 8~20 long characters including English alphabets (upper case/lower case letters), numbers and special characters."
+	   ,"legend"					:	"비밀번호 변경 폼"
+	   ,"opw_placeholder"			:	"Enter current password"
+	   ,"npw_placeholder"			:	"Enter your new password"
+	   ,"rnpw_placeholder"			:	"Enter your new password again"
+	   ,"alert_password_change"		:	"Password change has been completed."
+	},
+	
+	"sending_confirmation_email"	:	{
+		"add_dsc"	:	"<p>Please complete verification by clicking change button in your email.<br>If you do not receive the verification email, please check spam mailbox or click the resend verification email button.</p>"
+	},
+	
+	"confirmation_of_password"	:	{
+		"dsc_tl"	:	"Confirmation of Password"
+	   ,"pw_confirm":	"Confirmation of Password"
+	   ,"password_placeholder"	:	"password"
+	   ,"alert_confirmation_of_password"	:	"Please confirm your password."
+	},
+	
+	"membership_withdrawal"		:	{
+		"dsc_tl"	:	"Completion of Membership Withdrawal"
+	   ,"add_dsc"	:	"<p>Thank you for using Yulchon’s website.</p>"
+	},
+	
+	"my_info"	:	{
+		"fm_txt_info"		:	"<span class=\"txt_essential\">Items indicated with asterisk (*) </span>is mandatory."
+	   ,"createDate"		:	"Joining Date"
+	   ,"email"				:	"Email address (company)"
+	   ,"password"			:	"Password<span class=\"txt_essential\">*</span>"
+	   ,"password_change"	:	"Password Change"
+	   ,"memberName"		:	"Name"
+	   ,"cellphone"			:	"Mobile phone No.<span class=\"txt_essential\">*</span>"
+	   ,"companyName"		:	"Company name"
+	   ,"lawyerYN"			:	"Legal professional"
+	   ,"user_yes"			:	"Yes"
+	   ,"user_none"			:	"No"
+	   ,"phone"				:	"Company phone number"
+	   ,"department"		:	"Name of department"
+	   ,"companyLevel"		:	"Title"
+	   ,"interestPart"		:	"Areas of interest"
+	   ,"partChoice"		:	"Select Area"
+	   ,"serviceYN"			:	"Receipt of service available to Yulchon members only"
+	   ,"info_txt"			:	"<em>You can enjoy special service available to Yulchon members only such as simplified application for seminars/receipt of newsletters regarding your areas of interest.</em>"
+	   ,"agree"				:	"Consent"
+	   ,"nonagree"			:	"Do Not Consent"
+	   ,"update"			:	"Completion of Change"
+	   ,"withdrawal_txt"	:	"Membership Withdrawal"
+	   ,"withdrawal"		:	"Membership Withdrawal"
+	   ,"alert_my_info"		:	"No registered information found."
+	   ,"confirm_my_info"	:	"If you cancel your membership, you will not be eligible for services available to Yulchon members only, rejoining membership by using the same email will be prohibited for 30 days."
+	},
+	
+	"my_seminar"	:	{
+		"detailView"		:	"Detailed View"
+	   ,"pdfDownload"		:	"Confirmation of participation"
+	   ,"seminarTime"		:	"Date of Seminar"
+	   ,"place"				:	"Venue"
+	   ,"recruitingDate"	:	"Registration Date"
+	   ,"recruitingDateView":	"Date of Registration"
+	   ,"requestNumber"		:	"Registration No."
+	   ,"keyword"			:	"Search Seminar"
+	   ,"keyword_title"		:	"Search Seminar"
+	   ,"not_attending"		:	"Do not participate"
+	   ,"before_attendance"	:	"Before participation"
+	},
+	
+	"my_account"	:	{
+		"add_dsc"	:	"<p>Please complete verification by clicking change button in your email. <br>If you do not receive the verification email, please check spam mailbox or click the resend verification email button.</p>"
+	},
+	
+	"regular_password_change"	:	{
+		"txt_dsc"			:	"Yulchon implements the <span>change password every eleven months</span> in order to prevent you from suffering any damages due to the theft of personal information by safely managing your personal information. <br>Please note that if you do not make any password changes within the due date, you will be automatically withdrawn from Yulchon membership."
+	   ,"time_to_change"	:	"Due Date"
+	   ,"till"				:	"Until"
+	},
+	
+	"my_pdf"	:	{
+		"confirmation_of_participation"	:	"Confirmation of Participation"
+	   ,"date"							:	"Date"
+	   ,"venue"							:	"Venue"
+	   ,"topics_and_speakers"			:	"Topics and Speakers"
+	   ,"presentation1"					:	"Presentation I"
+	   ,"presentation2"					:	"Presentation II"
+	   ,"presentation3"					:	"Presentation III"
+	   ,"presentation4"					:	"Presentation IV"
+	   ,"presentation5"					:	"Presentation V"
+	   ,"participant"					:	"Participant"
+	   ,"yulchon"						:	"Yulchon LLC"
+	},
+	
+	"send_message"	:	"Verification email has been sent to <span>{{email}}</span>"
+}

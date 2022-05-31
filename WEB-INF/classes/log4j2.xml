@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+	<Properties>
+		<property name="log-path">C:\Emotion\system\logs\front_official</property>
+	</Properties>
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+	       	<PatternLayout>
+				<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+			</PatternLayout>
+<!--             <PatternLayout pattern="%d %5p [%c] %m%n" /> -->
+        </Console>
+        <RollingFile name="file" fileName="${log-path}/emotion-web.log"
+			filePattern="${log-path}/emotion-web-%d{yyyy-MM-dd}.log">
+		<PatternLayout>
+			<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+		</PatternLayout>
+		<Policies>
+			<TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+		</Policies>
+		</RollingFile>
+    </Appenders>
+    
+    <Loggers>
+        <Logger name="java.sql" level="INFO" additivity="false">
+            <appender-ref ref="console"/>
+            <AppenderRef ref="file" />
+        </Logger>
+		<logger name="jdbc.audit" level="INFO" additivity="false">
+			<appender-ref ref="console"/>
+			<appender-ref ref="file"/>
+		</logger>
+		<logger name="jdbc.resultset" level="ERROR" additivity="false">
+			<appender-ref ref="console"/>
+			<appender-ref ref="file"/>
+		</logger>
+		<logger name="jdbc.resultSettable" level="INFO" additivity="false">
+			<appender-ref ref="console"/>
+		</logger>
+        <Logger name="egovframework" level="INFO" additivity="false">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="file" />
+        </Logger>
+          <!-- log SQL with timing information, post execution -->
+        <Logger name="jdbc.sqltiming" level="ERROR" additivity="false">
+            <AppenderRef ref="console" />
+        </Logger>
+        <Logger name="org.springframework" level="ERROR" additivity="false">
+            <appender-ref ref="console"/>
+            <AppenderRef ref="file" />
+        </Logger>
+        <Logger name="org.apache.ibatis" level="INFO" additivity="false">
+            <appender-ref ref="console"/>
+            <AppenderRef ref="file" />
+        </Logger>
+        <Root level="INFO">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="file" />
+        </Root>
+    </Loggers>
+</Configuration>

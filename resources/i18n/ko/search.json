@@ -1,0 +1,43 @@
+{
+	"****************" : "search_ko"
+	
+	,"all"				:	"All"
+	,"expertise"		:	"업무분야"
+	,"deals_and_cases"	:	"업무사례"
+	,"professionals"	:	"구성원"
+	,"yulchon_news"		:	"율촌소식"
+	,"in_the_press"		:	"언론보도"
+	,"publications"		:	"간행물"
+	,"periodicals"		:	"정기뉴스레터"
+	,"legal_update"		:	"최신법률정보"
+	,"paper_pub"		:	"논문/저서"
+
+	,"search"					:	"검색"
+	,"all_search"				:	"통합검색"
+	,"search_keyword_input"		:	"검색 키워드를 입력하세요."
+	,"search_keyword_delete"		:	"검색 키워드를 입력하세요."
+	
+	,"result"		:	{
+		"total"					:	"<span class=\"main_blue\">“{{keyword}}”</span>에 대한 검색결과가 <span class=\"main_blue\">“{{count}}”</span>건 입니다."
+		,"practices_result"		:	"업무분야 <span class=\"main_blue\">({{count}})</span>"
+		,"pro_result"			:	"구성원 <span class=\"main_blue\">({{count}})</span>"
+		,"case_result"			:	"업무사례 <span class=\"main_blue\">({{count}})</span>"
+		,"news_result"			:	"율촌소식 <span class=\"main_blue\">({{count}})</span>"
+		,"media_result"			:	"언론보도 <span class=\"main_blue\">({{count}})</span>"
+		,"pub_result"			:	"간행물 <span class=\"main_blue\">({{count}})</span>"
+	}
+	
+	,"search_title"	:	{
+		"pro_result"			:	"<strong class=\"search_title\">구성원 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"practices_result"		:	"<strong class=\"search_title\">업무분야 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"case_result"			:	"<strong class=\"search_title\">업무사례 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"news_result"			:	"<strong class=\"search_title\">율촌소식 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"media_result"			:	"<strong class=\"search_title\">언론보도 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"pub_result"			:	"<strong class=\"search_title\">간행물 <span class=\"main_blue\">({{count}})</span></strong>"
+	}
+	
+	,"practices"		: "분야별"
+	,"industries"		: "산업별"
+	,"international"	: "지역별"
+	,"etc"				: "기타"
+}

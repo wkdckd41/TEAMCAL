@@ -1,0 +1,123 @@
+{
+	"*****" : "seminars_en"
+	
+	,"head"		:	{
+		"info_title"			:	"Seminar Information  | Yulchon LLC"
+		,"info_keyword"			:	"Yulchon, seminar, briefing, event, conference, event, issue, plan, issue, response, strategy, note, trend, advance, discussion, guide, reception"
+		,"info_description"		:	"Yulchon guides you to domestic and international seminars which are held by Yulchon on various industries, regions and fields."
+		,"view_title"			:	"Seminar Information  | Yulchon LLC"
+		,"view_keyword"			:	"Yulchon, seminar, briefing, event, conference, event, issue, plan, issue, response, strategy, note, trend, advance, discussion, guide, reception"
+		,"view_description"		:	"Yulchon guides you to domestic and international seminars which are held by Yulchon on various industries, regions and fields."
+		,"login_title"			:	"Application for Seminar | Yulchon LLC"
+		,"login_keyword"		:	"Yulchon, attend, application, guide"
+		,"login_description"	:	"You can apply for the Yulchon Seminar"
+		,"reg_title"			:	"Confirmation of seminar reception | Yulchon LLC"
+		,"reg_keyword"			:	"Yulchon, attend, application, guide, receipt"
+		,"reg_description"		:	"You can check whether you have been enrolled to the Yulchon's Seminar."
+	}
+	
+	,"attach_file"					:	"Attachment"
+	,"seminar"						:	"Seminar"
+	,"search_for_seminars"			:	"Search for seminars"
+	,"title_search_for_seminars"	:	"세미나 검색어 입력"
+	,"no_result"					:	"No Result Found"
+	,"btn_apply"					:	"Register Now"
+	,"btn_close"					:	"Applications are closed"
+	,"webinar_apply"				:	"Join Webinar"
+	
+	,"non_member_box"				:	"If you are a <span>member</span>, please click the button below for <span>simple</span> registration process. "
+	,"simple_registration_process"	:	"Simple Registration Process"
+	,"non_member_txt"				:	"Non-member Login <br><span class=\"m_hide\">(If you become a member, you can enjoy several benefits including simple registration process and issuance of confirmation of attendance)</span>"
+	,"fm_txt_info"					:	"<span class=\"txt_essential\">*</span>indicates a required field."
+	,"lg_hidden"					:	"(If you become a member, you can enjoy several benefits including simple registration process and issuance of confirmation of attendance)"
+	
+	,"member_title"					:	"Please confirm your registration information below."
+	
+	,"name"							:	"Name<span class=\"txt_essential\">*</span>"
+	,"nmEmpty"						:	"Please enter your name."
+	,"nmFormat"						:	"Please enter your name with more than two characters."
+	,"nmMax"						:	"Please check your name length."
+
+	,"cellphone"					:	"Mobile phone No.<span class=\"txt_essential\">*</span>"
+	,"cellphone_placeholder"		:	"Please do not enter ‘-’"
+	,"phEmpty"						:	"Please enter your mobile."
+	,"phFormat"						:	"Please enter your mobile phone number in a proper format."
+	,"cellphone_txt"				:	"We use your mobile phone number to check if there is any redundant information, but we do not use it for our PR purpose."
+	
+	,"companyName"					:	"Company name<span class=\"txt_essential\">*</span>"
+	,"companyName_placeholder"		:	"Please enter your company name."
+	,"cnmEmpty"						:	"Please enter your company name."
+
+	,"companyPhone"					:	"Company phone number"
+	
+	,"email"						:	"Email address (company)<span class=\"txt_essential\">*</span>"
+	,"emailEmpty"					:	"Please enter your email address."
+	,"emailFormat"					:	"Please enter your email address in a proper format."
+	,"emailOverlap"					:	"The email address you have entered is already registered."
+	,"emailDomain"					:	"Please enter your company’s email address."
+	,"emailBlack"					:	"You cannot use the above email address."
+	,"emailSuccess"					:	"You can use the above email address."
+	,"email_txt"					:	""
+
+	,"companyLevelEmpty"			:	"Please enter your Job Title."
+	,"cityCountryEmpty"				:	"Please enter your City/Country."
+	,"titleEmpty"					:	"Please enter your Title."
+
+	,"passwordVal"					:	"Please enter your password."
+	
+	,"department"					:	"Name of department"
+	,"companyLevel"					:	"Job Title<span class=\"txt_essential\">*</span>"
+	,"beforeQuestion"				:	"ETC"
+	
+	,"member_name"					:	"Name"
+	,"member_email"					:	"Email address (company)"
+	
+	,"cancel"						:	"Cancel"
+	,"apply"						:	"Register"
+	,"send"							:	"Send"
+	,"membership"					:	"Membership"
+	,"login"						:	"Login"
+	,"findId"						:	"Find Email Address (ID)"
+	,"findPw"						:	"Find Password"
+	
+	,"confirm_cancel"				:	"Are you sure you want to cancel this process?"
+	,"confirm_apply"				:	"Do you confirm your registration?"
+	,"alert_validation"				:	"Please complete your required fields."
+	
+	,"registration_check_box"		:	"<p>If you become a member, you can use our simple registration process and we can issue a confirmation of attendance to you.</p> "
+	,"registration_check_nomember"	:	"Registration Check (for Non-members)"
+	,"registration_check_member"	:	"Registration Check (for Members)"
+	,"nonmemberName"				:	"Name"
+	,"nonmemberName_placeholder"	:	"Name"
+	,"nonmemberName_txt"			:	"<p>Please enter your email address you originally used for registration.</p>"
+	,"password_placeholder"			:	"Passwod"
+	,"simple_reg_check"				:	"Simple Process"
+	
+	,"alert_reg_mail"				:	"A confirmation email has been sent."
+	,"alert_no_result"				:	"No result found. Are you sure you entered your name and email address correctly?"
+	,"alert_find_pw"				:	"Go to “Forgot Password” page"
+	,"alert_member_no"				:	"No result found. Are you sure you entered your name and email address correctly?"
+	
+	,"info_of_confirmation"			:	"Guide to Issuance of Confirmation of Attendance"
+	,"p_of_confirmation"			:	"[Issuance of Confirmation of Attendance] is available only for Yulchon members.<br>If you are a member, please click the Login button below."
+	
+	,"info_of_close_seminar"		:	"Registration Closing Information"
+	,"p_of_close_seminar"			:	"Registration for this seminar is not available."
+	,"btn_seminar_infomation"		:	"Go to List of Seminars"
+	
+	,"txt_complete"					:	"Your registration has been completed successfully."
+	,"seminarName"					:	"Seminar Title"
+	,"seminarTime"					:	"Date and Time"
+	,"place"						:	"Place"
+	,"createDate"					:	"Registration Time"
+	,"requestNumber"				:	"Registration No."
+	,"list"							:	"List"
+
+	,"tab"				:	{
+		"list_of_seminars"						:	"List of Seminars"
+	   ,"registration_check"					:	"Registration Check"
+	   ,"issue_of_confirmation_of_attendance"	:	"Issue of Confirmation of Attendance"
+	}
+	
+	,"registration_check"			:	"Seminar > Registration Check"
+}

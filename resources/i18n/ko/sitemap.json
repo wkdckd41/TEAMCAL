@@ -1,0 +1,51 @@
+{
+	"****************" : "sitemap_ko"
+	
+	,"business_field"		: "업무분야"
+	,"practices"			: "분야별"
+	,"industries"			: "산업별"
+	,"international"		: "지역별"
+	,"member"				: "구성원"
+	,"news_data"			: "소식/자료"
+	,"seminar"				: "세미나"
+	,"yulchon_introduce"	: "율촌소개"
+	,"incruit"				: "인재채용"
+	
+	,"deals_and_cases"	:	"업무사례"
+	,"yulchon_news"		:	"율촌소식"
+	,"in_the_press"		:	"언론보도"
+	,"publications"		:	"간행물"
+	,"periodicals"		:	"정기뉴스레터"
+	,"legal_update"		:	"최신법률정보"
+	,"paper_pub"		:	"논문/저서"
+	
+	,"seminars"			:	"세미나"
+	,"seminars_info"	:	"세미나 안내"
+	,"confirmation_of_application"	:	"접수 확인"
+	,"confirmation_letter"	:	"참석 확인서 발급"
+	
+	,"probono"					:	"사회공헌"
+	,"introduction"				:	"소개"
+	,"legal_knowledge"			:	"법률지식의 사회환원"
+	,"sharing"					:	"나눔의 가치 실현"
+	,"creating_shared_value"	:	"공유가치 창출"
+	
+	,"our_firm"				:	"율촌 소개"
+	,"overview_values"		:	"개요/가치"
+	,"accolades"			:	"수상 내역"
+	,"academy"				:	"아카데미"
+	,"location"				:	"사무소 위치"
+	
+	,"careers"				:	"인재채용"
+
+	,"login"				:	"로그인"
+	,"join_us"				:	"회원가입"
+	,"find_email"			:	"이메일(아이디) 찾기"
+	,"find_password"		:	"비밀번호 찾기"
+	
+	,"head"					:	{
+				"title"			:	"사이트맵 | 법무법인(유) 율촌"
+				,"keyword"		:	"율촌, 사이트맵"
+				,"description"	:	"율촌의 사이트맵 페이지입니다."
+	}
+}

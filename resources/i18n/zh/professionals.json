@@ -1,0 +1,46 @@
+{
+	"**********"	:	"professionals_zh",
+	
+	
+	"member_search"				:	" 检索专业人员",
+	"member_condition_search"	: "按条件搜索专业人员",
+	"searchkey_delete"			: "검색어 삭제",
+	
+	"select"		: "선택",
+	"practices"		: "按领域",
+	"industries"	: "按产业",
+	"international"	: "按地域",
+	
+	"member"					: "专业人员",
+	
+	"tab" : {
+		"biography"					:	"<span>简介</span>",
+		"representative_matters"	:	"<span>主要业绩</span>",
+		"awards_recognition"		:	"<span>荣誉/获评</span>",
+		"speech_presentation"		:	"<span>演讲/发表</span>",
+		"news_publications"			:	"<span>消息/资料</span>"
+	},
+	
+	"practice_focus"			:	"主要业务领域",
+	"biography"					:	"简介",
+	"education"					:	"学历",
+	"experience"				:	"经历",
+	"associations"				:	"资格",
+	"languages"					:	"语言",
+	"representative_matters"	:	"主要业绩",
+	"awards_recognition"		:	"荣誉/获评",
+	"speech_presentation"		:	"演讲/发表",
+	"news_publications"			:	"消息/资料",
+	"articles_books"			:	"消息/资料",
+	"news"						:	"消息",
+	
+	"open"							:	"展开",
+	"fold"							:	"收起"
+	
+	,"head"					:	{
+			"title"					:	"成员 | 法务法人（有限）律村"
+			,"keyword"				:	"律村、成员、律师、关税师、会计师、税务师、专利代理人、劳务师、顾问、专门委员、研究员"
+			,"description"			:	"具备最佳的实力和竞争力的律村专家将倾听顾客的心声。"
+	}
+	,"graduate"							:	"졸업"
+}

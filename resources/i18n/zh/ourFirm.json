@@ -1,0 +1,199 @@
+{
+	"****************" : "zh",
+	
+	"our_firm"				:	"律村介绍",
+	"overview_values"		:	"概述/价值",
+	"accolades"				:	"获奖内容",
+	"academy"				:	"律村学院",
+	"location"				:	"事务所位置",
+	
+	"overview"	:	{
+		"overview"				:	"介绍"
+		,"overview_detail_1"	:	"法务法人（有限）律村是六位青年律师以“齐心合力共建法律专家之村落”的情怀创立于1997年。律村没有通过并购方式进行外延式扩充，自成立以来仅仅依靠自身的努力逐步成长为韩国国内具有代表性的律师事务所。<br><br>律村的专业人员兼具卓越的专业知识和丰富的经验，在公司法、金融、公平交易、诉讼和知识产权、劳动、海外投资等企业运作涉及的各个领域，能够为客户迅速、准确地提供全方位法律服务。律村人不仅专业还善于团队协作，为韩国产业领域和法律市场的发展，律村人一直不忘初心、砥砺前行。<br><br>律村正积极走出韩国在海外布局，目前在中国、俄罗斯、越南、缅甸和印度尼西亚设立了海外事务所，并与海外顶尖律师事务所建立了协作关系，为早日成为具有国际影响力的跨国律师事务所而不懈努力。<br><br>律村坚守“为客户奉献”和“提供创新的法律服务”的核心理念，始终致力于为客户提供最佳解决方案。律村将积极应对日益开放的法律市场和急剧变化的法治环境，努力成为韩国具有代表性的引领变革的律师事务所。"
+		,"overview_detail_2"	:	""
+		,"values"				:	"价值"
+		,"values_detail"		:	"律村取得飞跃性成功的核心动力源于律村坚守的三大价值观。"
+		,"commitment_title"		:	"<em>Commitment</em><br>奉献"
+		,"commitment_content"	:	"律村一直致力于为客户提供最佳服务。为客户奉献是律村奉行的运营哲学亦是律村的根基。"
+		,"innovation_title"		:	"<em>Innovation</em><br>创新"
+		,"innovation_content"	:	"不局限于过去，创新解决实际问题的能力是律村人孜孜不倦的追求。客户感受的最佳服务源自于创新的能力。" 
+		,"excellence_title"		:	"<em>Excellence</em><br>卓越"
+		,"excellence_content"	:	"不断吸收的兼具最高专业水平和丰富经验的专业人员，以保持不变的服务优势 律村致力于提供感动客户的卓越服务。"
+	
+	},
+	
+	"academy_tab"	:	{
+		"description_1"								:	"律村坚信律师等专业人员的职业开发和专业成长发展是律村发展的原动力，因此律村不仅鼓励律师进行自我开发，还不吝提供所需支援。律村在韩国律所中率先设立了公司内部常设培训教育机构—“律村学院”。"
+		,"description_2"							:	"“律村学院”自2007年开设至今，常年一直开设着专业人员的职业开发和专业成长发展所需的多种培训课程。律村学院的课程包括对国内外最新法律知识和动向、财务和会计、营销等经营学知识、与客户从事的各产业相关的专业知识、交流和演讲技巧、领导力及人文素养。"
+		,"yulchon_academy_program"					:	"律村学院具有代表性的培训项目"
+		,"new_lawyer_program"						:	"初级律师研修项目" 
+		,"training_academy_program_description"		:	"在初级律师入职后的两个月左右的期间内不分配具体工作，而是集中培训处理法律文件或合同的起草等业务时所需的实务知识、素养、英文和电脑技术等。"
+		,"year_academy_program"						:	"按照工作年限定制职业发展计划"
+		,"year_academy_program_description"			:	"根据不同的工作年限分别制定了各阶段所需的知识和素养培训项目。"
+		,"professional_law_program"					:	"专业化法律培训项目"
+		,"professional_law_program_description"		:	"与律村内部各个团队的专家携手运营着专业法律培训项目，合伙人和社会各界专家人士亲自主讲，深度分析各个领域的新型、专业、复杂法律问题。"
+		,"language_program"							:	"外语定制化培训"
+		,"language_program_description"				:	"开设了英语、日语、汉语和西班牙培训课程，还针对外国律师开设了韩语课程。值得一提的是，为了各专业人员能在平时的工作时间内向专业老师一对一学习外语，律村为各成员提供了独有的定制化外语培训项目。"
+		,"customer_program"							:	"向公司法务等人员提供的培训项目"
+		,"customer_program_description"				:	"律村不仅针对其专业人员，还为法硕学生、公司法务、公司内部法律部门的高管等人员提供定制化培训。"
+		,"bottom_text"								:	"律村不仅针对其成员，还为法硕学生、客户的初级律师、高管和职员及其他法务人员等公司外部人员提供定制化培训。通过这些培训项目，律村人不仅提高了提供优质法律服务的能力，其实现职业目标的可能有效提高。律村律村学院的这些教育成果已被英国《金融时报》等海外媒体推荐为最具独创性和成功的律所培训项目。"
+	}
+	
+	,"year"					:	"Year"
+	,"practice_area"		:	"Practice Area"
+	,"awards_search"		:	"수상내역 검색"
+	,"other_offices"		:	"查看其它事务所"
+	
+	,"nation"			:	{
+		"korea"			:	"韩国"
+		,"russia"		:	"俄罗斯"
+		,"myanmar"		:	"缅甸"
+		,"china"		:	"中国"
+		,"vietnam"		:	"越南"
+		,"indonesia"	:	"印度尼西亚"
+	}
+	
+	,"locale"			:	{
+		"seoul"			:	"首尔"
+		,"moscow"		:	"莫斯科"
+		,"yangon"		:	"仰光"
+		,"shanghai"		:	"上海"
+		,"hochininh"	:	"胡志明"
+		,"hanoi"		:	"河内市"
+		,"jakarta"		:	"雅加达"
+	}
+	
+	,"workpart"			:	{
+		"all"					:	"All"
+		,"mna"					:	"M&A"
+		,"finance"				:	"Finance"
+		,"corporate"			:	"Corporate"
+		,"antitrust"			:	"Antitrust"
+		,"dispute_resolution"	:	"Dispute Resolution"
+		,"tax"					:	"TAX"
+		,"ip"					:	"IP"
+		,"estate"				:	"Real Estate & Construction"
+		,"firm"					:	"Firm"
+		,"etc"					:	"Etc."
+	}
+	
+	,"professionals"		:	"专业人员"
+	,"address"				:	"地址"
+	,"contact_information"	:	"联系方式"
+	,"transportation"		:	"交通指南"
+	,"from_the_airport"		:	"从机场到律村"
+	
+	,"seoul" : {
+		"office_name"					:	"<em>韩国</em>首尔事务所"
+		,"sub_title"					:	"律村首尔事务所秉承“为顾客奉献”和“提供创新服务” 为理念，以“齐心合力共建法律专家之村”为目标，始创于1997年。"
+		,"sub_content"					:	"律村首尔事务所成立以来依靠自身的努力，迅速成长为韩国国内具有代表性的综合性律师事务所。目前在企业法务与金融、公平交易、诉讼、税务、知识产权、房地产建设、境外投资等各个领域，能够为客户提供一站式最佳法律服务。律村为了应对日益开放的国内法律市场和全球化跨境法律问题，首尔事务所已经聘请数十名外国律师，同时还通过在中国、越南、俄罗斯、缅甸、印度尼西亚设立海外事务所，助力海内外客户开拓新兴市场。不仅如此，律村积极与国外一线律师事务所合作，正在建立共同发展的合作网，为早日成为跨国知名律师事务所而不懈努力。目前，律村每年举办50余场有关热点、难点法律问题的大型研讨会，致力于为客户提供切实有效的解决方案。"
+		,"sub_content_type2"			:	"今后，律村首尔事务所将继续坚守奉献和创新两大核心理念，以卓越的专业知识努力为客户提供优质法律服务。"
+		,"by_subway"					:	"地铁"
+		,"by_subway_des"				:	"地铁2号线三成站5号出口（与地下通道连接)"
+		,"by_bus"						:	"公交"
+		,"by_bus_des"					:	"站点：贸易中心三成站<br>干线：146、333、341、360、740、N13、N61<br>支线: 3411<br>快车 : 8001<br>小区: 江南07、江南08<br>直达: 500-2、1100、1700、2000、2000-1、7007、303、9414<br>机场大巴: 6103、6006、6704、6000、6104"
+		,"incheon_airport"				:	"仁川国际机场"
+		,"by_bus_airport"				:	"机场大巴"
+		,"by_bus_incheon_airport_des"	:	"乘坐6103 (在三成站下车)、6006 (在贸易中心站下车)、6704 (在洲际酒店下车)<br>时间: 大约需要1小时40分钟 / 距离：大约70km"
+		,"by_taxi"						:	"出租车"
+		,"by_taxi_des"					:	"时间：大约需要1小时20分钟 / 总距离：大约70km"
+		,"gimpo_airport"				:	"金浦国际机场"
+		,"by_bus_gimpo_airport_des"		:	"乘坐6000或6104(在三成站下车)<br>时间: 大约需要1小时 / 总距离：大约30km"
+		,"by_taxi_gimpo_airport_des"	:	"时间：大约需要50分钟 / 总距离：大约30km"
+	}
+	
+	,"moscow" : {
+		"office_name"					:	"<em>俄罗斯</em>莫斯科事务所"
+		,"sub_title"					:	"Based on eight year long experience of providing top notch legal consulting and innovative solutions to Korean businesses pursing investment projects in Russia and Central Asia, Yulchon has opened a representative office in Moscow at the prestigious business center ”White Gardens” alongside with the world renowned law and accounting firms such as “Baker & McKenzie”, “Dentons”, “PriceWaterHouseCoopers” and “Deloitte”. Moscow office shall serve as an output of the firm’s regional “Russia and Central Asia” practice with an aime at developing new and enhancing existing relations with prominent local law firms and sole practitioners in order to better respond to Korean clients’ needs. The firm’s regional “Russia and Central Asia” practice has gained a strong reputation among Korean law firms for having a unique experience of handling a variety of legal issues ranging form M&A, SOC, plant construction, investment in natural resources as well as representing Koreans clients’ interests in courts of all instances in the Russian Federation and some republics of Central Asia. To name a few, by way of our active involvement a Korean client favorable decision by a third instance court was secured in Russia thus overturning the previous court’s decision ordering the Korean respondent, “Korea Aerospace Industries”, to pay $50 million in damages. In Kazakhstan, we successfully represented a Korean construction company “Sambu” by securing an award of $120 million in damages from the courts of all instances starting from Economic court and all the way through the Supreme Court of Kazakhstan."
+		,"sub_content"					:	"In recognition of its contribution to facilitating the needs of Korean investor in Russia our firm was the only law firm invited to accompany the President Myung Bak Lee on his visit to Moscow in September 2008 as part of official delegation from South Korea. The Moscow office is headed by a Russia trained jurist / advocate, the first ever attorney of Korean decent appointed as an arbitrator to the International Commercial Arbitration Court under the auspices of the Chamber of Commerce and Industry of the Russian Federation as well as the Kazakhstani International Arbitrage, who is known for his active role in dispute resolution between parties from Korea and former Soviet Union states. Hwa Joon Lee, a Russia trained jurist and advocate of the Moscow city bar, graduated from school in Russia followed up by a graduation with honors from the department of law of the Moscow State University and International private law graduate studies at the department of law of the Seoul National University. Shortly after he commenced work at the Moscow office of the Clifford Chance law firm he had to return to Korea after 13 years in Russia. Upon arrival he was conscripted to serve as a JAG officer at the contract department of the Ministry of Defense of Korea to oversee procurement of Russian made arms and weapons."
+		,"sub_content_type2"			:	"The firm's regional “Russia and central Asia” practice is made up of Korea, Russia, USA trained attorneys with a deep understanding of cultural economic and legal traditions of the region coupled with diverse practical experience. Among them there are a Russia licensed attorney of Russian decent who has lived and worked in Korea for over 16 years, whose qualifications go beyond Korean language fluency but include personal knowledge of Korean corporate culture; and a paralegal with a prestigious Korean linguistic university major in simultaneous Russian - Korean language interpretation which adds an extra value to the \"Russian and Central Asia\" regional practice team."
+	}
+	
+	,"yangon" : {
+		"office_name"					:	"<em>缅甸</em>仰光事务所"
+		,"sub_title"					:	""
+		,"sub_content"					:	"Yulchon's Myanmar office was established in 2014, following Yulchon's Ho Chi Minh City, Hanoi and Beijing offices. Yulchon's Myanmar strives to deliver legal services related to corporate matters, real estate, finance, construction, SOC projects, and M&A transactions, among others. Yulchon's Myanmar office works closely with Southeast Asia Practice Group of Yulchon LLC to provide professional, accurate and efficient solutions."
+		,"sub_content_type2"			:	""
+		,"airport"						:	"Yangon Mingladon International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30 minutes / 8 km"
+	}
+	
+	,"shanghai" : {
+		"office_name"					:	"<em>中国</em>上海事务所"
+		,"sub_title"					:	"2018年3月1日，律村将中国代表处从北京迁至上海。"
+		,"sub_content"					:	"上海代表处现有三名律师，分别是首席代表姜喜哲（Kang,Hee Chul）律师，许煜（Huh, Wook）韩国律师和太忠男中国律师。姜律师是律村创始合伙人之一，擅长国际并购及其他公司法相关业务；许律师具有北京大学法学博士学位，已在中国工作十余年；太律师从业二十余年来一直专注于中韩法律业务，在该领域具有非常丰富的专业经验。律村的中国业务部门除了中国代表处以外，也包括资深中国专家卞雄载韩国律师和具有中国执业经验的金仲富律师为中心的首尔本部公司与金融部的中国组。律村自2011年在北京开设办事处以来，一直为中韩企业提供高质量的投融资法律服务。借此中国代表处迁移经济中心上海为契机，律村中国业务组将以上海办事处和首尔办事处为节点，整合韩国和遍布全球的业务网络，专注于提供中韩以及多国跨境业务的整体解决方案。"
+		,"sub_content_type2"			:	"律村中国代表处可以用中英韩三种语言为海内外客户提供无语言障碍的一站式法律服务。业务领域包括国际交易、投融资、金融、房地产，IPO、税务、公平交易、知识产权，劳动，诉讼与仲裁等相关的所有法律问题。"
+	}
+	
+	,"hochininh" : {
+		"office_name"					:	"<em>越南</em>胡志明事务所"
+		,"sub_title"					:	"由于持续的经济增长和积极的招商引资政策，包括越南在内的缅甸、印度尼西亚、马来西亚、柬埔寨、泰国、老挝等东南亚国家最近获得了韩国投资者的青睐。"
+		,"sub_content"					:	"律村2007年在胡志明、2010年在河内、2014年在仰光、2017年在雅加达设立了事务所，以便为客户提供与投资越南等东南亚地区有关的全方位法律服务。律村为了向东南亚客户提供系统化和专业化的法律服务，单独成立了由韩国、美国、越南、缅甸、印度尼西亚律师等东南亚地区的法律专家组成的东南亚团队，过去十多年间越南事务所在东南亚团队中起到了关键作用。律村越南事务所一直以来持续为在越南从事多种经营活动的诸多国内外企业提供着法律服务，为客户在越南开展或涉及到的各种并购交易、项目融资交易、转移定价等问题提供过法律咨询。此外，律村近期还为在越南发生的特大纠纷案件提供了最佳解决方案，并在相关诉讼和仲裁中为客户获得了有利结果。"
+		,"sub_content_type2"			:	"律村越南事务所是在东南亚团队中拥有最长历史和丰富经验的事务所，能够基于律村特有的经验和知识为进军越南的企业或打算进军越南的客户提供考虑到法制、经济、文化特征而定制的最佳法律服务。"
+		,"airport"						:	"Tan Son Nhat International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30minutes / 10km"
+	}
+	
+	,"hanoi" : {
+		"office_name"					:	"<em>越南</em>河内市事务所"
+		,"sub_title"					:	"由于持续的经济增长和积极的招商引资政策，包括越南在内的缅甸、印度尼西亚、马来西亚、柬埔寨、泰国、老挝等东南亚国家最近获得了韩国投资者的青睐。"
+		,"sub_content"					:	"律村2007年在胡志明、2010年在河内、2014年在仰光、2017年在雅加达设立了事务所，以便为客户提供与投资越南等东南亚地区有关的全方位法律服务。律村为了向东南亚客户提供系统化和专业化的法律服务，单独成立了由韩国、美国、越南、缅甸、印度尼西亚律师等东南亚地区的法律专家组成的东南亚团队，过去十多年间越南事务所在东南亚团队中起到了关键作用。律村越南事务所一直以来持续为在越南从事多种经营活动的诸多国内外企业提供着法律服务，为客户在越南开展或涉及到的各种并购交易、项目融资交易、转移定价等问题提供过法律咨询。此外，律村近期还为在越南发生的特大纠纷案件提供了最佳解决方案，并在相关诉讼和仲裁中为客户获得了有利结果。"
+		,"sub_content_type2"			:	"律村越南事务所是在东南亚团队中拥有最长历史和丰富经验的事务所，能够基于律村特有的经验和知识为进军越南的企业或打算进军越南的客户提供考虑到法制、经济、文化特征而定制的最佳法律服务。"
+		,"airport"						:	"Noi Bai International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 45 minutes / 22.5 km"
+	}
+	
+	,"jakarta" : {
+		"office_name"					:	"<em>印度尼西亚</em>雅加达事务所"
+		,"sub_title"					:	"Indonesia is the world's fourth most populous country with an immense territory and abundant natural resources, based upon which it could possibly lead to its successful economic growth."
+		,"sub_content"					:	"As Yulchon has noticed Indonesia's growth potential, Yulchon becomes, among so called \"Big 6\", the first Korean law firm that successfully established a co-operative relationship with a renowned Indonesian law firm, Roosdiono & Partners(a member of ZICO law), and set up a local office in Jakarta. With the set-up of a local office in Jakarta, Yulchon has created a platform to provide clients, wishing to start its business in Indonesia, with effective legal services by dispatching Min Taek Lim, Esq. (licensed in the state of Alabama) to the local office in Jakarta, and by retaining an Indonesian lawyer to be dispatched from Roosdiono & Partners to Yulchon."
+		,"sub_content_type2"			:	"Yuchon's local office in Indonesia, in cooperation with its head office, offers legal services in various legal areas including M&A, real estate, construction, finance, PPP and SOC project, etc. to cater to clients' specific needs. Furthermore, Yulchon has organized an Indonesian team in its head office with dedicated members including Bong Hee Han, Esq., Hee Woong Yoon, Esq. (both licensed in Republic of Korea) and Tong Soo Chung, Esq. (licensed in the state of California), Tehyok Daniel Esq. (licensed in the state of New York) to offer superior legal services for those who wish to make a foray into Indonesian market."
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 60 minutes / 30 km"
+	}
+	
+	,"head"			:	{
+		"overview_values_title"				:	"介绍和价值 | 法务法人（有限）律村"
+		,"overview_values_keyword"			:	"律村、法律专家之村庄、1997年、设立、法律服务、专家、合作精神、海外、事务所、全球性"
+		,"overview_values_description"		:	"律村以“齐心协力共建法律专家之村庄”为理念于1997年设立，三大核心价值为顾客奉献、创新精神、卓越的服务。"
+		
+		,"accolades_title"					:	"律村获奖 | 法务法人（有限）律村"
+		,"accolades_keyword"				:	"律村、获奖、评选、第一、本年度律所、 awards, rankings、连续、律所、asialaw、金融时报、钱伯斯亚太法律指南、chambers asia pacific"
+		,"accolades_description"			:	"律村在并购、金融、企业法务、公平交易、诉讼、税收、知识产权、不动产建设领域在韩国国内及海外的诸多评价机关中获得了奖项及入选。"
+
+		,"academy_title"					:	"律村学院 | 法务法人（有限）律村"
+		,"academy_keyword"					:	"律村、学院、人才、专家、成长、发展、自我开发、教育机关、教师阵容、培育"
+		,"academy_description"				:	"律村在韩国律师事务所中第一个运营学院的律师事务所，通过内部教育机关的学院正在运营不同级别律师量身定做的成长项目、专门法律项目、量身定做的语言项目、顾客服务项目等。"
+
+		,"location_title"					:	"事务所地址 | 法务法人（有限）律村"
+		,"location_keyword"					:	"律村、事务所、位置、地址、机场、公交、地铁"
+		,"location_description"				:	"提供律村韩国、俄罗斯、缅甸、越南、印度尼西亚的当地事务所的信息。"
+
+		,"korea_title"						:	"首尔总部 | 法务法人（有限）律村"
+		,"korea_keyword"					:	"律村、首尔、1997年、法律服务、parnastower、三成站、2号线、贸易中心、仁川、金浦"
+		,"korea_description"				:	"律村以“齐心协力共建法律专家之村庄”为理念于1997年设立，在企业法务及金融、公平交易、诉讼、税收、知识产权、不动产、海外投资全部领域通过最顶尖的专家的丰富经验和专业性为依托提供最优质的法律服务。"
+
+		,"russia_title"						:	"俄罗斯事务所 | 法务法人（有限）律村"
+		,"russia_keyword"					:	"律村、海外、俄罗斯、莫斯科、李和駿、仲裁员、法学家、Advocaat"
+		,"russia_description"				:	"律村俄罗斯事务所通过与当地优秀律所及各领域实力被认可的专家的合作关系，为满足当地的韩国顾客而尽全力。"
+
+		,"myanmar_title"					:	"缅甸事务所 | 法务法人（有限）律村"
+		,"myanmar_keyword"					:	"律村、海外、缅甸、仰光、不动产、建设、金融、SOC"
+		,"myanmar_description"				:	"律村缅甸事务所继越南胡志明和河内、中国事务所后，作为律村的第四个分支机构而设立了海外事务所。向投资缅甸的韩国企业不动产、建设、金融、SOC项目等提供量身定做的法律服务。"
+
+		,"china_title"						:	"中国事务所 | 法务法人（有限）律村"
+		,"china_keyword"					:	"律村、海外、中国、上海"
+		,"china_description"				:	"律村中国事务所聚集投资、贸易、金融、公平交易、税收、仲裁、诉讼等各领域专家解决中国投资贸易、企业经营、纠纷相关问题及提供相关咨询。"
+
+		,"vietnam_title"					:	"越南事务所 | 法务法人（有限）律村"
+		,"vietnam_keyword"					:	"律村、海外、越南、胡志明、河内、东南亚"
+		,"vietnam_description"				:	"律村胡志明/河内事务所向越南的国内外企业提供法律咨询，且成功执行了在当地进行的并购、不动产、 项目融资交易等。"
+
+		,"indonesia_title"					:	"印尼事务所 | 法务法人（有限）律村"
+		,"indonesia_keyword"				:	"律村、海外、印度尼西亚、雅加达、最初合作关系"
+		,"indonesia_description"			:	"律村印度尼西亚事务所向投资印度尼西亚的韩国企业的并购、不动产、建设、金融、SOC项目等提供量身定做的法律服务。"
+	}
+}

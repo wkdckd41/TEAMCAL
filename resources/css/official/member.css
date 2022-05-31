@@ -1,0 +1,221 @@
+@charset "utf-8";
+
+/* 회원가입 */
+.sub_visual_area{background-image:url(../../images/official/member/top_visual.jpg);}
+.join_step .column_wide{padding:70px 0 120px;}
+.step_list{/*height:80px;*/border-bottom:1px solid #075aba;background:#fff;box-sizing:border-box; }
+.step_list ul{max-width:500px;margin:0 auto;}
+.step_list ul li{float:left; padding:25px 0;width:50%;color:#888;font-size:20px;text-align:center;background:url(../../images/common/img_arrow_gray01.png) no-repeat 0 center; background-size:12px auto; vertical-align:middle;} 
+.step_list ul li.j_step01{background:none;}
+.step_list ul li.on{color:#222;}
+.step_list ul li span{display:inline-block;margin-right:15px;width:30px;height:30px;background-image:url(../../images/official/member/bg_step.png); background-size:auto 61px; background-repeat:no-repeat;text-indent:-9999px;} 
+.step_list ul li.j_step01 span{background-position:0 0} 
+.step_list ul li.on_pass span{background-position:0 -31px} 
+.step_list ul li.j_step02 span{background-position:-31px 0px} 
+.step_list ul li.j_step02.on span{background-position:-31px -31px}  
+.step_list ul li.j_step03 span{background-position:-62px 0} 
+.step_list ul li.j_step03.on span{background-position:-62px -31px} 
+.join_step .btn_area.col-12 button{width:auto;margin-top:0;} 
+.join_step .form_group_wrap p input[type="text"],
+.join_step .form_group_wrap p input[type="password"],
+.join_step .form_group_wrap p input[type="tel"],
+.myaccount .form_group_wrap p input[type="text"],
+.myaccount .form_group_wrap p input[type="password"],
+.myaccount .form_group_wrap p input[type="tel"]{min-width:430px;}
+.join_step .form_group_wrap p input.w_auto{min-width:unset;}
+.membership .column_wide .mb_cnt_wrap{padding:0;}  
+.join_step .column_wide button{margin-top:40px;}
+
+/* 마이페이지 */
+.myaccount .form_group_wrap{margin: 80px 0 120px;}
+.myaccount .reg_pw_area .col-5.mb_cnt_wrap, 
+.myaccount .find_pw_area .col-5.mb_cnt_wrap{width:420px;}
+.myaccount .reg_pw_area .col-5.mb_cnt_wrap.non_confim{width:auto;}
+.myaccount .mb_info_dsc p.dsc_tl{line-height:28px;}
+.myaccount .reg_pw_area .mb_info_dsc p.dsc_tl{margin-bottom:15px;}
+.myaccount .reg_pw_area .col-5.mb_cnt_wrap .btn_area, 
+.myaccount .find_pw_area .col-5.mb_cnt_wrap .btn_area{display:inline-table;width:100%;}
+.myaccount .box_search.list_search{padding-bottom:0;}
+.myaccount .list_type_post.type_hide_arrow .post_link{padding-bottom:15px;}
+.myaccount .btn_area.mt_30{margin:25px auto 0;}
+.myaccount .btn_area.mt_40{margin:35px auto 0;}
+.myaccount .view_list .enter_txt {border:none;}	
+
+/* 로그인 화면 박스 스타일 */ 
+.membership .containbox_mb .btn_area.mt_40{margin:0 auto;} 
+.membership .column_wide{padding:125px 0;}
+.membership .sub_visual_area.full_visual {position:absolute;top:0;left:0;height:100%;width:100%;background-image: url(../../images/common/bg_cnt.jpg);/* padding-bottom:100%;*/}
+.membership .containbox_wrap {position:relative;display:table;height:600px;width:600px;margin:0 auto;background:#fff;box-sizing:border-box;z-index: 85; table-layout:fixed}
+.membership .containbox_mb{display:table-cell;vertical-align:middle;}
+.membership .containbox_mb .mb_cnt_wrap.col-5{width:90%;box-sizing:border-box;}
+.membership .containbox_mb .btn_area{margin:25px auto 0;}
+.membership .mb_logo{display:block;width:auto;height:84px;margin:0 auto 60px;background:url(../../images/official/member/logo.png) no-repeat center 0; background-size:190px auto; text-indent:-9999px;}  
+.membership .mb_info_dsc p{margin-bottom:35px}
+.membership .containbox_mb button.btn_white{margin: 0 auto;}
+.membership .txt_notice .containbox_mb{padding:30px 40px;} 
+.membership .txt_complete .containbox_mb .mb_cnt_wrap.col-5{max-width:400px;}
+.membership .mb_cnt_wrap.col-5 .btn_area{display:inline-block;width:100%;}
+.membership .login_area .containbox_mb .custom_etc{padding:0;} 
+.membership .containbox_wrap .custom_etc.w_400{max-width:400px;}
+.membership .containbox_wrap .mb_info_dsc{max-width:400px;}
+.membership .containbox_wrap .mb_info_dsc.w_auto{max-width:none;} 
+.w_200{min-width:200px;}
+.space_letter{letter-spacing:-1px;}
+.section .column_wide button.no_mg{margin-top:0;}
+.section .column_wide button.h_50{height:50px;}
+.membership .containbox_mb .mb_cnt_wrap button.w_200{min-width:240px;}
+
+
+.membership .wide_box .containbox_wrap{width:1000px;}
+.membership .wide_box .containbox_wrap .chg_limit br{display:none;}
+
+/* 세미나 */
+.txt_status {color:#666; font-weight:300; font-size:18px;}
+.txt_status a {color:#075aba; font-weight:400; padding-right:35px; background-image:url(../../images/official/member/ico_download.png);background-repeat:no-repeat; background-size:24px auto; background-position:right center}
+.list_type_post .txt_status {text-align:right; box-sizing:border-box;}
+.view_type_post {margin-bottom:0;}
+.view_type_post .title {margin-bottom:0;}
+.view_type_post .title .link {padding-right:13px; color:#888; font-weight:300; text-decoration:underline; background-image:url(../../images/official/member/img_arrow_gray.png);  background-size:7px auto; background-repeat:no-repeat;background-position:right 7px}
+.view_type_post .title .link:hover,
+.view_type_post .title .link:focus {color:#075aba}
+
+/* 세미나 참석 확인서 페이지 */
+.pdf_download p{margin:10px auto 10px;}
+.pdf_download .description{padding:25px 50px 30px;word-break:keep-all;}
+.pdf_download{margin:0 auto;padding:40px 60px;width:700px;box-sizing:border-box;font-weight:500;}
+.pdf_download .sec_container{width:auto}
+.pdf_download .grid-layout{width:auto;padding:0;}
+.pdf_download .detail{width:580px;box-sizing: border-box;}
+.pdf_download .detail_box{margin:25px 0 0;padding-left:40px;} 
+.pdf_download h1,
+.pdf_download h2{text-align:center;}
+.pdf_download h1{padding:40px 0 15px;font-size:20px;line-height:20px;letter-spacing:8px;}
+.pdf_download h2{padding:0 70px;font-size:22px;font-weight:500;line-height:28px;word-break: keep-all;}
+.pdf_download dl{ font-size:14px;line-height:20px;}
+.pdf_download dl dt{display:table;float:left;width:12%;}
+.pdf_download dl dd{display:table-cell;padding-bottom:10px;}
+.pdf_download dl dd span{display:block;font-size: 12px;}
+.pdf_download dl dd span.non_block{display:inline-block;} 
+.pdf_download dl dd:after{display:block;content:" ";clear:both}
+.pdf_download dl.w_dot dd:before{margin-right:8px;content: ": ";}
+.pdf_download dl.non_dot{margin-left:10px;}
+.pdf_download dl.non_dot dd{padding-left:8px;}
+.pdf_download dl.non_dot dd:before {content: " ";}
+.pdf_download dl.w_dot dt:before,
+.pdf_download p.w_dot:before{display:inline-block;padding-right:5px;content:"•";}
+.pdf_download .cnt01 dd{padding-bottom: 25px;}
+.pdf_download .user_area{margin-top:25px;} 
+.pdf_download .confirm_aera{position:relative;padding-bottom:20px;background:url(../../images/pdf/sign.png) no-repeat 364px bottom;text-align:center;}
+.pdf_download .confirm_aera .date,
+.pdf_download .confirm_aera .company{font-size:16px;}
+ /*포인트컬러*/
+.pdf_download .point_grey {color:#a6a6a6;}
+.pdf_download .point_red {color:#ff0000; margin-left:10px !important;}
+
+@media only screen and (min-width: 768px) { 
+	/* 세미나 */
+	.list_type_post li {display:table;}
+	.list_type_post li .inner {display:table-cell;}
+	.list_type_post .txt_status {display:table-cell; min-width:170px; padding-right:40px; vertical-align:middle;}
+	.view_type_post .title {display:table-cell;}
+	.view_type_post .title span {margin-right:20px;}
+	.view_type_post .title .link {font-size:16px; vertical-align:2px}
+	.view_type_post .txt_status {display:table-cell; min-width:170px; text-align:right; vertical-align:middle;} 
+
+}
+
+/* @media only screen and (max-width:1024px) {  
+	.step_list ul li {display:none;
+		padding:21px 0 21px 10px;width:29.333%;font-size:14px;background-image:url(../../images/common/img_arrow_gray01_m.png);}
+	.step_list ul li.on{display:block;width:100%;background-image:none;}
+	.step_list ul li span {display:inline-block;margin-right:5px;width:20px;height:20px;background-image:url(../../images/official/member/bg_step_m.png);background-size:63px 39px;}
+} */
+
+
+@media only screen and (max-width:1024px) {
+	.membership .wide_box .containbox_wrap{width:100%;}
+	.join_step .form_group_wrap p input.w_auto {min-width:263px;}
+}
+
+@media only screen and (max-width: 767px) {
+	.non_br br{display:none;}
+	/* .info_sbj_location{display:none;} */
+	/* .info_sbj_box {padding: 62px 0 32px;} */
+	.column_wide .btn_area.col-12 button{height:50px;}
+	.join_step .terms_box_wrap .btn_area.col-12 button{width:95.94%;}
+	.custom_etc .find_dsc p{text-align:center;}
+	.custom_etc	.find_dsc p span {float: none;padding-top:10px;display: block;}
+	.section .column_wide button.h_50{height:40px;}
+	.sub_visual_area.small_visual{background-image:url(../../images/official/member/top_visual_m.jpg);}
+
+	/* 회원가입 */
+	.join_step .column_wide {padding:30px 0 40px;}	
+	.step_list ul {max-width:none;width:95.94%;} 
+	.step_list ul li {padding:21px 0 21px 10px;width:29.333%;font-size:14px; background-size:8px auto} 
+	.step_list ul li span {display:inline-block;margin-right:5px;width:20px;height:20px;background-image:url(../../images/official/member/bg_step_m.png);background-size:63px 39px;}
+ 	.step_list ul li.j_step01 span {background-position:0 0}
+	.step_list ul li.on_pass span {background-position:0 -20px}
+	.step_list ul li.j_step02 span {background-position:-20px 0px}
+	.step_list ul li.j_step02.on span {background-position:-20px -20px}
+	.step_list ul li.j_step03 span {background-position:-40px 0}
+	.step_list ul li.j_step03.on span {background-position:-40px -20px}
+
+	.join_step .form_group_wrap p input[type="text"], 
+	.join_step .form_group_wrap p input[type="password"], 
+	.join_step .form_group_wrap p input[type="tel"],
+	.myaccount .form_group_wrap p input[type="text"],
+	.myaccount .form_group_wrap p input[type="password"],
+	.myaccount .form_group_wrap p input[type="tel"]{min-width:0;}
+	.join_step02 .column_wide .btn_area.col-12 button{width:100%;}
+	.join_step02 .form_cnt form{border-bottom:none;}
+	.join_step02 .btn_area.col-12{margin:20px auto 30px;}
+	.join_non_email .confim_email_area [class*="col-"] button{min-width:0;}
+	.join_step .column_wide button{margin-top:30px;}
+	.membership .containbox_mb .mb_cnt_wrap.col-5 .btn_area.mt_40{margin:30px auto 0;} 
+
+	/* 마이페이지 */
+	.myaccount .form_group_wrap {margin: 25px 0 0px;}
+	.myaccount .reg_pw_area .col-5.mb_cnt_wrap, 
+	.myaccount .find_pw_area .col-5.mb_cnt_wrap{width:100%;padding:25px 0 50px;}
+	.myaccount .view_list p.br_line button, 
+	.myaccount .view_list button.btn_gray{min-width:137px;}
+	.myaccount .view_list.form_cnt p.br_line{padding-bottom:17px;}
+	.myaccount .view_list.form_cnt p.br_line.line_h{padding-bottom:0;}
+	.myaccount .view_list.form_cnt form{border-bottom:none;}
+	.myaccount .view_list .leave_area:before{left:0;right:0;}
+	.myaccount 	.form_cnt label{margin:8px 0}
+	.myaccount .btn_area.mt_30{margin:22px auto 0;}
+	.myaccount .btn_area.mt_40{margin:32px auto 0;}
+	.myaccount .btn_area.mt_30 button{margin:0;}
+	.myaccount .non_confim p.dsc_tl+p{margin-bottom:8px;font-size: 14px;line-height: 18px;} 
+
+	/* 로그인 페이지 */
+	.membership .sub_visual_area {padding:0;}
+	.membership .containbox_wrap {width:100%; height:400px;padding:60px 10px;}
+	.membership .mb_info_dsc p{margin-bottom:20px;} 
+	.membership .chg_pw_area p, .membership .reg_pw_area p{margin-bottom:20px;}
+	/* max-width:300px; */
+	.membership .containbox_mb .mb_cnt_wrap.col-5 {width:auto;}
+	.membership .txt_complete .containbox_mb .mb_cnt_wrap.col-5 {max-width:100%;}
+	.membership .mb_logo {margin:0 auto 25px;height:51px;background-image:url(../../images/official/member/logo_m.png);background-size:112px auto;}
+	.membership .containbox_mb .mb_info_dsc p.txt_dsc br {display:none;}
+	.membership .txt_notice .containbox_mb {padding:0 15px;}
+	.membership .containbox_wrap .mb_info_dsc{max-width:none;}
+	.membership .containbox_mb .mb_cnt_wrap.col-5 .btn_area{margin:22px auto 0;}
+	.membership .login_area .containbox_mb .mb_cnt_wrap.col-5 .custom_etc ul li a{letter-spacing:-1px;}
+	.membership .containbox_mb .btn_area{margin:30px auto 0;}
+	.membership .containbox_mb .mb_cnt_wrap button.w_200{min-width:136px;}
+	.membership .containbox_wrap .mb_info_dsc p{margin:0;padding-bottom:0;}
+	.membership .wide_box .containbox_wrap .chg_limit{margin: 15px 0 0}
+	.membership .wide_box .containbox_wrap .chg_limit br{display:block;}
+	.containbox_mb .add_dsc  br{display:none;}
+
+	/* 세미나 */
+	.list_type_post .txt_status {display:block; min-width:100%; padding:0 10px 25px}
+	.txt_status {font-size:14px;}
+	.txt_status a {padding-right:22px; background:url(../../images/official/member/ico_download_m.png) no-repeat right center; background-size:15px auto;}
+	.view_type_post .subject {position:relative;}
+	.view_type_post .title span {display:block; margin-bottom:15px;}
+	.view_type_post .title .link {font-size:14px; background:url(../../images/official/member/img_arrow_gray_m.png) no-repeat right 6px; background-size:6px 10px}
+	.view_type_post .txt_status {position:absolute; right:10px; bottom:1px;}
+}

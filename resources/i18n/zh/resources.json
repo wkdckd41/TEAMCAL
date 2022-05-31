@@ -1,0 +1,65 @@
+{
+	"*****" : "resources_zh"
+	
+	
+	,"highlight"			:	"Highlight"
+	,"deals_and_cases"	:	"律村业绩"
+	,"yulchon_news"		:	"律村动向"
+	,"in_the_press"		:	"新闻报道"
+	,"publications"		:	"律村期刊"
+
+	,"periodicals"		:	"定期简讯"
+	,"legal_update"		:	"最新法律信息"
+	,"paper_pub"		:	"论文/著作"
+
+	,"resources"				:	"消息/资料"
+	,"deals_and_cases_search"	:	"搜索业绩 "
+	,"yulchon_news_search"		:	"搜索律村消息"
+	,"paper_pub_search"			:	"搜索论文/著作"
+	,"in_the_press_search"		:	"搜索媒体报道"
+	,"news_letter_search"		:	"搜索简讯"
+	,"legal_update_search"		:	"搜索最新法律信息"
+	
+	,"title"					:	{
+		"deals_and_cases_search_input"	:	"업무사례 검색어 입력"
+		,"yulchon_news_search_input"		:	"율촌소식 검색어 입력"
+		,"paper_pub_search_input"		:	"논문/저서 검색어 입력"
+		,"in_the_press_search_input"		:	"언론보도 검색어 입력"
+		,"news_letter_search_input"		:	"뉴스레터 검색어 입력"
+		,"legal_update_search_input"		:	"최신법률정보 검색어 입력"
+		,"download"						:	"다운로드"
+	}
+	
+	,"news_letter"		:	"定期简讯"
+	,"attach_file"		:	"附件"
+	,"relations_member"	:	"相关专业人员"
+	,"relations_news"	:	"相关报道"
+	,"news_view"			:	"본문기사 보기"
+	
+	,"no_result_prev"	:	"没有上文。"
+	,"no_result_next"	:	"没有下文。"
+	
+	,"head"				:	{
+			"highlight_title"					:	"Highlight | 法务法人（有限）律村"
+			,"highlight_keyword"				:	"律村、消息、资料、重点关注、 highlight、新闻、律村业绩、媒体报道、律村期刊、律村简报、最新法律信息、论文/著作"
+			,"highlight_description"			:	"可了解最快、最新的律村消息和律村专家撰写的各种资料。"
+			,"deals_and_cases_title"			:	"律村业绩 | 法务法人（有限）律村"
+			,"deals_and_cases_keyword"			:	"律村、律村业绩、业绩、交易、deal、承办、咨询、胜诉、代理、交割、判决"
+			,"deals_and_cases_description"		:	"可了解律村成功承办的案例业绩。"
+			,"yulchon_news_title"				:	"律村新闻 | 法务法人（有限）律村"
+			,"yulchon_news_keyword"				:	"律村、获奖、评选、受托、投稿、出席、参加、发表、演讲、采访、发行、委托、介绍、讨论"
+			,"yulchon_news_description"			:	"可了解到律村的最新消息。"
+			,"in_the_press_title"				:	"媒体报道 | 法务法人（有限）律村"
+			,"in_the_press_keyword"				:	"律村、媒体报道、报纸、新闻、刊登、采访、律师、投稿、发行、胜诉、判决、获奖、评选、研讨会、活动"
+			,"in_the_press_description"			:	"可了解媒体报道的律村相关新闻。"
+			,"periodicals_title"				:	"律村简报 | 法务法人（有限）律村"
+			,"periodicals_keyword"				:	"律村、律村简报、定期、春、夏、秋、冬"
+			,"periodicals_description"			:	"可了解律村发行的定期法律简报。"
+			,"legal_update_title"				:	"最新法律信息 | 法务法人（有限）律村"
+			,"legal_update_keyword"				:	"律村、最新法律信息、legal update, news update、法律问题、海外法律动向、启示、判决、修正案、注意事项、tax analysis"
+			,"legal_update_description"			:	"可了解律村最新法律问题的相关信息。"
+			,"paper_pub_title"					:	"论文/著作 | 法务法人（有限）律村"
+			,"paper_pub_keyword"				:	"律村、论文、著作、书、发行、竞争期刊、竞争和法、税经新闻、月刊税收、正义、劳动法律、Labor Post、NNA"
+			,"paper_pub_description"			:	"可了解律村专家撰写的论文和著作。"
+	}
+}

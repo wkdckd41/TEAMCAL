@@ -1,0 +1,174 @@
+@charset "utf-8";
+
+/* 폼 validate */
+.msg_validate{display:none; margin-right:10px;margin:10px 0 15px;padding-left:23px;font-size:16px;color:#e34b2d;background:url(../images/common/ico_alert.png) no-repeat 0 3px;background-size:16px 16px;line-height:21px;text-align:left;}
+.msg_validate.success{background-image: url(../images/common/ico_success.png);color:#075aba;}
+
+/* IE 10, 11의 네이티브 화살표 숨기기 */
+select::-ms-expand {display:none;} 
+
+/* 인풋 스타일 */
+input[type="text"], input[type="email"],
+input[type="number"], 
+input[type="password"], input[type="tel"], 
+.txt_stand, .enter_txt {border:1px solid #dadada; background:#fff; font-weight:300; height:50px;padding:0 18px;font-size:14px;box-sizing:border-box; outline:none;}
+
+input::-webkit-input-placeholder {color:#888; font-weight:300}
+input::-ms-input-placeholder {color:#888; font-weight:300}
+input::-moz-placeholder {color:#888; font-weight:300}
+input::placeholder {color:#888; font-weight:300}
+textarea::-webkit-input-placeholder {color:#888; font-weight:300}
+textarea::-ms-input-placeholder {color:#888; font-weight:300}
+textarea::-moz-placeholder {color:#888; font-weight:300}
+textarea::placeholder {color:#888; font-weight:300}
+
+input[type="text"]:focus, input[type="email"]:focus, 
+input[type="password"]:focus, input[type="tel"]:focus, input[type="number"]:focus,
+.txt_stand:focus, .enter_txt:focus {outline:none;border:2px solid #222; padding:0 17px;}
+
+input[type=radio], input[type=checkbox] {position:absolute; width: 0;height: 0;font-size: 0;opacity: 0;}
+input[type=radio] + label, 
+input[type=checkbox] + label {
+	vertical-align:middle;cursor:pointer;border:none!important;
+	-webkit-transition:0.5s;
+	transition:0.5s;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+}
+
+input[readonly], input[disabled] {
+	background:#f5f5f5; border:1px solid #dadada;
+    -webkit-text-fill-color:#888; /* Override iOS / Android font color change */
+    -webkit-opacity:1; /* Override iOS opacity change affecting text & background color */
+    color:#888;
+}
+
+
+input[readonly]:focus, input[disabled]:focus {border:1px solid #dadada; padding:0 18px;}
+
+/* input 추가 */
+#plan_title {display:block;margin:0 0 10px 0;width:240px;}
+#start_date {display:block;margin:0 0 10px 0;width:240px;}
+#end_date {display:block;margin:0;width:240px;}
+#memo_content {display:block;margin:10px 0 0 0;width:240px;}
+
+.all_day {display:block;margin:5px 0;width:100%;float:left;line-height:150%;overflow:hidden;}
+
+@media only screen and (max-width: 1024px) {
+	#plan_title {width:210px;}
+	#start_date {width:210px;}
+	#end_date {width:210px;}
+	#memo_content {width:210px;}
+}
+
+@media only screen and (max-width: 767px) {
+	#plan_title {margin-right:5%;width:95%;}
+	#start_date {margin-right:5%;width:95%;}
+	#end_date {margin-right:5%;width:95%;}
+	#memo_content {width:100%;}
+}
+
+@media only screen and (max-width: 560px) {
+	.view_member_list_box {width:100%;}
+	#plan_title {width:100%;}
+	#start_date {width:100%;}
+	#end_date {width:100%;}
+	#memo_content {width:100%;}
+}
+
+/* 라디오 버튼  스타일 */
+input[type=radio] + label {padding:2px 0 2px 40px; background-image:url(../images/common/btn_radio_off.png);  background-repeat:no-repeat; background-position:0 3px;background-size:26px 26px; box-sizing:border-box}
+input[type=radio]:focus + label,
+input[type=radio]:checked + label {background-image:url(../images/common/btn_radio_on.png);border:none;}
+
+/* 체크박스 스타일 */
+input[type=checkbox]  + label {padding:3px 0 0 22px;background-image:url(../images/common/btn_chk_off.png); background-repeat:no-repeat; background-position:0 5px;background-size:18px 18px;}
+input[type=checkbox] + label.active,
+/*input[type=checkbox]:focus + label, */
+input[type=checkbox]:checked + label{background-image:url(../images/common/btn_chk_on.png); }
+
+
+/* 셀렉트 스타일 */
+select {min-width:150px; padding:0 18px; height:50px; border:1px solid #ddd; font-size:18px;line-height:18px;
+	background-image:url(../images/common/ico_select.png); background-size:52px auto; background-repeat:no-repeat; background-position:right 50%;
+	-webkit-appearance:none;   
+	-moz-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	color:#333;
+	font-weight:300;
+	cursor: pointer;
+}
+
+select:focus {outline:none; border:2px solid #222; color:#222; padding:0 17px;}
+/* 셀렉트 비활성화시 */
+select[disabled] {background-color: #F5F5F5;}
+ 
+/* 약관 스크롤바 */
+.swiper-scrollbar{border-radius:0;}
+.swiper-scrollbar-drag{background:#999;border-radius:0;}
+
+/* 정보 입력 - 법인명 검색 */
+.combo_wrap {margin-left:40px; display:inline-block;}
+/*.combo_wrap select {min-width:430px; box-sizing:border-box;}*/
+.combo_wrap em,.combo_wrap span {display:block; box-sizing:border-box;}
+.combo_wrap .custom-combobox {position:relative;}
+.combo_wrap .ui-autocomplete-input {margin-left:0; min-width:0; width:430px; box-sizing:border-box; border:1px solid #dadada; background:#fff; border-radius:0; height:50px; padding:0 50px 0 18px; font-size:18px; font-family:inherit;}
+.combo_wrap .ui-autocomplete-input:focus {outline:none; border:2px solid #222; padding:0 49px 0 17px;}
+.combo_wrap .ui-autocomplete-input::-ms-clear {display:none;}
+.combo_wrap .ui-autocomplete-input:-ms-clear {display:none;}
+
+.combo_wrap .ui-widget {position:relative;}
+.combo_wrap .ui-widget .ui-widget.ui-button {position:absolute; width:45px; height:45px; background:#fff; border:0; border-radius:0; margin-right:0; right:2px; bottom:3px; padding:0; outline:none;}
+.combo_wrap .ui-widget .ui-widget.ui-button .ui-icon {position:relative; width:100%; height:100%; background:url(../images/common/ico_select.png) no-repeat center center; background-size:52px auto; margin-top:0; margin-left:0; top:auto; left:auto;}
+.ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front {max-height:135px; overflow-x:hidden; overflow-y:auto; max-width:430px;}
+.ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front .ui-menu-item-wrapper {word-break:keep-all; padding:3px 18px; font-size:18px;}
+.ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front .ui-menu-item-wrapper.ui-state-active {border:0; margin:0;}
+
+@media only screen and (max-width: 960px) {
+	.seminar .combo_wrap {margin-left: 4.333%;}
+}
+
+@media only screen and (max-width: 1024px) {  
+	input:checked[type="checkbox"]{background-color: transparent;-webkit-appearance: none;} 
+}
+
+@media only screen and (max-width: 767px) { 
+	input[type="text"], input[type="email"],
+	input[type="number"], 
+	input[type="password"], input[type="tel"] {height:40px; padding:0 14px; font-size:14px;}
+	input[type="text"]:focus, input[type="email"]:focus, 
+	input[type="password"]:focus, input[type="tel"]:focus, input[type="number"]:focus, 
+	.txt_stand:focus, .enter_txt:focus {padding:0 13px;}
+	input[readonly]:focus, input[disabled]:focus {padding:0 14px;}
+
+	select {height:40px; padding:0 14px; width:100%; font-size:14px; background-image:url(../images/common/ico_select_m.png); background-size:44px auto}
+	select:focus {padding:0 13px; background-position:calc(100% + 1px) center;}
+
+	/* 폼 validate */
+	.msg_validate{margin-bottom:8px;padding-left:17px;min-height:13px;font-size:13px;line-height:13px;background-image: url(../images/common/ico_alert_m.png);background-size: 13px 13px; background-position:left center}
+	
+	/* 라디오 버튼  스타일 */
+	input[type=radio] + label {padding:3px 0 3px 33px; background-image:url(../images/common/btn_radio_off_m.png); background-repeat:no-repeat; background-position:0 3px;background-size:23px 23px; font-size:14px;}
+	input[type=radio]:focus + label,
+	input[type=radio]:checked + label {background-image:url(../images/common/btn_radio_on_m.png);}
+
+	input[type=checkbox]  + label {padding:2px 0 2px 31px;background-image:url(../images/common/btn_chk_off_m.png); background-repeat:no-repeat; background-position:0 2px;background-size:21px 21px; font-size:14px;}
+	/* 체크해제 안됨 삭제 _ 20180321
+	input[type=checkbox]:focus + label,
+	input[type=checkbox]:checked + label{background-image:url(../images/common/btn_chk_on_m.png);}*/
+
+	input[type=checkbox] + label.xs_hidden {padding-left:21px;}
+	input[type=checkbox] + label.xs_hidden span, span.info_txt.xs_hidden{display:none;}
+
+	/* 정보 입력 - 법인명 검색 */
+	.combo_wrap {margin-left:0; display:block;}
+	.seminar .combo_wrap {margin-left:0;}
+	.combo_wrap .ui-autocomplete-input {min-width:0; width:100%; padding:0 40px 0 14px; font-size:14px; height:40px;}
+	.combo_wrap .ui-autocomplete-input:focus {padding:0 13px;}
+	.combo_wrap .ui-widget .ui-widget.ui-button {width:36px; height:36px; bottom:2px;}
+	.combo_wrap .ui-widget .ui-widget.ui-button .ui-icon {background:url(../images/common/ico_select_m.png) no-repeat center center; background-size:44px auto;}
+	.ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front {max-width:100%;}
+	.ui-menu.ui-widget.ui-widget-content.ui-autocomplete.ui-front .ui-menu-item-wrapper {font-size:14px;}
+}

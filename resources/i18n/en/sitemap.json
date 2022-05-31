@@ -1,0 +1,51 @@
+{
+	"****************" : "sitemap_en"
+	
+	,"business_field"		: "Expertise"
+	,"practices"				: "practices"
+	,"industries"			: "industries"
+	,"international"			: "international"
+	,"member"				: "Professionals"
+	,"news_data"				: "Resources"
+	,"seminar"				: "Seminar"
+	,"yulchon_introduce"		: "Our Firm"
+	,"incruit"				: "Careers"
+	
+	,"deals_and_cases"	:	"Deals & Cases"
+	,"yulchon_news"		:	"Yulchon News"
+	,"in_the_press"		:	"In the Press"
+	,"publications"		:	"Publications"
+	,"periodicals"		:	"Periodicals"
+	,"legal_update"		:	"Legal Update"
+	,"paper_pub"			:	"Publications"
+	
+	,"seminars"						:	"Seminars"
+	,"seminars_info"					:	"Seminars"
+	,"confirmation_of_application"	:	"Confirmation of Application"
+	,"confirmation_letter"			:	"Issue a participation confirmation letter"
+	
+	,"probono"					:	"Pro Bono"
+	,"introduction"				:	"Introduction"
+	,"legal_knowledge"			:	"Contributing Legal Knowledge to the Society"
+	,"sharing"					:	"Fulfilling the Value of Sharing"
+	,"creating_shared_value"		:	"Creating Shared Value"
+	
+	,"our_firm"				:	"Our Firm"
+	,"overview_values"		:	"Overview/Values"
+	,"accolades"				:	"Recognition"
+	,"academy"				:	"Academy"
+	,"location"				:	"Location"
+	
+	,"careers"				:	"Careers"
+
+	,"login"					:	"Login"
+	,"join_us"				:	"Join us"
+	,"find_email"			:	"Find out E-mail address(ID)"
+	,"find_password"			:	"Find out password"
+	
+	,"head"					:	{
+			"title"			:	"Sitemap | Yulchon LLC"
+			,"keyword"		:	"Yulchon, Sitemap"
+			,"description"	:	"This is Yulchon's sitemap page"
+	}
+}

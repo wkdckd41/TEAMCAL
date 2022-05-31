@@ -1,0 +1,65 @@
+{
+	"*****" : "resources_ko"
+	
+	
+	,"highlight"			:	"Highlight"
+	,"deals_and_cases"	:	"업무사례"
+	,"yulchon_news"		:	"율촌소식"
+	,"in_the_press"		:	"언론보도"
+	,"publications"		:	"간행물"
+
+	,"periodicals"		:	"정기뉴스레터"
+	,"legal_update"		:	"최신법률정보"
+	,"paper_pub"		:	"논문/저서"
+
+	,"resources"					:	"소식/자료"
+	,"deals_and_cases_search"	:	"업무사례 검색"
+	,"yulchon_news_search"		:	"율촌소식 검색"
+	,"paper_pub_search"			:	"논문/저서 검색"
+	,"in_the_press_search"		:	"언론보도 검색"
+	,"news_letter_search"		:	"뉴스레터 검색"
+	,"legal_update_search"		:	"최신법률정보 검색"
+	
+	,"title"					:	{
+		"deals_and_cases_search_input"	:	"업무사례 검색어 입력"
+		,"yulchon_news_search_input"		:	"율촌소식 검색어 입력"
+		,"paper_pub_search_input"		:	"논문/저서 검색어 입력"
+		,"in_the_press_search_input"		:	"언론보도 검색어 입력"
+		,"news_letter_search_input"		:	"뉴스레터 검색어 입력"
+		,"legal_update_search_input"		:	"최신법률정보 검색어 입력"
+		,"download"						:	"다운로드"
+	}
+	
+	,"news_letter"		:	"정기뉴스레터"
+	,"attach_file"		:	"첨부파일"
+	,"relations_member"	:	"관련 구성원"
+	,"relations_news"	:	"연관기사"
+	,"news_view"			:	"본문기사 보기"
+
+	,"no_result_prev"	:	"이전 글이 없습니다."
+	,"no_result_next"	:	"다음 글이 없습니다."
+	
+	,"head"				:	{
+			"highlight_title"					:	"Highlight | 법무법인(유) 율촌"
+			,"highlight_keyword"				:	"율촌, 소식, 자료, 하이라이트, highlight, 뉴스, 업무사례, 언론보도, 간행물, 뉴스레터, 최신법률정보, 논문/저서"
+			,"highlight_description"			:	"언제나 한발 앞서는 율촌의 새로운 소식과, 율촌의 전문가들이 직접 만든 자료를 보실 수 있습니다."
+			,"deals_and_cases_title"			:	"업무 사례 | 법무법인(유) 율촌"
+			,"deals_and_cases_keyword"			:	"율촌, 업무 사례, 실적, 딜, deal, 수행, 자문, 승소, 대리, 거래, 종결, 판결"
+			,"deals_and_cases_description"		:	"율촌이 수행한 성공적인 업무 사례를 보실 수 있습니다."
+			,"yulchon_news_title"				:	"율촌 소식 | 법무법인(유) 율촌"
+			,"yulchon_news_keyword"				:	"율촌, 수상, 선정, 위촉, 기고, 참석, 참여, 발표, 강연, 인터뷰, 발간, 위임, 안내, 토론"
+			,"yulchon_news_description"			:	"율촌의 최근 소식을 보실 수 있습니다."
+			,"in_the_press_title"				:	"언론 보도 | 법무법인(유) 율촌"
+			,"in_the_press_keyword"				:	"율촌, 언론 보도, 신문, 기사, 게재, 인터뷰, 변호사, 기고, 발간, 승소, 판결, 수상, 선정, 세미나, 행사"
+			,"in_the_press_description"			:	"언론에 보도된 율촌 관련 기사를 보실 수 있습니다."
+			,"periodicals_title"				:	"뉴스레터 | 법무법인(유) 율촌"
+			,"periodicals_keyword"				:	"율촌, 뉴스레터, 정기, 봄, 여름, 가을, 겨울"
+			,"periodicals_description"			:	"율촌의 정기 뉴스레터를 보실 수 있습니다."
+			,"legal_update_title"				:	"최신법률정보 | 법무법인(유) 율촌"
+			,"legal_update_keyword"				:	"율촌, 최신법률정보, legal update, news update, 법률이슈, 해외법률동향, 시사점, 판결, 개정안, 유의사항, tax analysis"
+			,"legal_update_description"			:	"율촌의 최근 이슈와 관련된 법률정보를 보실 수 있습니다."
+			,"paper_pub_title"					:	"논문/저서 | 법무법인(유) 율촌"
+			,"paper_pub_keyword"				:	"율촌, 논문, 저서, 책, 발간, 경쟁저널, 경쟁과법, 세경신문, 월간조세, 저스티스, 노동법률, 노동포스트, NNA"
+			,"paper_pub_description"			:	"율촌의 전문가들이 만든 논문과 저서를 보실 수 있습니다."
+	}
+}

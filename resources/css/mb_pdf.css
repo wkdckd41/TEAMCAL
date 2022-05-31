@@ -1,0 +1,130 @@
+@charset "utf-8";
+@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 100;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.otf) format('opentype');
+	}
+	@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 300;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.otf) format('opentype');
+	}
+	@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 400;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.otf) format('opentype');
+	}
+	@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 500;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.otf) format('opentype');
+	}
+	@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 700;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.otf) format('opentype');
+	}
+	@font-face {
+		font-family: 'Noto Sans KR';
+		font-style: normal;
+		font-weight: 900;
+		src: url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff2) format('woff2'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff) format('woff'),
+		url(http://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.otf) format('opentype');
+	} 
+
+	/* 	기본 스타일 리셋 */
+	body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,p,blockquote,th,td,input,select,textarea,button {margin:0;padding:0;}
+	fieldset,img {border:0 none;}
+	dl,ul,ol,menu,li {list-style:none;}
+	blockquote, q {quotes:none;}
+	blockquote:before, blockquote:after,q:before, q:after {content:''; content:none;}  
+	body {background:#fff; -webkit-text-size-adjust:none; font-size:14px; font-weight:400; line-height:1.5; color:#222; -webkit-font-smoothing:antialiased;}
+	:lang(ko) body, :lang(ko) th, :lang(ko) td, :lang(ko) input, :lang(ko) select, :lang(ko) textarea,
+	:lang(ko) button, :lang(en) body, :lang(en) th, :lang(en) td, :lang(en) input, :lang(en) select, :lang(en) textarea,
+	:lang(en) button {font-family:'Noto Sans KR','Microsoft YaHei New','Microsoft Yahei','微软雅黑','冬青黑体','Hiragino Sans GB',STHeitiSC,SimHei,Helvetica,sans-serif;}
+	:lang(ja) body, :lang(ja) th, :lang(ja) td,
+	:lang(ja) input, :lang(ja) select, :lang(ja) textarea,
+	:lang(ja) button {font-family:'Kozuka Gothic Pro','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3',Osaka,Meiryo,'メイリオ','MS PGothic','MS Pゴシック','Noto Sans KR',Helvetica,sans-serif;}
+	:lang(za) body, :lang(za) th, :lang(za) td,
+	:lang(za) input, :lang(za) select, :lang(za) textarea,
+	:lang(za) button {font-family:'Microsoft YaHei New','Microsoft Yahei','微软雅黑','冬青黑体','Hiragino Sans GB',STHeitiSC,SimHei,'Noto Sans KR',Helvetica,sans-serif} 
+	a {color:#222; text-decoration:none;cursor: default;}
+	a:focus, a:hover {text-decoration:none; color:#222;}
+	a:active {text-decoration:none}
+	address,caption,cite,code,dfn,em,var {font-style:normal; font-weight:normal;}
+	img {max-width:100%; height:auto;}
+
+	/* ==== GRID SYSTEM ==== */
+	[class*="grid-layout"]:after,
+	[class*="grid-layout"]::after {content:""; display:block; clear:both;}
+	[class*="row"] {position:relative;} 
+	[class*="row"]:after,
+	[class*="row"]::after {content:""; display:block; clear:both;}
+	[class*="row"] [class*="col-"] {float:left; margin:0; min-height:0;} 
+	[class*="row"] [class*="col-4"] {width:30.83%;} 
+	[class*="row"] [class*="col-8"] {width:64.16%;} 
+	[class*="row"] [class*="4-nm"] {width: 33.332%;margin: 0;}
+	[class*="row"] [class*="8-nm"] {width: 64.16%;margin: 0;}
+
+	.hidden-sm {display: block;}
+	
+	.info_sbj_box{padding:50px 0;}  
+	.sec_accordian_h{display: none;}
+	.sec_container{overflow:auto;float:left;width:100%; border-top:none;clear:both;background:#fff;}
+	.sec_content{padding:80px 0 70px;}
+		
+	/* 구성원 상세 페이지 */ 
+	.professional_detail{width:1240px;padding:80px 60px; margin:0 auto;box-sizing:border-box;}
+	.professional_detail .sub_visual_area {min-height:640px;height:auto;color:#222;border-bottom:1px solid #ddd;box-sizing:border-box;} 
+	.professional_detail .mb_info_box{display:inline-block;margin:0 auto 35px;background-color:transparent;} 
+
+	.professional_detail .news_list span.lg-hidden{display:none}
+	.professional_detail .mb_info_box .right_box{margin-left:0;}
+	.professional_detail .mb_info_box .right_box a:hover{text-decoration:none;}
+	.professional_detail .mb_info_box a{color:#222;}
+	.professional_detail .mb_info_box p, 
+	.professional_detail .mb_add_info{font-size:18px;line-height:normal;line-height:32px;font-weight:300;}
+	.professional_detail .member_introduce .mb_photo{max-width:278px;} 
+	.professional_detail .mb_info_box .mb_name p span.en{display:inline-block;padding-left:15px;font-size:30px;letter-spacing:0;line-height:normal;} 
+	.professional_detail .mb_info_box .mb_name p,
+	.professional_detail .mb_info_box .position,
+	.professional_detail .mb_info_box .tel_box,
+	.professional_detail .mb_info_box .mb_business p {color:#075aba;font-weight:400;}
+	.professional_detail .mb_info_box .mb_name p{font-size:50px;line-height:58px;font-weight:400;} 
+	.professional_detail .mb_info_box .position{padding:10px 0 0;line-height:normal;} 
+	.professional_detail .mb_info_box .tel_box{margin-right:30px;}  
+ 
+	.professional_detail .mb_info_box .mb_description{margin:30px auto 0;word-break:keep-all;}
+	.professional_detail .mb_info_box .mb_business{margin-top:20px;padding:20px 0;border-top:1px solid #ddd;}
+	.professional_detail .mb_info_box .mb_business p{padding-bottom:10px;font-size:20px;line-height:32px;font-weight:400;}
+	.mb_business .business_field a{display:inline-block;margin:0 5px 16px 0;padding:8px 10px;font-size:16px;border:1px solid #999;line-height: 1.2;font-weight:300;}
+ 
+	.professional_detail .sec_container{padding:40px 0 120px;line-height:32px;}
+	.professional_detail .sec_content{padding:0; }
+	.professional_detail .mb_detail{padding:15px 0;font-size:18px;color:#666;line-height:36px;word-break:keep-all;/*border-bottom:1px solid #ebebeb;*/font-weight:300;}   
+	.professional_detail .mb_detail .txt_title{padding-bottom:20px;font-size:24px;color:#222;font-weight:500;}
+	.professional_detail .mb_detail ul li, 
+	.professional_detail .with_dot{padding-left:10px;background:url(../../../resources/images/common/img_dot.png) no-repeat 0 17px;vertical-align:middle;}
+	.professional_detail .mb_detail span.year{margin-right:15px;}
+	.professional_detail .news_list{display:table;width:100%;}
+	.professional_detail .news_list  span{display:table-cell;width:10%;} 
+	.professional_detail .news_list .txt_date{color:#888;}
+	.professional_detail .news_list .txt_ctg{color:#999;}
+	.professional_detail .news_list .txt_article{width:80%;font-size:18px;line-height:normal;}
+	.professional_detail .news_list .txt_article a{display:block;}  

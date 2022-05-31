@@ -1,0 +1,130 @@
+{
+	"****************************************" : "common_ja",
+	
+	
+	"yulchon"		:	"율촌",
+	"print"			:	"프린트",
+	"comma_space"	:	",",
+	"center_dot"	:	"・",
+	
+	"button"			:{
+		"go"			:	"확인",
+		"save"			:	"保存する",
+		"cancel"			:	"취소",
+		"close"			:	"닫기",
+		"share"			:	"공유하기",
+		"like"			:	"좋아요",
+		"closed"			:	"닫힘",
+		"search"			:	"Search",
+		"select"			:	"선택",
+		"all"			:	"All",
+		"list"			:	"リスト",
+		"learn_more"		:	"詳しく見る",
+		"shortcut"		:	"바로가기",
+		"view_more"		:	"もっと見る",
+		"prev_btn"		:	"前の記事へ",
+		"next_btn"		:	"次の記事へ"
+	},
+	
+	"login"					: "ログイン",
+	"request_login"			: "ログインしてください。",
+	"no_result"				: "検索結果がありません。",
+	"turn_on_auto_complete"		:	"자동완성 켜기",
+	"turn_off_auto_complete"		:	"オートコンプリート機能を無効にする",
+	"no_keyword_result"			:	"検索結果がありません。",
+	
+	"alt"					: {
+		"member_represent_image"	: "구성원 대표 이미지"
+	},
+	
+	"************"			: "header start",
+	"business_field"		: "業務分野",
+	"practices"				: "分野別",
+	"industries"			: "産業別",
+	"international"			: "地域別",
+	"member"				: "構成員",
+	"news_data"				: "お知らせ/資料",
+	"seminar"				: "セミナー",
+	"yulchon_introduce"		: "律村の紹介",
+	"social_contribution"	: "社会貢献",
+	"incruit"				: "人材採用",
+	"introduction"			:	"紹介",
+	"legal_knowledge"		:	"法律知識の社会還元",
+	"sharing"				:	"分かち合いの価値の実現",
+	"creating_shared_value"	:	"共有価値の創造",
+	"in_the_press"		:	"報道資料",
+	"publications"		:	"刊行物",
+	"periodicals"		:	"定期ニュースレター",
+	"legal_update"		:	"最新法律情報",
+	"paper_pub"			:	"論文/著書",
+	"seminars"			:	"セミナー",
+	"seminars_info"	:	"セミナーのご案内",
+	"confirmation_of_application"	:	"受付の確認",
+	"confirmation_letter"	:	"受付確認書の発行",
+	"our_firm"				:	"律村の紹介",
+	"overview_values"		:	"概要/価値",
+	"accolades"				:	"受賞内容",
+	"academy"				:	"アカデミー",
+	"location"				:	"事務所の所在地",
+	"global_office"				:	"グローバルオフィス",
+	"yulchon_news"				:	"お知らせ",
+	"*******"				: "header end",
+	
+	"business_case"			: "最新の事例",
+	"request_newletter"		: "ニュースレター<br>購読のお申込み",
+	"labe_word_part_member_news": "検索キーワードを入力してください。",
+	"searchkey_delete"		: "검색어 삭제",
+	"auto_complete_off"		: "オートコンプリート機能を無効にする",
+	
+	"alert"					: {
+		"thanks_to_contents": "当該コンテンツに関心をお寄せいただきありがとうございます。"
+	},
+	
+	"footer"				: {
+		"legal_notice"					: "免責事項",
+		"privacy_policy"					: "個人情報処理方針",
+		"limited_liability"				: "有限責任",
+		"web_accessibility"				: "WEBサイトアクセスに関する支援",
+		"web_acc_popup_content_1"		: "<span>法務法人(有)律村のＷＥＢサイトは、情報へのアクセスが困難な方々(障害者や高齢者など)がWEBサイトの利用に不便を感じられることのないよう、WEBアクセス性指針を遵守</span>して制作されました。",
+		"web_acc_popup_content_2"		: "今後もすべてのお客様に便利にご利用いただけますよう、持続的に改善を図って参ります。",
+		"site_map"						: "サイトマップ"
+	},
+	
+	"head"					: {
+			"main_title"			: "法務法人(有)律村",
+			"main_keyword"		: "律村、法務法人(有)律村、韓国法律事務所、グローバルローファーム、リーガルサービス、構成員、業務分野、お知らせ、ニュース、資料、受賞、事務所",
+			"main_description"	: "法務法人(有)律村は｢志を一つに法律家の村を作る｣という想いにより1997年に設立されました。豊富な経験と卓越した専門知識を兼ね備えた専門家が、会社法、金融、公正取引、訟務、知的財産権、労働、海外投資などの分野で様々なリーガルサービスを迅速かつ的確に提供しています。"
+		
+	},
+	
+	"title"					: {
+			"download"	:	"다운로드"
+	},
+	
+	"breadcrumb"			: {
+			"home"			: "홈",
+			"share"			: "공유하기",
+			"print_out"		: "프린트"
+			
+	},
+	
+	"ref"						:	{
+			"notice"			:	"告知"
+			,"award"			:	"受賞"
+			,"seminar"			:	"セミナー"
+			,"contribution"		:	"寄稿"
+			,"event"			:	"イベント"
+			,"attended_event"	:	"イベント参加"
+			,"commission"		:	"委嘱"
+			,"selection"		:	"選定"
+			,"publication"		:	"発刊"
+			,"appointment"		:	"任命"
+			,"announcement"		:	"発表"
+			,"interview"		:	"インタビュー"
+	}
+	
+	,"partChoice"		: 	"分野選択"
+	,"check_all"		: 	"すべて選択"
+	,"logout_confirm"	: 	"ログアウトしますか？"
+	,"logout_result"	: 	"ログアウトされました。"
+}

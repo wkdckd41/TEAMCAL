@@ -1,0 +1,33 @@
+{
+	"****************" : "ko"
+	
+	,"expertise"		: "업무분야"
+	,"practices"		: "분야별"
+	,"industries"		: "산업별"
+	,"international"	: "지역별"
+	,"search_keyword_input"	: "업무분야 검색"
+	
+	,"head"		:	{
+		"title"						:	"법무법인(유) 율촌"
+		,"practices_keyword"		:	"율촌, 업무분야, practice, 산업별, 그룹, 팀"
+		,"industries_keyword"		:	"율촌, 업무분야, practice, 산업별"
+		,"international_keyword"	:	"율촌, 업무분야, practice, 지역별"
+		,"practices_description"	:	"율촌은 다양한 분야에 대해 최고의 전문가들이 정통한 법률 서비스를 제공하고 있습니다."
+		,"industries_description"	:	"율촌은 다양한 산업에 대해 최고의 전문가들이 정통한 법률 서비스를 제공하고 있습니다."
+		,"international_description":	"율촌은 풍부한 국제업무 경험 및 글로벌 네트워크를 기반으로 기업의 원활한 해외 사업을 지원합니다."
+	}
+	
+	,"experise_moreview"	:	"업무분야 더보기"
+	,"professional"			:	"구성원"
+	,"professional_moreview":	"구성원 더보기"
+	,"performance"			:	"주요실적"
+	,"awards"				:	"소식/수상"
+	,"publications"			:	"간행물"
+	
+	,"periodicals"		:	"정기뉴스레터"
+	,"legal_update"		:	"최신법률정보"
+	,"paper_pub"		:	"논문/저서"
+	,"deals_and_cases"	:	"업무사례"
+	,"yulchon_news"		:	"율촌소식"
+	,"in_the_press"		:	"언론보도"
+}

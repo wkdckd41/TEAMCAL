@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import "../../en/font.css";
+
+/*다국어 로고*/
+.header_inner .logo{width:154px}
+.header_inner .logo a{background: url(/images/common/bg_logo_global.png) no-repeat left bottom; background-size: 100% auto;}
+
+@media only screen and (max-width: 767px) {
+	/*다국어 로고*/
+	.header_inner .logo{width:99px}
+	.header_inner .logo a{background: url(/images/common/bg_logo_global_m.png) no-repeat left bottom; background-size: 100% auto;}
+
+}

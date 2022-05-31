@@ -1,0 +1,271 @@
+{
+	"**********"	:	"membership_ja",
+	
+	"head"		:	{
+		"consent_title"			:	"会員登録約款の同意 | 法務法人(有)律村"
+		,"consent_keyword"		:	"律村、会員登録、メンバーシップ、約款同意"
+		,"consent_description"	:	"会員登録約款の同意に関するページです。"
+		,"login_title"			:	"ログイン | 法務法人(有)律村"
+		,"login_keyword"		:	"律村、会員登録、メンバーシップ、ログイン"
+		,"login_description"	:	"律村会員のログインページです。"
+		,"id_title"				:	"Ｅメール(ID)を確認する | 法務法人(有)律村"
+		,"id_keyword"			:	"律村、会員登録、メンバーシップ、ログイン、Eメール、ID、IDを確認する"
+		,"id_description"		:	"律村会員のＥメール(ID)はこちらでご確認いただけます。"
+		,"pw_title"				:	"パスワードを確認する | 法務法人(有)律村"
+		,"pw_keyword"			:	"律村、会員登録、メンバーシップ、ログイン、Eメール、ID、パスワード、ＩDを確認する、パスワードを確認する"
+		,"pw_description"		:	"律村会員のパスワードはこちらでご確認いただけます。"
+	},
+		
+	"logo"					:	"법무법인(유) 율촌",
+	
+	"joinUs"				:	"会員登録",
+	"membership"			:	"会員登録",
+	"findOutAccount"		:	"Ｅメール(ＩＤ)を確認する",
+	"findOutPW"				:	"パスワードを確認する",
+	"passwordChange"		:	"パスワードの変更",
+	"rpasswordChange"		:	"パスワードの定期変更について",
+	"emailAuth"				:	"메일인증",
+
+	"email_resend"			:	"認証メール再送信",
+	"main"					:	"メイン画面に戻る",
+	"login"					:	"ログイン",
+	"list"					:	"リスト",
+
+	"alert_email_resend"	:	"認証メールが再送信されました。",
+	"alert_change_pw"		:	"パスワードが再設定されました。\n変更されたパスワードでログインしてください。",
+	"alert_login"			:	"로그인 후 이용 가능합니다.",
+	"alert_email"			:	"정상적인 이메일 주소가 아닙니다.",
+	"alert_link"			:	"유효하지 않은 링크입니다.",
+	"alert_opt_out"			:	"수신거부 처리 완료 되었습니다.",
+	"alert_error"			:	"오류가 발생하였습니다. 다시 시도해주세요.",
+	"alert_find_pw"			:	"パスワードを確認する画面に移動します。",
+	"alert_check"			:	"会員登録されていません。\nEメールとパスワードをご確認ください。",
+	"alert_login_do"		:	"ログインされました。",
+	
+	"password_placeholder"	:	"新しいパスワード",
+	"password2_placeholder"	:	"新しいパスワードの再入力",
+	"phone_placeholder"		:	"‘-’ 除外’",
+	
+	"emailEmpty"			:	"メールアドレスを入力してください。",
+   	"emailFormat"			:	"メールアドレスの形式にしたがい入力してください。",
+   	"emailOverlap"			:	"すでに登録されているメールアドレスです。",
+   	"emailDomain"			:	"法人のメールアドレスを入力してください。",
+   	"emailBlack"			:	"使用できないメールアドレスです。",
+   	
+   	"pw1Empty"				:	"パスワードを入力してください。",
+   	"pw1Format"				:	"パスワードの形式に沿って入力してください。",
+   	"pw1Blank"				:	"パスワードはスペースなしに入力してください。",
+   	"pw1Email"				:	"パスワードをEメールアドレスと同一にすることはできません。",
+   	"pw1Refresh"			:	"既存のパスワードと異なるパスワードを入力してください。",
+   	
+   	"pw2Empty"				:	"パスワードをもう一度入力してください。",
+	"pw2Matching"			:	"パスワードが一致しません。",
+	
+	"opwRefresh"			:	"既存のパスワードと一致しません。",
+	
+	"phEmpty"				:	"携帯電話の番号を入力してください。",
+	"phFormat"				:	"形式にしたがい入力してください。",
+	
+	"tab"	:	{
+		"consent_to_terms_and_conditions"		:	"<span>1</span>約款の同意"
+	   ,"entry_of_information"					:	"<span>2</span>情報入力"
+	   ,"completion_of_membership"				:	"<span>3</span>登録完了"
+	},
+
+	"consent_to_terms_and_conditions"		:	{
+		"next"					:	"次へ"
+	},
+	
+	"entry_of_information"		:	{
+		"txt_info"					:	"<span class=\"txt_essential\">* 印の項目</span>は必須入力項目です。"
+	  
+	   ,"legend"					:	"회원가입 폼"
+
+	   ,"email"						:	"Ｅメール(法人)<span class=\"txt_essential\">*</span>"
+	   ,"emailSuccess"				:	"使用可能なメールアドレスです。"
+	   
+	   ,"password"					:	"パスワード<span class=\"txt_essential\">*</span>"
+	   ,"pw1Success"				:	"安全なパスワードです。"
+	   ,"pw_txt_dsc"				:	"アルファベットの大文字、小文字、数字、特殊文字のうち3種類以上を組み合わせて8~20字で作成する必要があります。"
+
+	   ,"password2"					:	"パスワード<span class=\"txt_essential\">*</span>"
+	   ,"pw2Success"				:	"パスワードが一致しました。"
+	   
+	   ,"memberName"				:	"氏名<span class=\"txt_essential\">*</span>"
+	   ,"nmEmpty"					:	"氏名を入力してください。"
+	   ,"nmFormat"					:	"氏名を2文字以上入力してください。"
+	   ,"nmMax"						:	"입력 가능한 이름의 최대 길이를 초과하였습니다."
+	   
+	   ,"cellphone"					:	"携帯電話番号<span class=\"txt_essential\">*</span>"
+	   ,"ph_txt_dsc"				:	"携帯電話番号の収集は情報の重複を判断するための手段であり、広報の手段として使用されることはありません。"
+
+	   ,"companyName"				:	"法人名<span class=\"txt_essential\">*</span>"
+	   ,"companyName_placeholder"	:	"请输入法人名称"
+	   ,"cnmEmpty"					:	"法人名を入力してください。"
+
+	   ,"lawyerYN"					:	"法曹人ですか"
+	   ,"user_yes"					:	"はい"
+	   ,"user_none"					:	"いいえ"
+
+	   ,"phone"						:	"法人の電話番号"
+	   
+	   ,"department"				:	"部署名"
+	  
+	   ,"companyLevel"				:	"役職"
+
+	   ,"interestPart"				:	"関心のある分野"
+	   ,"partChoice"				:	"分野選択"
+	   
+	   ,"joinComplete"				:	"登録完了"
+
+	   ,"alert_consent_to_terms_and_conditions"		:	"필수정보 동의 값이 존재하지 않습니다.\n회원가입을 다시 진행해주세요."
+	},
+	
+	"complete_sign_up"		:	{
+		"add_dsc"	:	"<p>メールにある認証ボタンを押して手続を完了するとログインできます。</p><p>認証メールが確認できない場合は迷惑メールフォルダをご確認いただくか、認証メールの再送信ボタンを押してください。</p>"
+	},
+	
+	"completion_of_membership"		:	{
+		"dsc_tl"	:	"会員登録完了"
+	   ,"add_dsc"	:	"<p class=\"non_br\"><span>法務法人(有)ホームページ</span>にご登録いただきありがとうございます。</p><p class=\"non_br\">只今、ログインしますと、最新法務情報及びセミナーのお申し込み、ニュースレターの定期購読など有益なサービスをより便利にお楽しみいただけます。</p><p>&nbsp;</p><p class=\"non_br\">法務法人(有)律村では、<br>会員の個人情報を安全に管理し、個人情報の盗用による被害を防止するため<br>11ヵ月ごとに暗証番号の変更手続を行っています。<br>期限内に変更しない場合、自動的に会員の退会処理が行われますので<br>あらかじめご了承くださいますようお願い申し上げます。</p>"
+	},
+	
+	"incomplete_email_address_confirmation"		:	{
+		"dsc_tl"	:	"Eメール認証未完了のご案内"
+	},
+	
+	"session_time_out"		:	{
+		"dsc_tl"	:	"認証有効時間を超過しました。"
+	   ,"membership_application_add_dsc"	:	"<p>認証有効時間の超過により認証することができません。</p><p>下段の認証メール再送信ボタンを押すと 認証メールを再送信することができます。</p>"
+	   ,"find_add_dsc"	:	"<p>認証有効時間の超過により認証することができません。<br>下段の認証メール再送信ボタンを押すと<br>認証メールを再送信することができます。</p>"
+	   ,"my_account_add_dsc"	:	"<p>認証有効時間の超過により認証することができません。<br>下段の認証メール再送信ボタンを押すと<br>認証メールを再送信することができます。</p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>認証有効時間の超過により認証することができません。<br>下段の認証メール再送信ボタンを押すと<br>認証メールを再送信することができます。</p>"
+	},
+	
+	"verification_failure"	:	{
+		"dsc_tl"	:	"認証に失敗しました。"
+	   ,"membership_application_add_dsc"	:	"<p>有効なリンクではありません。</p><p>すでに再送されたメールをご確認いただくか、下段にある認証メール再送信ボタンを押して認証メールを再度送信してください。</p>"
+	   ,"find_add_dsc"	:	"<p>有効なリンクではありません。<br>すでに再送されたメールをご確認いただくか、<br>下段にある認証メール再送信ボタンを押して<br>認証メールを再度送信してください。</p>"
+	   ,"my_account_add_dsc"	:	"<p>有効なリンクではありません。<br>すでに再送されたメールをご確認いただくか、<br>下段にある認証メール再送信ボタンを押して<br>認証メールを再度送信してください。 </p>"
+	   ,"regular_password_change_add_dsc"	:	"<p>有効なリンクではありません。<br>すでに再送されたメールをご確認いただくか、<br>下段にある認証メール再送信ボタンを押して<br>認証メールを再度送信してください。 </p>"
+	},
+	
+	"complete"			: 	{
+		"find_out_pw"	: "パスワードお忘れの方は？<span><a href=\"javascript:find.fnFindOutPW();\">パスワードを確認する</a></span>"
+	},
+	
+	"find_out_email_address_or_id"	: 	{
+		"legend"				:	"이메일(아이디)찾기  폼"
+		
+	   ,"name_placeholder"		:	"氏名"
+	   ,"nameEmpty"				:	"氏名を入力してください。"
+	   
+	   ,"cellphone_placeholder"	:	"携帯電話番号(‘-’ 除外)"
+	   
+	   ,"al_left"				:	"パスワードお忘れの方は？<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutPW();\">パスワードを確認する</a></span>"
+
+	   ,"alert_find_out_email_address_or_id"				:	"登録された情報が見つかりません。"
+	},
+	
+	"find_out_password"	: 	{
+	   "al_left"		:	"Ｅメールアドレス(ＩＤ)をお忘れですか？<span class=\"fl_right\"><a href=\"javascript:find.fnFindOutEmail();\">Ｅメールアドレス(ＩＤ) を確認する</a></span>"
+	   
+	   ,"alert_find_out_password"				:	"登録された情報が見つかりません。"
+	},
+	
+	"password_change"	:	{
+		"password_change_p"			:	"パスワードはアルファベットの大文字、小文字、数字、特殊文字のう ち3種類以上を組み合わせて8~20字で作成してください。"
+	   ,"legend"					:	"비밀번호 변경 폼"
+	   ,"opw_placeholder"			:	"既存のパスワード"
+	   ,"npw_placeholder"			:	"新しいパスワード"
+	   ,"rnpw_placeholder"			:	"新しいパスワードの再入力"
+	   ,"alert_password_change"		:	"パスワードが再設定されました。\n変更されたパスワードでログインしてください。"
+	},
+	
+	"sending_confirmation_email"	:	{
+		"add_dsc"	:	"<p>メールにある変更ボタンを押して認証手続を完了してください。<br>認証メールが確認できない場合は迷惑メールフォルダ内をご確認いただくか、認証メールの再送信を実行してください。</p>"
+	},
+	
+	"confirmation_of_password"	:	{
+		"dsc_tl"	:	"パスワードの確認"
+	   ,"pw_confirm":	"パスワードを確認する"
+	   ,"password_placeholder"	:	"パスワード"
+	   ,"alert_confirmation_of_password"	:	"パスワードを再確認してください"
+	},
+	
+	"membership_withdrawal"		:	{
+		"dsc_tl"	:	"退会手続完了"
+	   ,"add_dsc"	:	"<p>法務法人(有)律村ＷＥＢサイトをご利用いただきありがとうございました。</p>"
+	},
+	
+	"my_info"	:	{
+		"fm_txt_info"		:	"<span class=\"txt_essential\">* 印の項目</span>は必須入力項目です。"
+	   ,"createDate"		:	"登録日"
+	   ,"email"				:	"Ｅメール(法人)"
+	   ,"password"			:	"パスワード"
+	   ,"password_change"	:	"パスワードの変更"
+	   ,"memberName"		:	"氏名"
+	   ,"cellphone"			:	"携帯電話番号<span class=\"txt_essential\">*</span>"
+	   ,"companyName"		:	"法人名"
+	   ,"lawyerYN"			:	"法曹人ですか"
+	   ,"user_yes"			:	"はい"
+	   ,"user_none"			:	"いいえ"
+	   ,"phone"				:	"法人の電話番号"
+	   ,"department"		:	"部署名"
+	   ,"companyLevel"		:	"役職"
+	   ,"interestPart"		:	"関心のある分野"
+	   ,"partChoice"		:	"分野選択"
+	   ,"serviceYN"			:	"律村会員専用 サービスの受信"
+	   ,"info_txt"			:	"<em>セミナーの簡易申込み / 関心分野のニュースレター受信など律村会員限定の特別なサービスをご提供いたします。</em>"
+	   ,"agree"				:	"同意する"
+	   ,"nonagree"			:	"同意しない"
+	   ,"update"			:	"修正完了"
+	   ,"withdrawal_txt"	:	"退会"
+	   ,"withdrawal"		:	"退会する"
+	   ,"alert_my_info"		:	"등록된 정보를 찾을 수 없습니다."
+	   ,"confirm_my_info"	:	"退会すると律村の会員専用サービスを受けることができなくなり、退会から30日間、同一メールでの再登録ができません。退会しますか？ "
+	},
+	
+	"my_seminar"	:	{
+		"detailView"		:	"詳しく見る"
+	   ,"pdfDownload"		:	"参加確認書"
+	   ,"seminarTime"		:	"開催日時"
+	   ,"place"				:	"場所"
+	   ,"recruitingDate"	:	"受付日時"
+	   ,"recruitingDateView":	"受付日時"
+	   ,"requestNumber"		:	"受付番号"
+	   ,"keyword"			:	"セミナーを検索する"
+	   ,"keyword_title"		:	"세미나 검색어 입력"
+	   ,"not_attending"		:	"不参加"
+	   ,"before_attendance"	:	"参加前"
+	},
+	
+	"my_account"	:	{
+		"add_dsc"	:	"<p>メールにある変更ボタンを押して認証手続を完了してください。</p><p>認証メールが確認できない場合は迷惑メールフォルダ内をご確認いただくか、<br>認証メールの再送信を実行してください。</p>"
+	},
+	
+	"regular_password_change"	:	{
+		"txt_dsc"			:	"法務法人(有)律村では<br>会員の個人情報を安全に管理し、個人情報の盗用による被害を防止するため<span>11ヶ月ごとにパスワードの変更手続</span>を行っています。<br>期限内に変更しない場合、自動的に会員の退会処理が行われます。<br>あらかじめご了承くださいますようお願い申し上げます。<br>"
+	   ,"time_to_change"	:	"変更期限"
+	   ,"year"				:	"年"
+	   ,"month"				:	"月"
+	   ,"date"				:	"日"
+	   ,"till"				:	"まで"
+	},
+	
+	"my_pdf"	:	{
+		"confirmation_of_participation"	:	"参　加　確　認　書"
+	   ,"date"							:	"日時"
+	   ,"venue"							:	"場所"
+	   ,"topics_and_speakers"			:	"セミナーのテーマおよび発表者"
+	   ,"presentation1"					:	"発表I"
+	   ,"presentation2"					:	"発表III"
+	   ,"presentation3"					:	"発表IIII"
+	   ,"presentation4"					:	"発表IIV"
+	   ,"presentation5"					:	"発表IV"
+	   ,"participant"					:	"参加者"
+	   ,"yulchon"						:	"法務法人(有)律村"
+	},
+	
+	"send_message"	:	"<span>{{email}}</span>に認証メールを送信しました。"
+}

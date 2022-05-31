@@ -1,0 +1,33 @@
+{
+	"****************" : "ja"
+	
+	,"expertise"		: "業務分野"
+	,"practices"		: "分野別"
+	,"industries"		: "産業別"
+	,"international"	: "地域別"
+	,"search_keyword_input"	: "業務分野を検索"
+		
+	,"head"		:	{
+		"title"						:	"法務法人(有)律村"
+		,"practices_keyword"		:	"律村、業務分野、practice、産業別、グループ、チーム"
+		,"industries_keyword"		:	"律村、業務分野、practice、産業別"
+		,"international_keyword"	:	"律村、業務分野、practice、地域別"
+		,"practices_description"	:	"律村ではあらゆる分野に精通した最高の専門家が、多様なリーガルサービスを提供しています。"
+		,"industries_description"	:	"律村ではあらゆる産業に精通した最高の専門家が、多様なリーガルサービスを提供しています。"
+		,"international_description":	"律村は豊富な国際業務経験やグローバルネットワークを活用し、企業の海外事業を全面的にサポートしています。"
+	}
+	
+	,"experise_moreview"	:	"業務分野をもっと見る"
+	,"professional"			:	"構成員"
+	,"professional_moreview":	"構成員をもっと見る"
+	,"performance"			:	"主な実績"
+	,"awards"				:	"お知らせ/受賞"
+	,"publications"			:	"刊行物"
+		
+	,"periodicals"		:	"定期ニュースレター"
+	,"legal_update"		:	"最新法律情報"
+	,"paper_pub"			:	"論文/著書"
+	,"deals_and_cases"	:	"最新の事例"
+	,"yulchon_news"		:	"お知らせ"
+	,"in_the_press"		:	"報道資料"
+}

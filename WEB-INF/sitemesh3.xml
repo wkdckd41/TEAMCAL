@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+<!-- 	<mapping path="/**/*.do"  decorator="/WEB-INF/jsp/egovframework/cmmn/decorator/layout_sub.jsp" /> layout -->
+	<!-- <mapping path="/**/main/main.do"  decorator="/WEB-INF/jsp/egovframework/cmmn/decorator/layout_main.jsp" /> --> <!-- main layout -->
+	<!-- <mapping path="/**/**/*.do"  decorator="/WEB-INF/jsp/egovframework/cmmn/decorator/layout_sub.jsp" /> --> <!-- layout -->
+    <mapping path="/email/*.do" exclue="true"/>							<!-- Email 예외 -->
+    <mapping path="/**/**/*.do" exclue="true"/>							<!-- Email 예외 -->
+    
+    <mapping path="/*.ajax" exclue="true"/>              <!-- ajax 예외 -->
+    <mapping path="/**/*.ajax" exclue="true"/>            <!-- ajax 예외 -->
+</sitemesh>

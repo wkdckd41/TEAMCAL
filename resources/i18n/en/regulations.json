@@ -1,0 +1,112 @@
+{
+	"****************": "regulations_en",
+	"legal_notice"		: "Legal Notice",
+	"legal_notice_desc"	: "Material included in our website has been prepared for informational purposes only and is not offered as advice on any particular matter.The material contained herein is not offered as legal or any other advice on any particular matter. The Firm and the contributing authors expressly disclaim all liability to any person in respect of anything and in respect of the consequences of anything done or omitted to be done wholly or partly In reliance upon the whole or any part of the contents of the YUCHON web site. No client or other reader should act or refrain from acting on the basis of any matter contained in this web page without seeking the appropriate legal or other professional advice on the particular facts and circumstances at issue. We are not responsible for any third party contents which can be accessed through this website.<br><br>Contact Us<br><a href=\"mailto:mail@yulchon.com\">mail@yulchon.com</a>",
+	"limited_liability"	: "Limited Liability",
+	"limited_liability_description": "Yulchon LLC is a limited liability company incorporated under the Attorney-at-Law Act.<br>If an attorney in charge of a case intentionally or negligently cause damage to the client, that attorney and the firm will be jointly liable for the damages. The partner who directly supervised the attorney in charge will also be jointly liable for the damages, unless that partner has executed his/her supervisory obligations to the fullest extent.",
+	"privacy_policy": "Privacy Policy",
+	"privacy_policy_description": "Yulchon LLC (“Yulchon”) has established and released this Privacy Policy (this “Policy”) in accordance with the applicable Korean laws and regulations to (i) protect personal information, and rights and interests of data subjects, and (ii) properly handle any complaints of data subjects regarding their personal information.",
+	"privacy_policy_1_title": "<span class=\"tit_article\">Article 1 </span><span>Items of Personal Information to be Processed, Purpose of Processing, and Period of Processing and Retention</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_2_title": "<span class=\"tit_article\">Article 2 </span><span>Sharing of Personal Information with Third Party</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_3_title": "<span class=\"tit_article\">Article 3 </span><span>Entrustment of Processing of Personal Information</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_4_title": "<span class=\"tit_article\">Article 4 </span><span>Rights and Obligations of Data Subjects and Means to Exercise Rights</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_5_title": "<span class=\"tit_article\">Article 5 </span><span>Destruction of Personal Information</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_6_title": "<span class=\"tit_article\">Article 6 </span><span>Security Measures for Protection of Personal Information</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_7_title": "<span class=\"tit_article\">Article 7 </span><span>Amendment to Privacy Policy</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_8_title": "<span class=\"tit_article\">Article 8 </span><span>Remedies for Infringement on Rights and Interests</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_9_title": "<span class=\"tit_article\">Article 9 </span><span>Chief Privacy Officer</span><span class=\"ico_arrow\"></span>",
+	"privacy_policy_1": {
+		"description_1": "① The items of personal information to be processed by Yulchon, purpose of processing, and period of processing and retention of personal information are as follows:",
+		"items": "Items",
+		"purpose": "Purpose",
+		"period": "Period",
+		"subtitle_1": "1. Personal Information of Client",
+		"items_content_1": "Name, contact information (address, phone number, e-mail, etc.), workplace information (company name, title, duties, etc.)",
+		"items_content_2": "Any other information generated or received by Yulchon in the course of providing services for client, or establishing, maintaining or managing client relationships",
+		"purpose_content_1": "Provision of services for client, establishment, maintenance and management of client relationships, investigation of cases or matters, dispute resolution, handling of complaints and performance of obligations under applicable laws",
+		"purpose_content_2": "Sending out of seminar invitations and newsletters and provision of other information",
+		"period_content_1": "Until the accomplishment of above purposes or the withdrawal of consent by data subjects",
+		"subtitle_2": "2. Personal Information of Applicants for Professional or Other Positions, Practical Training and Internships",
+		"items_content_3": "<strong>Applicants for Professional or Other Positions <br>[Required Items]：</strong>Name, date of birth, contact information (address, phone number, e-mail, etc.), photo, gender, educational background, military history and veterans affairs, work experience, reason for application and personal statement)<br><strong>[Optional Items]： </strong>Family background, awards and recognitions, foreign language skills, licenses or certificates, and any other information contained in the documents submitted and reference information",
+		"items_content_4": "<strong>Applicants for Practical Training and Internships <br>[Required Items]：</strong> Name, date of birth, contact information (address, phone number, e-mail, etc.), photo, gender, educational background, military history and veterans affairs, work experience, reason for application and personal statement<br><strong>[Optional Items]：</strong>Family background, awards and recognitions, foreign language skills, licenses or certificates, and any other information contained in the documents submitted, reference information, and results of practical training or internships (in case of hiring only)",
+		"purpose_content_3": "<strong>Applicants for Professional or Other Positions：</strong>Verification of identity of applicants, educational background and work experience, evaluation, determination and notification of hiring, and confirmation of intent of applicants to apply for subsequent openings.",
+		"purpose_content_4": "<strong>Applicants for Practical Training and Internships：</strong> Verification of identity of applicants, educational background and work experience, evaluation, determination and notification of offer of practical training or internships, establishment, maintenance and management of internships, and decision on final hiring",
+		"period_content_2": "Until the accomplishment of above purposes or the withdrawal of consent by data subjects. However, Yulchon thereafter may retain personal information for the sole purpose of resolving disputes, handling complaints, and performing its obligations under applicable laws.",
+		"subtitle_3": "3. Personal Information of Officers and Employees (Professional or Other Positions)",
+		"items_content_5": "<strong>[Required Items]： </strong>Name, personal identification number such as resident registration number, nationality, contact information (address, phone number, e-mail, etc.), photo, personnel information for maintaining employment relations (information on personnel record card and documents submitted at the time of employment such as resident registration extract, and personnel management information generated or created in connection with employment relations, such as employee number, department, duties, absenteeism and tardiness, and performance evaluations, disciplinary actions, retirement or resignation)",
+		"items_content_6": "<strong>[Optional Items]： </strong>Family background",
+		"purpose_content_5": "Execution and maintenance of employment contract (hiring)",
+		"purpose_content_6": "Handling of necessary matters for personnel management purpose, such as placement, evaluations, payment of compensation, welfare benefits, training and education, etc.",
+		"purpose_content_7": "Preparation of members directory and posting to group messenger (department, title, name, e-mail and phone number)",
+		"description_2": "② Yulchon in principle does not collect sensitive information that may likely invade privacy of data subjects. However, if necessary, Yulchon may collect sensitive information after separately obtaining prior consent of data subjects and use such information for the limited purpose as consented by data subjects. Yulchon will regularly check the accuracy of, and update, the collected sensitive information."
+	},
+	"privacy_policy_2": {
+		"subtitle_1": "① In principle, Yulchon processes personal information of data subjects only for the purposes as specified in Article 1 above. Yulchon does not process or share personal information with a third party beyond the original scope of purposes without prior consent of data subjects.<br>However, in any of the following circumstances, Yulchon may use or share personal information with a third party for other purposes, unless such use or sharing would be likely to unjustly infringe upon the interests of data subjects or a third party:",
+		"subtitle_1_content_1": "Where data subjects have consented to the sharing of personal information with a third party in advance;",
+		"subtitle_1_content_2": "Where there are special provisions in other laws regarding the use or sharing of personal information with a third party;",
+		"subtitle_1_content_3": "Where it is impossible to obtain prior consent of data subjects since data subjects or their legal representatives cannot express their intentions or their addresses are unknown, and the use or sharing of personal information with a third party is deemed clearly and urgently required to protect life, body, or proprietary interests of a client or third party; or",
+		"subtitle_1_content_4": "Where the use or sharing of personal information with a third party is deemed necessary for statistical purpose or academic research, and personal information is provided in a manner the identity cannot be verified.",
+		"subtitle_2": "② Upon receipt of consent as set forth in Paragraph (1) above, Yulchon shall inform data subjects of the following items. For any changes to any of the following items by Yulchon, Yulchon shall also inform data subjects of such change and obtain their consent thereto:",
+		"subtitle_2_content_1": "Name of the recipient of personal information;",
+		"subtitle_2_content_2": "Purpose of the use of personal information (if provided to a third party, the purpose of such third party);",
+		"subtitle_2_content_3": "Items of personal information to be used or provided;",
+		"subtitle_2_content_4": "Period of retention and use of personal information (if provided to a third party, the period of retention and use by recipient); and",
+		"subtitle_2_content_5": "Data subject’s right to refuse to provide consent and any disadvantage, if any, that may result from such refusal."
+	},
+	"privacy_policy_3": {
+		"subtitle_1": "① Yulchon entrusts personal information to external parties as follows. Yulchon will notify through this Policy any changes to the entrusted entities or entrusted services without delay.",
+		"subtitle_1_desc": "· Yulchon LLC hereby discloses the details of entrusted services and entities pursuant to Article 26 of the Personal Information Protection Act..",
+		"subtitle_1_content_1": "<div class=\"content_th\">Entrusted Services</div><div class=\"content_th\">Entrusted Entities</div>",
+		"subtitle_1_content_2": "<div class=\"content_th\">Application Development.Operation</div><div class=\"content_th\">Kuwoo Information Technology</div>",
+		"subtitle_1_content_3": "<div class=\"content_th\">Entrusted Collection of Payment Service</div><div class=\"content_th\">SCI Information Service</div>",
+		"subtitle_1_content_4": "<div class=\"content_th\">Sending Emails</div><div class=\"content_th\">Netpathy Maillink</div>",
+		"subtitle_1_content_5": "<div class=\"content_th\">CRM Maintenance</div><div class=\"content_th\">Hyung Deok Yoon</div>",
+		"subtitle_2": "② At the time of entering into an agreement with the entrusted entity, Yulchon, as required under applicable laws and regulations, specifies, in the agreement the responsibility of the entrusted entity, including prohibition of processing of personal information for any purpose other than that of performing the services entrusted, technical and administrative measures for protection of personal information, restriction on re-entrustment, management and supervision of the entrusted entity, and compensation for damages, and monitors whether the entrusted entity safely processes personal information."
+	},
+	"privacy_policy_4": {
+		"content_1": "① Data subjects may exercise their rights pertaining to the protection of personal information towards Yulchon such as request for access to, correction or deletion of, or suspension of processing of the personal information in accordance with the relevant laws and regulations, including the Personal Information Protection Act.",
+		"content_2": "② Data subjects may exercise their rights under Paragraph above through their legal representatives or authorized persons in which case the legal representatives or authorized persons will be required to submit the power of attorney in accordance with the Enforcement Rules of the Personal Information Protection Act.",
+		"content_3": "③ Yulchon will immediately take actions with respect to the exercise of rights by data subjects in accordance with the applicable laws and regulation, including the Personal Information Protection Act."
+	},
+	"privacy_policy_5": {
+		"content_1": "① In principle, Yulchon shall destroy all personal information without delay when the retention of personal information is no longer necessary, e.g., where the purposes of processing personal information have been accomplished.",
+		"content_2": "② If Yulchon is required to keep and maintain certain personal information without destroying in accordance with the applicable laws and regulations, Yulchon will do so by separating such personal information from other personal information.",
+		"content_3": "③ Yulchon shall select personal information that is subject to destruction and destroy such information with the Chief Privacy Officer’s approval.",
+		"content_4": "④ If personal information to be destroyed is in the form of electronic files, Yulchon shall permanently delete such files to be un-restorable, and if such information is in the form of records, print-outs, documents or other recording media, Yulchon shall shred or incinerate them."
+	},
+	"privacy_policy_6": {
+		"content_1": "Yulchon is taking the following security measures for the protection of personal information：",
+		"content_2_1": "Administrative measures: Establishment and implementation of internal management plan, and regular education and training of personnel regarding the protection of personal information;",
+		"content_2_2": "Technical measures: Management of right to access to personal information processing system, installation of access control system, encryption and installation of security program, etc.",
+		"content_2_3": "Physical measures: Access control to computer room or server room where personal information is stored."
+	},
+	"privacy_policy_7": {
+		"content_1": "This Policy is subject to change according to the applicable laws, regulations and guidelines, and Yulchon’s internal regulations. Yulchon will disclose any amendments to this Policy, including the timing of amendments and implementations and details of amendments, on Yulchon’s website (www.yulchon.com) and provide the comparison of this Policy before and after the amendments so that data subjects may easily review the amendments."
+	},
+	"privacy_policy_8": {
+		"content_1": "If you need to report or have consultation regarding any invasion of privacy, please contact the following agencies and institutions：",
+		"kopico": "Personal Information Dispute Mediation Committee : <a href=\"http://www.kopico.go.kr/\" target=\"_blank\">www.kopico.go.kr/</a> (1833-6972)",
+		"kisa": "Personal Information Infringement Reporting Center of Korean Internet Security Agency : <a href=\"http://privacy.kisa.or.kr/\" target=\"_blank\">privacy.kisa.or.kr/</a> (118)",
+		"spo": "High-Technology Crime Investigation Division of Supreme Prosecutors’ Office : <a href=\"http://www.spo.go.kr/eng/index.jsp\" target=\"_blank\">www.spo.go.kr/eng/index.jsp</a> (02-3480-3573)",
+		"cyberbureau": "Cyber Bureau : <a href=\"http://cyberbureau.police.go.kr/\" target=\"_blank\">cyberbureau.police.go.kr/</a> (182)"
+	},
+	"privacy_policy_9": {
+		"content_1": "Yulchon’s Chief Privacy Officer is as follows：",
+		"content_1_1": "Chief Privacy Officer : Attorney, In Bo Song",
+		"content_1_2": "Contact Information: 02-528-5200, <a href=\"mailto:privacy@yulchon.com\">privacy@yulchon.com</a>",
+		"content_2": "The following person is in charge of handling request for access to personal information, inquiries regarding personal information protection, complaints and remedies regarding personal information：",
+		"content_2_1": "Person-in-charge : Knowledge Management Department , Team Manager, Jung Hyun Lee / IT Department, Assistant Manager, Jeong Hoon Lee / Business Development &amp; Planning Department, Assistant Manager, Woo Ri Kim",
+		"content_2_2": "Contact Information: 02-528-5200, <a href=\"mailto:privacy@yulchon.com\">privacy@yulchon.com</a>"
+	},
+	"head": {
+		"legal_notice_title": "Indemnity Notice | Yulchon LLC",
+		"legal_notice_description": "This is Yulchon's indemnity notice page",
+		"legal_notice_keywords": "Yulchon, Indemnity Notice",
+		"limited_liability_title": "Limited Liability | Yulchon LLC",
+		"limited_liability_description": "This is Yulchon’s limited liability page",
+		"limited_liability_keywords": "Yulchon, LLC, Limited Liability",
+		"privacy_policy_title": "Yulchon, personal information processing policy | Yulchon LLC",
+		"privacy_policy_description": "This is Yulchon's personal information processing policy page",
+		"privacy_policy_keywords": "Yulchon, personal information processing policy"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"****************" : "error_en"
+	
+	,"404"	:	{
+		"top_logo"		:	"법무법인 (유)율촌"
+		,"msg_tl"		:	"We’re sorry, <br><span>the page you requested cannot be found.</span>"
+		,"msg_des"		:	"Maybe the page was moved or deleted, or perhaps you just mistyped the address.<br>Please make sure that it is spelled correctly or try <a href=\"javascript:void(0);\" class=\"reload\">refreshing </a> the page."
+		,"msg_button"	:	"홈으로 이동"
+	}
+	
+	,"error"	:	{
+		"top_logo"		:	"법무법인 (유)율촌"
+		,"msg_tl"		:	"죄송합니다.<br><span>일시적 오류가 발생 했습니다.</span>"
+		,"msg_des"		:	"요청하신 페이지에 오류가 있어 표시할 수 없습니다.<br><a href=\"javascript:void(0);\" class=\"reload\">새로고침</a>을 해보시기 바랍니다."
+		,"msg_button"	:	"홈으로 이동"
+	}
+}

@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+/* ==== GRID SYSTEM ==== */
+[class*="grid-layout"] {position:relative; max-width:1200px; padding:0 calc(70px - 1.25%); margin:0 auto;}
+[class*="-np"] {max-width:1170px;}/* class="grid-layout" 인데 패딩이 없을때 ex) class="grid-layout-np" */
+[class*="grid-layout"]:after,
+[class*="grid-layout"]::after {content:""; display:block; clear:both;}
+
+[class*="row"] {position:relative;}
+[class*="-wide"] {padding:0 calc(70px - 1.25%);}/* class="row" 인데 패딩이 있을때 ex) class="row-wide" */
+[class*="row"]:after {display:block; clear:both;}
+[class*="row"]::after {display:block; clear:both;}
+[class*="row"] [class*="col-"] {float:left; margin:0 1.25%; min-height:0;}
+[class*="row"] [class*="col-1"] {width:5.83%;}
+[class*="row"] [class*="col-2"] {width:14.16%;}
+[class*="row"] [class*="col-3"] {width:22.5%;}
+[class*="row"] [class*="col-4"] {width:30.83%;}
+[class*="row"] [class*="col-5"] {width:39.16%;}
+[class*="row"] [class*="col-6"] {width:47.5%;}
+[class*="row"] [class*="col-7"] {width:55.83%;}
+[class*="row"] [class*="col-8"] {width:64.16%;}
+[class*="row"] [class*="col-9"] {width:72.5%;}
+[class*="row"] [class*="col-10"] {width:80.83%;}
+[class*="row"] [class*="col-11"] {width:89.16%;}
+[class*="row"] [class*="col-12"] {width:97.5%;}
+[class*="row"] [class*="1-nm"] {width:8.333%; margin:0;}
+[class*="row"] [class*="2-nm"] {width:16.666%; margin:0;}
+[class*="row"] [class*="3-nm"] {width:24.999%; margin:0;}
+[class*="row"] [class*="4-nm"] {width:33.332%; margin:0;}
+[class*="row"] [class*="5-nm"] {width:41.665%; margin:0;}
+[class*="row"] [class*="6-nm"] {width:49.998%; margin:0;}
+[class*="row"] [class*="7-nm"] {width:58.331%; margin:0;}
+[class*="row"] [class*="8-nm"] {width:66.664%; margin:0;}
+[class*="row"] [class*="9-nm"] {width:74.997%; margin:0;}
+[class*="row"] [class*="10-nm"] {width:83.33%; margin:0;}
+[class*="row"] [class*="11-nm"] {width:91.663%; margin:0;}
+[class*="row"] [class*="12-nm"] {width:99.996%; margin:0;}
+.hidden-sm {display: block;}
+
+@media only screen and (max-width: 1024px) {  /* 1024px */
+	[class*="grid-layout"] {max-width:960px; padding:0 calc(42px - 1.04%);}
+	[class*="-np"] {padding:0; max-width:100%;}
+	[class*="-wide"] {padding:0 calc(42px - 1.04%);}
+	[class*="row"] [class*="col-"] {margin:0 1.04%;}
+	[class*="row"] [class*="col-1"] {width:6.25%;}
+	[class*="row"] [class*="col-2"] {width:14.58%;}
+	[class*="row"] [class*="col-3"] {width:22.91%;}
+	[class*="row"] [class*="col-4"] {width:31.25%;}
+	[class*="row"] [class*="col-5"] {width:39.58%;}
+	[class*="row"] [class*="col-6"] {width:47.91%;}
+	[class*="row"] [class*="col-7"] {width:56.25%;}
+	[class*="row"] [class*="col-8"] {width:64.58%;}
+	[class*="row"] [class*="col-9"] {width:72.91%;}
+	[class*="row"] [class*="col-10"] {width:81.25%;}
+	[class*="row"] [class*="col-11"] {width:89.58%;}
+	[class*="row"] [class*="col-12"] {width:97.91%;}
+	[class*="row"] [class*="1-nm"] {width:8.333%; margin:0;}
+	[class*="row"] [class*="2-nm"] {width:16.666%; margin:0;}
+	[class*="row"] [class*="3-nm"] {width:24.999%; margin:0;}
+	[class*="row"] [class*="4-nm"] {width:33.332%; margin:0;}
+	[class*="row"] [class*="5-nm"] {width:41.665%; margin:0;}
+	[class*="row"] [class*="6-nm"] {width:49.998%; margin:0;}
+	[class*="row"] [class*="7-nm"] {width:58.331%; margin:0;}
+	[class*="row"] [class*="8-nm"] {width:66.664%; margin:0;}
+	[class*="row"] [class*="9-nm"] {width:74.997%; margin:0;}
+	[class*="row"] [class*="10-nm"] {width:83.33%; margin:0;}
+	[class*="row"] [class*="11-nm"] {width:91.663%; margin:0;}
+	[class*="row"] [class*="12-nm"] {width:99.996%; margin:0;}
+	[class*="row"] [class*="-tb1"] {width:6.25%;}
+	[class*="row"] [class*="-tb2"] {width:14.58%;}
+	[class*="row"] [class*="-tb3"] {width:22.91%;}
+	[class*="row"] [class*="-tb4"] {width:31.25%;}
+	[class*="row"] [class*="-tb5"] {width:39.58%;}
+	[class*="row"] [class*="-tb6"] {width:47.91%;}
+	[class*="row"] [class*="-tb7"] {width:56.25%;}
+	[class*="row"] [class*="-tb8"] {width:64.58%;}
+	[class*="row"] [class*="-tb9"] {width:72.91%;}
+	[class*="row"] [class*="-tb10"] {width:81.25%;}
+	[class*="row"] [class*="-tb11"] {width:89.58%;}
+	[class*="row"] [class*="-tb12"] {width:97.91%;}
+}
+
+@media only screen and (max-width: 767px) {  /* 767px */
+	[class*="grid-layout"] {max-width:740px; padding:0 calc(16px - 2.03%); box-sizing:border-box;}
+	[class*="grid-layout-msm"] {padding:0 calc(16px - 2.03%);}
+	[class*="-np"] {padding:0; max-width:100%;}
+	[class*="-mnp"] {padding:0; max-width:100%;}
+
+	[class*="row"] [class*="col-"] {margin:0 2.03%; width:95.94%;}
+	[class*="row"] [class*="-sm"] {width:45.94%;}
+	[class*="row"] [class*="-nm"] {width:auto; margin:0; float:none;}
+	[class*="row"] [class*="-mnm"] {width:auto; margin:0; float:none;}
+	[class*="row"] input[class*="-mnm"],
+	[class*="row"] button[class*="-mnm"] {width:100%;}
+	.hidden-sm {display:none;}
+}

@@ -1,0 +1,23 @@
+{
+	"*****" : "newsletter_ko"
+	
+	,"subscribe_to_newsletter"		:	"뉴스레터 구독신청"
+	,"member_sub_info"				:	"<span>회원</span>이시면 <span>간편</span>하게 구독신청을 할 수 있습니다."
+	,"quick_subscription"			:	"간편 구독 신청"
+	,"non_member_subscription"		:	"비회원 구독신청<span class=\"m_hide\">율촌 회원이 되시면 간편 구독신청을 통해 다양한 혜택을 받으실 수 있습니다.</span>"
+	,"fm_txt_info"					:	"<span class=\"txt_essential\">*표기</span>는 필수 입력 항목입니다."
+	,"lg_hidden"					:	"율촌 회원이 되시면 간편 구독신청을 통해 다양한 혜택을 받으실 수 있습니다."
+	
+	,"email"						:	"이메일(법인)<span class=\"txt_essential\">*</span>"
+	,"emailEmpty"					:	"이메일을 입력해주세요."
+	,"emailFormat"					:	"이메일 형식에 따라 입력해주세요."
+	,"emailOverlap"					:	"이미 회원가입 된 이메일 입니다."
+	,"emailSuccess"					:	"사용가능한 이메일입니다."
+	
+	,"interestPart"					:	"관심분야"
+	,"partChoice"					:	"분야 선택"
+	
+	,"complete_application"			:	"신청 완료"
+	
+	,"alert_complete_application"	:	"신청이 완료되었습니다."
+}

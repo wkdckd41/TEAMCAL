@@ -1,0 +1,51 @@
+@charset "utf-8";
+ 
+/* 뉴스레터 신청하기 */
+/* .page_newsletter .form_cnt form{padding-bottom:20px;} */
+.page_newsletter .grid-layout-np{padding:0;}
+.page_newsletter .terms_box_wrap .terms_box{margin:0;width:100%;}
+.page_newsletter .terms_box_wrap button{width:auto;}
+.page_newsletter .form_cnt p{position:relative;}
+.page_newsletter .form_cnt p.lg-hidden {display:none; font-weight:300;}
+.page_newsletter .column_wide button.btn_white{height:60px;}
+.page_newsletter .terms_box .terms_chk_all{margin-top:60px;}
+.page_newsletter .form_group_wrap p input[type="text"]{min-width: 430px;}
+.page_newsletter .nl_info_area{padding:40px 30px;background:#eff6fa;text-align:center;}
+.page_newsletter .nl_info_area p{font-size:22px;line-height:24px;}
+.page_newsletter .nl_info_area p span{color:#075aba;}
+.page_newsletter .nl_info_area button{height:50px;min-width:200px;margin-top:20px;padding:10px 0;color:#fff;font-size:18px;font-weight:300;background:#075aba;}
+.page_newsletter .nl_info_area button:hover,
+.page_newsletter .nl_info_area button:focus{background:#064895;}
+.page_newsletter .nl_write_area .f_cnt_top{padding:40px 0 0;}
+.page_newsletter .nl_write_area p.txt_title{display:inline-table;font-size:24px;line-height:50px;}
+.page_newsletter .nl_write_area p.txt_title span{margin-left:20px;font-size:16px;line-height:24px;font-weight:300;}
+.page_newsletter .nl_write_area .form_cnt .fm_txt_info{float:right;padding:0;line-height:70px;}
+
+@media only screen and (max-width: 1180px) {
+	/* 뉴스레터 신청하기 */
+	.page_newsletter .nl_write_area .form_cnt .fm_txt_info{float:none;padding-bottom:15px;}
+	.page_newsletter .nl_write_area p.txt_title, 
+	.page_newsletter .nl_write_area p.txt_title span, 
+	.page_newsletter .nl_write_area .form_cnt .fm_txt_info{line-height:normal;}
+	.page_newsletter .nl_write_area p.txt_title span{margin-left:5px;letter-spacing:-1px;} 
+	.page_newsletter .nl_write_area .view_list.form_cnt .fm_txt_info{float:right;padding:0;line-height:65px;}	
+	.page_newsletter .nl_write_area .view_list p.txt_title{line-height:50px;} 
+}
+
+@media only screen and (max-width: 767px){ 
+	/* 뉴스레터 신청하기 */
+	.page_newsletter .terms_box{width:100%;margin:0;}
+	.page_newsletter .form_cnt,
+	.page_newsletter .form_group_wrap .grid-layout-np{margin:0;padding:0;}
+	.page_newsletter .form_cnt p.lg-hidden {display:block;}
+	.page_newsletter .terms_box .terms_chk_all{margin:30px 0 0;}
+	.page_newsletter .nl_info_area{padding:30px;}
+	.page_newsletter .nl_info_area p{font-size:14px;line-height:18px;}
+	.page_newsletter .nl_write_area p.txt_title,
+	.page_newsletter .nl_write_area .view_list p.txt_title{font-size:16px;line-height:30px;letter-spacing:-1px;}
+	.page_newsletter .nl_write_area .form_cnt .fm_txt_info{float:right;padding:0;line-height: 50px;} 
+	.page_newsletter .nl_write_area .view_list.form_cnt .fm_txt_info{line-height:45px;}
+	.page_newsletter .nl_info_area button{font-size:14px;}
+    .page_newsletter .form_group_wrap p input[type="text"]{min-width:0;} 
+	.newsletter .section .column_wide button{height:50px;}
+}

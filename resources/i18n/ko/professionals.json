@@ -1,0 +1,46 @@
+{
+	"**********"	:	"professionals_ko",
+	
+	
+	"member_search"				:	"구성원 검색",
+	"member_condition_search"	: "구성원 조건별 검색",
+	"searchkey_delete"			: "검색어 삭제",
+	
+	"select"		: "선택",
+	"practices"		: "분야별",
+	"industries"	: "산업별",
+	"international"	: "지역별",
+	
+	"member"					: "구성원",
+	
+	"tab"	:	{
+		"biography"					:	"<span>소개</span>",
+		"representative_matters"	:	"<span>주요실적</span>",
+		"awards_recognition"		:	"<span>수상/선정</span>",
+		"speech_presentation"		:	"<span>연설/발표</span>",
+		"news_publications"			:	"<span>소식/자료</span>"
+	},
+	
+	"practice_focus"			:	"주요 업무 분야",
+	"biography"					:	"소개",
+	"education"					:	"학력",
+	"experience"				:	"경력",
+	"associations"				:	"자격",
+	"languages"					:	"언어",
+	"representative_matters"	:	"주요실적",
+	"awards_recognition"		:	"수상/선정",
+	"speech_presentation"		:	"연설/발표",
+	"news_publications"			:	"소식/자료",
+	"articles_books"			:	"논문/저서",
+	"news"						:	"소식",
+	
+	"open"							:	"펼치기",
+	"fold"							:	"접기"
+	
+	,"head"					:	{
+			"title"					:	"구성원 | 법무법인(유) 율촌"
+			,"keyword"				:	"율촌, 구성원, 변호사, 관세사, 회계사, 세무사, 변리사, 노무사, 고문, 전문위원, 연구원"
+			,"description"			:	"최고의 실력과 경쟁력을 갖춘 율촌의 전문가들이 고객 여러분의 목소리에 귀 기울이고 있습니다."
+	}
+	,"graduate"							:	"졸업"
+}

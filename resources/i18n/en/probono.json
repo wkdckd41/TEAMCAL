@@ -1,0 +1,72 @@
+{
+	"****************" : "en"
+	
+	,"probono"					:	"Pro Bono"
+	,"introduction"				:	"Introduction"
+	,"legal_knowledge"			:	"Contributing Legal Knowledge to the Society"
+	,"sharing"					:	"Fulfilling the Value of Sharing"
+	,"creating_shared_value"		:	"Creating Shared Value"
+
+
+	,"introduction_tab"		:	{
+		"phill_title"		:	"Yulchon’s <span>Philosophy</span> for Pro bono Activities Has Applied Since the Firm’s Inception."
+		,"phill_disc"		:	"At the firm’s inception, Yulchon’s founders pledged to use part of their resources for public interest, which meant committing part of all they had, including their time, their passion and their energy rather than just their income."
+		,"special_title"		:	"Yulchon’s Pro bono Activities are <span>‘Special’</span>."
+		,"special_disc"		:	"Yulchon encourages its professionals to actively participate in pro bono activities through which they can give back their legal knowledge to the society, and credits the time spent on such endeavors by Yulchon’s professionals as part of their regular work hours, and carries out various activities within and outside the firm to fulfill the value of sharing.<br>In order to contribute to training younger lawyers and promoting a better legal culture, Yulchon’s professionals have established the ‘Public Interest Committee’ to educate the next generation leaders and to devote all of their energy so as to develop a basis for pro bono activities in a systemic manner."
+		,"onyul_title"		:	"Yulchon Has Established <span>Onyul</span> to Reinforce its Pro bono Activities."
+		,"onyul_disc"		:	"In 2014, Yulchon established Onyul, a public interest corporation, to carry out more professional and organized pro bono activities than the firm has continued to carry out since its inception.<br>Onyul, which means ‘warm Yulchon, warm law’, was able to be established thanks to Yulchon members’ compassion and efforts toward pro bono activities and will make every effort so that warm-hearted lawyers’ hands can touch every corner and every shady place by not only directly carrying out pro bono activities by Yulchon members but also actively carrying out other activities to improve legal systems and to support researches for the support of the underprivileged and the socially weak and promotion of pro bono activities."
+		,"onyul_shortcut"	:	"Go to Onyul website"
+	}
+	
+	,"legal_tab"		:	{
+		"center_title"		:	"Establishment and Operation of Onyul Everyday Legal Aid Center"
+		,"center_disc"		:	"Yulchon and Onyul have established and currently operate an everyday legal aid center to provide free legal aid service including everyday law counseling to those who may not afford paid legal counseling."
+		,"research_title"	:	"Improvement and Research on Adult Guardianship Law"
+		,"research_disc"		:	"Yulchon and Onyul actively research domestic and overseas legal systems, participate in seminars and academic events and share their insight with academic circles and relevant expert organizations in relation to adult guardianship every year in order to help settlement of the adult guardianship system."
+		,"special_title"		:	"Providing Legal Education for Discharging Military Officers"
+		,"special_disc"		:	"Yulchon works with the Ministry of National Defense Outplacement Training Institute and provides necessary everyday law lectures to discharging military officers so that they can adapt to the society more easily and to contribute to the society."
+		,"apil_title"		:	"Sponsoring Advocates for Public Interest Law (APIL), a Nonprofit Public Interest Law Center"
+		,"apil_disc"			:	"Since 2013, Yulchon has sponsored annual remuneration for one attorney in APIL , which is an organization specialized in global issues such as refugees and multinational corporations."
+	}
+	
+	,"creating_tab"		:	{
+		"center_title"		:	"Establishment and Support for Yulchon Center for the Study of Legal Theory"
+		,"center_disc"		:	"Yulchon has established the Yulchon Center for the Study of Legal Theory in Seoul University Law School to grow basic law into a study tailored to Korea’s current state and culture.<br>The Center is carrying out various research activities including publication of articles and participation in domestic and overseas seminars to set up database for the area of legal theory."
+		,"research_title"	:	"Establishment and Support for Yulchon-GSIS Center for Emerging Economies"
+		,"research_disc"		:	"In 2015, Yulchon established ‘Yulchon-GSIS Center for Emerging Economies’ in Seoul National University Graduate School of International Studies to expand interaction with developing countries, to create shared value through mutual cooperation and to strengthen legal framework of developing countries. <br>Yulchon professionals, together with students from developing countries who are studying at Seoul National University Graduate School of International Studies, carry out researches on economy and industry among Korea and developing countries."
+		,"edu_title"			:	"Offering Legal Education for Middle and High School Teachers"
+		,"edu_disc"			:	"Yulchon professionals are offering legal lectures on various themes to cultivate virtues of middle and high school students as democratic citizens in accordance with the execution of a partnership with Seoul Metropolitan Office of Education for “Legal Education for Teachers and Students’ in May 2017."
+		,"foreign_title"		:	"<span>Free Legal Consultation</span> for immigrants in Korea "
+		,"foreign_disc"		:	"Since October 2015, with KB Kookmin Bank, we have provided free legal counseling for foreigners in Korea, including immigrant workers, multicultural families and refugees in Ansan area. In addition, we have published the \"Law Handbook for immigrants\" issued in October 10, 2017 in order to support the settlement of immigrants in Korean society."
+	}
+	
+	,"sharing_tab"		:	{
+		"hire_title"			:	"Hiring of People with Disabilities "
+		,"hire_disc"			:	"Since 2010, Yulchon has been cooperating with the Korea Employment Agency for the Disabled (KEAD) to develop positions tailed for persons with disabilities and has been continuously hiring persons with disabilities through recruitment service of the KEAD.<br>Yulchon is the first law firm that has been named ‘Best Employer Employing People with Disabilities’ by the KEAD. In April 2015, Yulchon was also awarded the president’s award for developing positions of people with disabilities that are suitable for law firms."
+		,"service_title"		:	"Volunteer Group <span>‘Miral’</span>"
+		,"service_disc"		:	"‘Miral’ is the firm’s volunteer group that was established by Yulchon members in January 2001 and since then has practiced love. ‘Miral’ is implementing volunteering activities by providing economic support for and visiting neighbors including people with disabilities and orphans who have pressing needs."
+		,"sponsor_title"		:	"Sponsoring Seed School "
+		,"sponsor_disc"		:	"Sympathizing with ‘ Change through Sharing and Accompanying of Seed School’, Yulchon members participate in Seed School’s activities such as ‘Introduction to Lawyers’ Roles’, and ‘Meals with Learning’ and interact with students and volunteers."
+		,"amcham_title"		:	"Participation in the 4th AMCHAM Service Day"
+		,"amcham_disc"		:	"In November 2016, Yulchon professionals participated in the “4th American Chamber of Commerce in Korea (AMCHAM) Service Day – Briquette Delivery of Love” and sponsored 1,000 briquettes used for the event."
+		,"donation_title"	:	"Donation of Used PCs"
+		,"donation_disc"		:	"Yulchon and Onyul are making efforts to improve information literacy of the information poor including through donation of 300 desktop computers, 150 monitors and 30 laptop computers to the information poor for the last three years."
+		,"marathon_title"	:	"Marathon with Visually Impaired People"
+		,"marathon_disc"		:	"Since 2015, Yulchon has been participating in and supporting ’Marathon with Visually Impaired People’ hosted by Seoul Blind Sports Association and Seoul Sports Committee for the Disabled.  The participation fees supported by Yulchon are donated to associations for visually impaired people to be used as supporting funds."
+	}
+	
+	,"head"				:	{
+		"introduction_title"		:	"Introduction of Social Contribution | Yulchon LLC"
+		,"introduction_keyword"		:	"Yulchon, Social Contribution, CSR, Public Benefit Activities, Philosophy, Onyul, Social Contribution, Sharing, Shared Value, train the upcoming generation, Vulnerable Class, Supporting the weak"
+		,"introduction_description"	:	"The philosophy of Yulchon's public interest activities began at the time of its establishment and established a Corporation Onyul for the professional and systematic public service activities."
+		,"legal_title"				:	"social support for legal knowledge | Yulchon LLC"
+		,"legal_keyword"			:	"Yulchon, Onyul, life law support center, executives who would be discharged from military service., immigrant foreigner"
+		,"legal_description"		:	"Yulchon provides social support for legal knowledge through settlement of adult guardianship, life law support center, legal education support for the executives who would be discharged from military service, and the support of immigration foreigners."
+		,"creating_title"			:	"Realizing the Value of Sharing | Yulchon LLC"
+		,"creating_keyword"			:	"Yulchon, Employment for the Disabled, Seed School, Blind, Marathon, Secondhand Donation, American Chamber of Commerce in Korea, Milal"
+		,"creating_description"		:	"Yulchon realizes the value of sharing through practicing the employment of the disabled, sponsoring the Seed School, marathoning with the blind, donating used pc, and attending Service Day of the US Chamber of Commerce in Korea."
+		,"sharing_title"			:	"Creating Shared Value l Yulchon LLC"
+		,"sharing_keyword"			:	"Yulchon, Legal Theory Research Center, Emerging Area Research Center, Seoul Metropolitan Office of Education, For Teacher and Students, Appeal, APIL"
+		,"sharing_description"		:	"Yulchon creates shared value through establishment and supporting the Legal Theory Research Center, establishment of an emerging regional research center, enforcement of legal education for middle and high school students and teachers, and supports public law lawyers (APILL)"
+	}
+} 

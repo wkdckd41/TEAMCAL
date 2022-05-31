@@ -1,0 +1,163 @@
+@charset "utf-8";
+@import "../../cn/font.css";
+
+/* common */
+.grid-layout{word-wrap: break-word;}
+.btn_list_more span {background-position:left 7px;}
+input[type=checkbox] + label {padding-top:5px;}
+.layer_pop.business_field_wrap .field_ctg  label {background-position:20px 8px;}
+.field_list .level2 li label {background-position:20px 11px;}
+.field_list .drop_menu .level3 li label {background-position:left 11px;}
+
+/*다국어 로고*/
+.header_inner .gnb_area{margin:0 38px 0 0}
+.header_inner .logo{width:154px}
+.header_inner .logo a{background-image: url(../../../images/common/bg_logo_global.png); background-size: 100% auto;}
+.main_intro .logo{width:154px; background: url(../../../images/common/bg_logo_global.png) no-repeat left top; background-size: 100% auto;}
+.main_intro span {background-image:url(../../../images/official/main/bg_intro_logo_en.png);}
+
+/* membership */
+/*span.radio_g{line-height:inherit;}*/
+
+/* .about .view_wrap .bottom_content ul > li p {word-break:break-all;} */
+.terms_chk_all .input_chk label.active{ background-position:25px 12px;}
+.membership .containbox_wrap .containbox_mb .custom_etc{padding: 0 2.03%;}
+.containbox_wrap .find_dsc p span {float:none;display:block; /* width: 100%; */}
+.containbox_wrap .custom_etc ul li {display:block;background-color:#fff;line-height:21px;}
+.containbox_wrap .custom_etc ul li a {margin-left: 0;padding:0;}
+.containbox_mb .custom_etc,
+.containbox_mb .custom_etc .find_dsc p,
+.containbox_wrap .custom_etc ul li{text-align:left;}
+
+/* 사회공헌 */
+.yc_csr .csr_info_box p {word-break:break-all;}
+
+/* about */
+.about .about_academy_wrap .bottom_content ul > li p{word-break:break-all}
+
+/* etc 페이지 에러 */
+.page_error .top_logo{width: 154px;background: url(../../../images/common/bg_logo_global.png) no-repeat left bottom;background-size: 100% auto;}
+
+/* 멤버십 글로벌 로고 */
+.membership .mb_logo{background-image:url(../../../images/common/bg_logo_mb.png);}
+
+/* 팝업 */
+.layer_pop.business_field_wrap .tit_year,
+.layer_pop.business_field_wrap .tit_work {width:calc(20% - 14px);}
+
+/* 뉴스레터 신청 */
+.page_newsletter .nl_write_area .f_cnt_top p.txt_title{line-height:25px;}
+.page_newsletter .nl_write_area .f_cnt_top p.txt_title span{margin-left:0;font-size:14px;}
+.page_newsletter .form_cnt label {letter-spacing: -1px;font-size: 17px;}
+.page_newsletter .f_cnt_top .form_cnt p {line-height:18px;}
+.page_newsletter .nl_write_area .form_cnt .fm_txt_info{float:right;padding:15px 0 0;line-height:25px;}
+
+/* 업무분야 리스트 */
+.page_practice_list .con_box .con_list ul.level2 a{font-size:15px;}
+.professional_detail .news_list .txt_article a{word-break: break-all}
+
+/* 수상내역 */
+.layer_pop.business_field_wrap .year_wrap ul > li > label{width:92px;}
+.layer_pop.business_field_wrap .work_wrap ul {overflow: hidden;}
+.layer_pop.business_field_wrap .work_wrap ul > li {float:left;}
+.layer_pop.business_field_wrap .work_wrap ul > li > label {width:225px;}
+
+.page_construction .mb_logo {background-image: url(../../../images/common/bg_logo_mb_m.png)}
+
+/* 사이트맵 */ 
+@media only screen and (min-width: 1141px) {
+    .s_map_list .level3 > li > a {float:none; width:100%;}
+
+    .s_map_list .w_menu .level2 > li > a {float:none; width:100%; display:block;}
+    .s_map_list .w_menu .level3 > li {padding:18px 8px; box-sizing:border-box;}
+    .s_map_list .w_menu .level4 {float:none; display:block; width:100%; padding-top:0; padding-bottom:10px; white-space:nowrap;}
+    .s_map_list .w_menu .level4:after {content:""; display:block; clear:both;}
+    .s_map_list .w_menu .level4 li {width:48%; padding:0 16px;}
+    .s_map_list .w_menu .level4 li:nth-child(even) {padding-left:22px;}
+    .s_map_list .w_menu .non_bdr.non_4th {padding-left:0;}
+    .s_map_list .w_menu .non_bdr.non_4th:after {content:""; display:block; clear:both;}
+    .s_map_list .w_menu .non_bdr.non_4th > li {width:49%; padding:0 16px; box-sizing:border-box; white-space:nowrap;}
+    .s_map_list .s_menu.level1.drop_menu {width:48%;}
+    .s_map_list .level3 {float:none; width:100%; box-sizing:border-box; padding-left:10px;}
+    .s_map_list .s_menu.level1.drop_menu:nth-child(2n) {margin-right:2.555%;}
+    .s_map_list .s_menu.level1.drop_menu:nth-child(3) {margin-right:0}
+    .s_map_list .s_menu.level1.drop_menu:nth-child(5) {margin-right:0}
+    .s_map_list .s_menu.level1.drop_menu:nth-child(7) {margin-right:0}
+    .s_map_list .s_menu.level1.drop_menu:nth-child(9) {margin-right:0} 
+}
+
+
+@media only screen and (min-width: 768px) {
+	.layer_pop.business_field_wrap .chk_work_wrap,
+	.layer_pop.business_field_wrap .chk_year_wrap {width:79%;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.layer_pop.business_field_wrap .tit_year,
+	.layer_pop.business_field_wrap .tit_work {width:calc(30% - 14px);}
+	.layer_pop.business_field_wrap .chk_work_wrap,
+	.layer_pop.business_field_wrap .chk_year_wrap {width:70%;}
+}
+
+@media only screen and (max-width:1440px) {
+    .header_inner .gnb_area {display:none;}
+}
+
+@media only screen and (max-width: 1280px) {
+	.header_inner .gnb_area .nav_inner li {margin-left:1.65vw;} 
+}
+
+@media only screen and (max-width: 1200px) {
+	/* 업무분야  리스트 */
+	.page_practice_list .con_box .con_list ul.level2 li {width: 100%;}
+}
+@media only screen and (max-width: 1220px) {
+	p.br_line span.radio_g {margin:17px 0 17px 20px;}
+}
+/* 1920 <=> 1024 header 틀어짐 조정 */
+@media only screen and (max-width: 1170px) {
+	.header_inner .gnb_area .nav_inner li {margin-left:0.65vw;} 
+}
+
+@media only screen and (max-width: 767px) {
+	/* common */
+	.btn_list_more span {background-position:left 5px;}
+	input[type=checkbox] + label {padding-top:3px;}
+	input[type=radio] + label {padding-top:4px;}
+	/* .membership .containbox_wrap .mb_info_dsc p {word-wrap:normal;word-break:break-all;} */
+	.layer_pop.business_field_wrap .field_ctg label {background-position:20px 6px;}
+	.field_list .level2 .s_ctg label {background-position:left calc(50% + 2px);}
+	.field_list .drop_menu .level3 li label {background-position: left 7px;}
+
+	/*다국어 로고*/
+	.header_inner .logo{width:99px}
+	.header_inner .logo a{background-image: url(../../../images/common/bg_logo_global_m.png); background-size: 100% auto;}
+	.main_intro .logo{width:99px; background: url(../../../images/common/bg_logo_global_m.png) no-repeat left top; background-size:100% auto;}
+	.main_intro span {background-image:url(../../../images/official/main/bg_intro_logo_m_en.png);}
+
+	/* 멤버십 글로벌 로고 */
+	.membership .mb_logo{background-image:url(../../../images/common/bg_logo_mb_m.png);    background-size: auto 100%;}
+	.terms_chk_all .input_chk label.active{background-position:35px 7px;}
+	.terms_chk_all .input_chk{max-width:none;}
+	.containbox_wrap .custom_etc .find_dsc p span{padding-top:5px;}
+
+	/* etc 페이지 에러 */
+	.page_error .top_logo{width:100px;background: url(../../../images/common/bg_logo_global_m.png) no-repeat left bottom;background-size:100% auto;} 
+
+	/* 업무분야 리스트 */
+	.page_practice_list .con_box .con_list ul.level2 li{margin: 2px 0;}
+
+	/* 율촌 소개 */
+	.layer_pop.business_field_wrap .tit_work {width:100%;}
+	.layer_pop.business_field_wrap .work_wrap ul > li, 
+	.layer_pop.business_field_wrap .year_wrap ul > li {width:calc(49% - 17px);}
+
+	/* 수상내역필터 */
+	.layer_pop.business_field_wrap .work_wrap ul > li {float:none; vertical-align: top;}
+	.layer_pop.business_field_wrap .work_wrap ul > li > label {width:100px;}
+}
+
+@media only screen and (max-width: 380px) { 
+	/* 뉴스레터 신청하기 */
+	.page_newsletter .nl_write_area .f_cnt_top p.txt_title{display:block;}
+}

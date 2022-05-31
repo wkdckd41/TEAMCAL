@@ -1,0 +1,199 @@
+{
+	"****************" : "ja",
+	
+	"our_firm"				:	"律村の紹介",
+	"overview_values"		:	"概要/価値",
+	"accolades"				:	"受賞内容",
+	"academy"				:	"アカデミー",
+	"location"				:	"事務所の所在地",
+	
+	"overview"	:	{
+		"overview"				:	"概要"
+		,"overview_detail_1"	:	"法務法人(有)律村は｢志を一つに法律家の村を作る｣という想いにより、1997年に設立されました。設立から現在まで、買収合併を行うことなく、ただひたすら自らの力で歩みつづけ、アジア屈指のローファームへと成長しました。<br>豊かな経験と卓越した専門知識を兼ね備えた律村の専門家らは、会社法、金融、公正取引、訟務、知的財産、労働、海外投資など、企業活動のあらゆる分野においてクライアントが求める様々なリーガルサービスを迅速かつ的確に提供しています。すべての領域を網羅する専門性と協業精神をもとに、律村ならではのチームプレーで業務をスピーディーに処理し、韓国産業の成長と法律市場の発展をリードしています。<br>海外進出も積極的に強化し、現在、中国、ロシア、ベトナム、ミャンマー、インドネシアに事務所を構えています。海外有数のローファームと提携しながら世界の舞台でその力量を発揮し、グローバルローファームとしての成長を続けています。<br>律村は｢クライアントに対する献身｣と｢独創的なリーガルマインド｣をもとに、つねに最高のソリューションを提供するための努力を重ね、法律市場の開放とめまぐるしく変化する法曹環境に先制的に対応し、変化を先導できる韓国のトップローファームを目指しています。<br>"
+		,"overview_detail_2"	:	""
+		,"values"				:	"価値"
+		,"values_detail"		:	"律村の飛躍的な成功、その革新的な動力源は、律村の３つの価値にあります。"
+		,"commitment_title"		:	"<em>Commitment</em><br>"
+		,"commitment_content"	:	"クライアントに対する献身<br><br>律村はクライアントに最高のサービスを提供したい、ただその一心で献身的にサービスを提供してきました。クライアントに対する献身的な姿勢、律村設立の根幹を成す哲学です。"
+		,"innovation_title"		:	"<em>Innovation</em><br>"
+		,"innovation_content"	:	"独創的なリーガルマインド<br><br>枠にとらわれない独創的な解決策を生み出せるのは、深い法律知識や豊かな経験はもちろん、優れた問題解決能力を有する専門家のみです。律村の革新的なリーガルサービスはクライアントの皆さまだけが享受できる律村最大の武器です。" 
+		,"excellence_title"		:	"<em>Excellence</em><br>"
+		,"excellence_content"	:	"卓越したサービス<br><br>最高の教育を受け、多様な経験を積んできた律村の専門家は、現状に甘んじることなく、さらなる成長のためにたゆまぬ努力を重ねています。律村の卓越したサービス。クライアントが満足できる最高のサービスを追求し続けます。"
+	
+	},
+	
+	"academy_tab"	:	{
+		"description_1"								:	"律村は、所属する弁護士等専門人材のキャリア開発および専門家としての成長・発展こそが律村の発展の原動力であるという信念のもと、職員一人一人の自己啓発を奨励し、法人レベルでの支援や努力を重ねています。こうした律村の試みは韓国の法務法人としては初であり、その代表的な成功例が｢律村アカデミー｣です。律村が開設したこの常設の社内教育プログラムは、非常に高い評価を得ています。"
+		,"description_2"							:	"｢律村アカデミー｣では、2007年の設立から現在に至るまで、律村の専門人材のキャリア開発や専門家としての成長・発展に必要な多様な教育課程が開発されてきました。一年を通じて常時開設されている同教育課程は、国内外の最新の法律情報や動向はもちろん、財務および会計、マーケティングなどの経営学的知識や、クライアントのビジネスに関連する産業分野ごとの専門知識、コミュニケーションやプレゼンテーションのスキル、リーダーシップ論や人文、教養分野の教育など、非常に多岐にわたっています。"
+		,"yulchon_academy_program"					:	"律村アカデミーの代表的なプログラム"
+		,"new_lawyer_program"						:	"新人弁護士のための研修員プログラム" 
+		,"training_academy_program_description"		:	"新人弁護士には、入所後約二ヶ月間業務に従事させず、法律文書や契約書の作成など、業務遂行に必要な実務や素養を身につけさせるとともに、英語やIT技術などの集中教育を実施しています。"
+		,"year_academy_program"						:	"段階にあわせたオーダーメイド型成長プログラム"
+		,"year_academy_program_description"			:	"各段階において求められる知識や能力を具体的に示して育成するオーダーメイド型の育成プログラムを開発し、運営しています。"
+		,"professional_law_program"					:	"専門法律プログラム"
+		,"professional_law_program_description"		:	"所内の多様な専門チームと連携し、パートーナーや各分野の専門家が講師を務め、当該分野の新たな争点や複雑な問題などを取り上げて詳しく解説する専門法律プログラムを運営しています。"
+		,"language_program"							:	"オーダーメイド型語学プログラム"
+		,"language_program_description"				:	"オーダーメイド型の語学プログラムには、英語、日本語、中国語、スペイン語はもちろん、外国人構成員のための韓国語課程まで用意されています。また、構成員が業務時間内にオフィスで専門講師と1:1のレッスンが受けられるよう、律村独自のオーダーメード型語学プログラムを設け、構成員の語学力向上を全面的にサポートしています。"
+		,"customer_program"							:	"企業内弁護士等を対象としたプログラム"
+		,"customer_program_description"				:	"律村の専門人材だけでなく、ロースクール生、企業内弁護士、企業内法務組織のリーダーなどを対象とした多様なオーダーメイド型プログラムを開発し、運営しています。"
+		,"bottom_text"								:	""
+	}
+	
+	,"year"					:	"Year"
+	,"practice_area"		:	"Practice Area"
+	,"awards_search"		:	"수상내역 검색"
+	,"other_offices"		:	"他の事務所を見る"
+	
+	,"nation"			:	{
+		"korea"			:	"韓国"
+		,"russia"		:	"ロシア"
+		,"myanmar"		:	"ミャンマー"
+		,"china"		:	"中国"
+		,"vietnam"		:	"ベトナム"
+		,"indonesia"	:	"インドネシア"
+	}
+	
+	,"locale"			:	{
+		"seoul"			:	"ソウル"
+		,"moscow"		:	"モスクワ"
+		,"yangon"		:	"ヤンゴン"
+		,"shanghai"		:	"上海"
+		,"hochininh"	:	"ホーチミン"
+		,"hanoi"		:	"ハノイ"
+		,"jakarta"		:	"ジャカルタ"
+	}
+	
+	,"workpart"			:	{
+		"all"					:	"All"
+		,"mna"					:	"M&A"
+		,"finance"				:	"Finance"
+		,"corporate"			:	"Corporate"
+		,"antitrust"			:	"Antitrust"
+		,"dispute_resolution"	:	"Dispute Resolution"
+		,"tax"					:	"TAX"
+		,"ip"					:	"IP"
+		,"estate"				:	"Real Estate & Construction"
+		,"firm"					:	"Firm"
+		,"etc"					:	"Etc."
+	}
+	
+	,"professionals"		:	"構成員"
+	,"address"				:	"所在地"
+	,"contact_information"	:	"連絡先"
+	,"transportation"		:	"アクセス"
+	,"from_the_airport"		:	"空港からお越しの場合"
+	
+	,"seoul" : {
+		"office_name"					:	"<em>韓国</em>ソウル事務所"
+		,"sub_title"					:	"律村ソウル事務所(主事務所)は｢志を一つに法律家の村を作る｣という想いにより、1997年に設立されました。"
+		,"sub_content"					:	"律村ソウル事務所はひたすら構成員の努力とお客様の信頼をもとに、韓国のローファーム史上最も短い期間で刮目(かつもく)に値する急成長を遂げました。ソウル事務所では企業法務及び金融、公正取引、訟務、租税、知的財産権、不動産建設、海外投資などあらゆる分野において最高のリーガル・サービスを提供しています。グローバル時代の到来とともに法律市場が開放され、中国、ロシアをはじめ、ベトナム、ミャンマー、インドネシアにも事務所を設立し、海外ローファームとの協力システムを構築すると同時に、米国、ロシア、欧州、中南米など世界各国の外国弁護士を迎え入れ、グローバルに対応できるローファームとしてその真価を発揮しています。また、国内外のお客様を対象に大規模なセミナーや行事を年間約50回開催するなど、お客様が求める実質的な解決策を提示できるよう最善を尽くしています。"
+		,"sub_content_type2"			:	"律村ソウル事務所はこれからも常に献身的な姿勢、独創的なソリューション、そして卓越したスキルにより、最高のリーガル・サービスをご提供することをお約束いたします。"
+		,"by_subway"					:	"地下鉄"
+		,"by_subway_des"				:	"地下鉄2号線 三成駅 5番出口(地下通路で連結)"
+		,"by_bus"						:	"バス"
+		,"by_bus_des"					:	"バス停 : 貿易センター三成駅<br>幹線 : 146, 333, 341, 360, 740, N13, N61<br>支線 : 3411<br>急行 : 8001<br>マウルバス : 江南07, 江南08<br>直行 : 500-2, 1100, 1700, 2000, 2000-1, 7007, 9303, 9414<br>空港バス: 6103, 6006, 6704, 6000, 6104"
+		,"incheon_airport"				:	"仁川国際空港"
+		,"by_bus_airport"				:	"リムジンバス"
+		,"by_bus_incheon_airport_des"	:	"6103 (三成駅下車)<br>6006 (貿易センター下車)<br>6704 (グランドインターコンチネンタルホテル下車)<br>所要時間: 約1時間40分 / 総距離: 約70km"
+		,"by_taxi"						:	"タクシー"
+		,"by_taxi_des"					:	"所要時間: 約1時間20分 / 総距離: 約70km"
+		,"gimpo_airport"				:	"金浦国際空港"
+		,"by_bus_gimpo_airport_des"		:	"6000, 6104 (三成駅下車)<br>所要時間: 約1時間 / 総距離: 約30km"
+		,"by_taxi_gimpo_airport_des"	:	"所要時間: 約50分 / 総距離: 約30km"
+	}
+	
+	,"moscow" : {
+		"office_name"					:	"<em>ロシア</em>モスクワ事務所"
+		,"sub_title"					:	"Based on eight year long experience of providing top notch legal consulting and innovative solutions to Korean businesses pursing investment projects in Russia and Central Asia, Yulchon has opened a representative office in Moscow at the prestigious business center ”White Gardens” alongside with the world renowned law and accounting firms such as “Baker & McKenzie”, “Dentons”, “PriceWaterHouseCoopers” and “Deloitte”. Moscow office shall serve as an output of the firm’s regional “Russia and Central Asia” practice with an aime at developing new and enhancing existing relations with prominent local law firms and sole practitioners in order to better respond to Korean clients’ needs. The firm’s regional “Russia and Central Asia” practice has gained a strong reputation among Korean law firms for having a unique experience of handling a variety of legal issues ranging form M&A, SOC, plant construction, investment in natural resources as well as representing Koreans clients’ interests in courts of all instances in the Russian Federation and some republics of Central Asia. To name a few, by way of our active involvement a Korean client favorable decision by a third instance court was secured in Russia thus overturning the previous court’s decision ordering the Korean respondent, “Korea Aerospace Industries”, to pay $50 million in damages. In Kazakhstan, we successfully represented a Korean construction company “Sambu” by securing an award of $120 million in damages from the courts of all instances starting from Economic court and all the way through the Supreme Court of Kazakhstan."
+		,"sub_content"					:	"In recognition of its contribution to facilitating the needs of Korean investor in Russia our firm was the only law firm invited to accompany the President Myung Bak Lee on his visit to Moscow in September 2008 as part of official delegation from South Korea. The Moscow office is headed by a Russia trained jurist / advocate, the first ever attorney of Korean decent appointed as an arbitrator to the International Commercial Arbitration Court under the auspices of the Chamber of Commerce and Industry of the Russian Federation as well as the Kazakhstani International Arbitrage, who is known for his active role in dispute resolution between parties from Korea and former Soviet Union states. Hwa Joon Lee, a Russia trained jurist and advocate of the Moscow city bar, graduated from school in Russia followed up by a graduation with honors from the department of law of the Moscow State University and International private law graduate studies at the department of law of the Seoul National University. Shortly after he commenced work at the Moscow office of the Clifford Chance law firm he had to return to Korea after 13 years in Russia. Upon arrival he was conscripted to serve as a JAG officer at the contract department of the Ministry of Defense of Korea to oversee procurement of Russian made arms and weapons."
+		,"sub_content_type2"			:	"The firm's regional “Russia and central Asia” practice is made up of Korea, Russia, USA trained attorneys with a deep understanding of cultural economic and legal traditions of the region coupled with diverse practical experience. Among them there are a Russia licensed attorney of Russian decent who has lived and worked in Korea for over 16 years, whose qualifications go beyond Korean language fluency but include personal knowledge of Korean corporate culture; and a paralegal with a prestigious Korean linguistic university major in simultaneous Russian - Korean language interpretation which adds an extra value to the \"Russian and Central Asia\" regional practice team."
+	}
+	
+	,"yangon" : {
+		"office_name"					:	"<em>ミャンマー</em>ヤンゴン事務所"
+		,"sub_title"					:	""
+		,"sub_content"					:	"Yulchon's Myanmar office was established in 2014, following Yulchon's Ho Chi Minh City, Hanoi and Beijing offices. Yulchon's Myanmar strives to deliver legal services related to corporate matters, real estate, finance, construction, SOC projects, and M&A transactions, among others. Yulchon's Myanmar office works closely with Southeast Asia Practice Group of Yulchon LLC to provide professional, accurate and efficient solutions."
+		,"sub_content_type2"			:	""
+		,"airport"						:	"Yangon Mingladon International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30 minutes / 8 km"
+	}
+	
+	,"shanghai" : {
+		"office_name"					:	"<em>中国</em>上海事務所"
+		,"sub_title"					:	"律村は2018年3月1日付けで北京事務所(代表事務所)を上海に移転しました。"
+		,"sub_content"					:	"上海事務所には、律村の創立時のパートナーの一人であり、国際的なM&A、その他企業関連業務において韓国トップレベルの専門家と称されるカン・ヒチョル弁護士、北京大学で法学博士を取得後、長期にわたり中国関連業務に携わってきたホ・ウク弁護士、そして韓中関連の業務経験が豊かなテ・チュンナム中国弁護士が所属しています。また律村のソウル事務所(主事務所)には、15年以上の中国業務経験を有する中国の専門家ビョン・ウンジェ弁護士、中国の有力ローファームにパートナー級の弁護士として所属していたキム・チュンブ中国弁護士を中心メンバーとする強力な中国専門チームを置いています。律村は2011年に北京に事務所を開設して以来、中国に進出しようとする韓国企業はもちろん、韓国に進出しようとする中国企業の皆様に質の高いリーガル・サービスを効率良く提供できるよう力を注いできました。今回、中国の経済中心地である上海に事務所を移転しましたが、同移転を契機として律村の中国チームは上海事務所とソウル事務所、そして多様かつ幅広い世界のネットワークを通じて世界と中国、韓国を結ぶ架け橋としての役割をいっそう充実させていきたいと考えています。"
+		,"sub_content_type2"			:	"律村は、中国語、英語及び韓国語という言葉の壁を乗り越え、韓国と中国、そしてグローバルなお客様のために、国際取引、投資、金融、不動産、IPO、租税、公正取引、IP、労働、訴訟./仲裁など、韓国や中国が係わるあらゆる分野において、問題を解決したり、実務の現場で役立つリーガル・サービスを効率的に提供いたします。"
+	}
+	
+	,"hochininh" : {
+		"office_name"					:	"<em>ベトナム</em>ホーチミン事務所"
+		,"sub_title"					:	"ベトナムをはじめとするミャンマー、インドネシア、マレーシア、カンボジア、タイ、ラオスなどの東南アジア諸国は、持続的な経済成長や積極的な外国人投資促進政策の展開により、最近韓国投資者の間で新たな投資先として脚光を浴びています。"
+		,"sub_content"					:	"そのため律村は、2007年にホーチミン事務所、2010年にハノイ事務所、2014年にヤンゴン事務所、そして2017年にジャカルタ事務所を開設し、ベトナム/東南アジア地域の投資に関する包括的なリーガル・サービスを提供しています。律村は東南アジアのクライアントに対する体系的かつ専門的なリーガル・サービスを提供するため、韓国弁護士、米国弁護士、それにベトナム、ミャンマー、インドネシアの弁護士など、東南アジアの法律専門家も含めて構成された東南アジアチームを別途運営しており、中でもベトナム事務所はここ10年余りの間、東南アジアチームの中心的役目を担ってきました。律村のベトナム事務所は、ベトナムで様々な事業を展開する多くの国内外企業に持続的にリーガル・サービスを提供しており、ベトナムで行われる各種のM&A取引、プロジェクト・ファイナンス取引、移転取引などをサポートして成功へと導いてきました。また最近ではベトナムで発生している大型の紛争事件においても最適な解決策を提案し、これに係わる訴訟及び仲裁でもクライアントにとって最善の結果を導き出しています。"
+		,"sub_content_type2"			:	"このように律村のベトナム事務所は東南アジアチームで最も長い歴史と経験を有する事務所として、律村ならではの豊富な経験と知識をもとに、ベトナムに進出された企業やこれから進出しようと考えていらっしゃる企業の皆様に、ベトナム法制はもちろんのこと、経済的、文化的な特性をも考慮した最高のオーダーメード型リーガル・サービスを提供いたします。"
+		,"airport"						:	"Tan Son Nhat International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30minutes / 10km"
+	}
+	
+	,"hanoi" : {
+		"office_name"					:	"<em>ベトナム</em>ハノイ事務所"
+		,"sub_title"					:	"ベトナムをはじめとするミャンマー、インドネシア、マレーシア、カンボジア、タイ、ラオスなどの東南アジア諸国は、持続的な経済成長や積極的な外国人投資促進政策の展開により、最近韓国投資者の間で新たな投資先として脚光を浴びています。"
+		,"sub_content"					:	"そのため律村は、2007年にホーチミン事務所、2010年にハノイ事務所、2014年にヤンゴン事務所、そして2017年にジャカルタ事務所を開設し、ベトナム/東南アジア地域の投資に関する包括的なリーガル・サービスを提供しています。律村は東南アジアのクライアントに対する体系的かつ専門的なリーガル・サービスを提供するため、韓国弁護士、米国弁護士、それにベトナム、ミャンマー、インドネシアの弁護士など、東南アジアの法律専門家も含めて構成された東南アジアチームを別途運営しており、中でもベトナム事務所はここ10年余りの間、東南アジアチームの中心的役目を担ってきました。律村のベトナム事務所は、ベトナムで様々な事業を展開する多くの国内外企業に持続的にリーガル・サービスを提供しており、ベトナムで行われる各種のM&A取引、プロジェクト・ファイナンス取引、移転取引などをサポートして成功へと導いてきました。また最近ではベトナムで発生している大型の紛争事件においても最適な解決策を提案し、これに係わる訴訟及び仲裁でもクライアントにとって最善の結果を導き出しています。"
+		,"sub_content_type2"			:	"このように律村のベトナム事務所は東南アジアチームで最も長い歴史と経験を有する事務所として、律村ならではの豊富な経験と知識をもとに、ベトナムに進出された企業やこれから進出しようと考えていらっしゃる企業の皆様に、ベトナム法制はもちろんのこと、経済的、文化的な特性をも考慮した最高のオーダーメード型リーガル・サービスを提供いたします。"
+		,"airport"						:	"Noi Bai International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 45 minutes / 22.5 km"
+	}
+	
+	,"jakarta" : {
+		"office_name"					:	"<em>インドネシア</em>ジャカルタ事務所"
+		,"sub_title"					:	"Indonesia is the world's fourth most populous country with an immense territory and abundant natural resources, based upon which it could possibly lead to its successful economic growth."
+		,"sub_content"					:	"As Yulchon has noticed Indonesia's growth potential, Yulchon becomes, among so called \"Big 6\", the first Korean law firm that successfully established a co-operative relationship with a renowned Indonesian law firm, Roosdiono & Partners(a member of ZICO law), and set up a local office in Jakarta. With the set-up of a local office in Jakarta, Yulchon has created a platform to provide clients, wishing to start its business in Indonesia, with effective legal services by dispatching Min Taek Lim, Esq. (licensed in the state of Alabama) to the local office in Jakarta, and by retaining an Indonesian lawyer to be dispatched from Roosdiono & Partners to Yulchon."
+		,"sub_content_type2"			:	"Yuchon's local office in Indonesia, in cooperation with its head office, offers legal services in various legal areas including M&A, real estate, construction, finance, PPP and SOC project, etc. to cater to clients' specific needs. Furthermore, Yulchon has organized an Indonesian team in its head office with dedicated members including Bong Hee Han, Esq., Hee Woong Yoon, Esq. (both licensed in Republic of Korea) and Tong Soo Chung, Esq. (licensed in the state of California), Tehyok Daniel Esq. (licensed in the state of New York) to offer superior legal services for those who wish to make a foray into Indonesian market."
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 60 minutes / 30 km"
+	}
+	
+	,"head"			:	{
+		"overview_values_title"				:	"概要/価値 | 法務法人(有)律村"
+		,"overview_values_keyword"			:	"律村、法律家の村、1997年、設立、リーガルサービス、専門家、協業精神、海外、事務所、グローバル"
+		,"overview_values_description"		:	"1997年、｢志を一つに法律家の村を作る｣という想いにより設立された律村は、｢クライアントに対する献身｣、｢独創的なリーガルマインド｣、｢卓越したサービス｣という三つの価値を掲げ、たゆみない努力を続けています。"
+		
+		,"accolades_title"					:	"受賞内容 | 法務法人(有)律村"
+		,"accolades_keyword"				:	"律村、受賞、選出、トップ、1位、今年のローファーム、awards、ランキング、連続、法律事務所、asialaw、フィナンシャルタイムズ、chambers asia pacific"
+		,"accolades_description"			:	"律村は、M&A、金融、企業法務、公正取引、訟務、租税、知的財産、不動産建設の分野において、国内外有数の評価機関から高く評価されています。"
+
+		,"academy_title"					:	"アカデミー | 法務法人(有)律村"
+		,"academy_keyword"					:	"律村、アカデミー、人材、専門家、成長、発展、自己啓発、教育機関、講師陣、育成"
+		,"academy_description"				:	"律村は、韓国ローファーム初となる社内教育機関｢律村アカデミー｣において、オーダーメイド型の成長プログラム、専門法律プログラム、語学プログラム、またクライアント等に向けた多彩なプログラムを運営しています。"
+
+		,"location_title"					:	"事務所の所在地 | 法務法人(有)律村"
+		,"location_keyword"					:	"律村、事務所、位置、アクセス、空港、バス、地下鉄"
+		,"location_description"				:	"律村の韓国、ロシア、ミャンマー、ベトナム、インドネシアの現地事務所に関する情報を提供しています。"
+
+		,"korea_title"						:	"ソウル事務所 | 法務法人(有)律村"
+		,"korea_keyword"					:	"律村、ソウル、1997年、リーガルサービス、パルナスタワー、三成駅、2号線、貿易センター、仁川、金浦"
+		,"korea_description"				:	"律村ソウル事務所は｢志を一つにして法律家の村を作る｣という想いにより、1997年に設立されました。 企業法務、金融、公正取引、訟務、租税、知的財産権、不動産、海外投資などの分野において、最高の専門家が幅広い知識と経験をもとに最高のリーガルサービスを提供しています。"
+
+		,"russia_title"						:	"ロシア事務所 | 法務法人(有)律村"
+		,"russia_keyword"					:	"律村、海外、ロシア、モスクワ、イ・ファジュン、仲裁院、ユリスト、アドフォカート"
+		,"russia_description"				:	"律村ロシアの事務所は、現地有数のローファーム及び各分野トップクラスの専門家と協力しながら、現地で活動するクライアントのニーズに合わせ、最高のサービスを提供しています。"
+
+		,"myanmar_title"					:	"ミャンマー事務所 | 法務法人(有)律村"
+		,"myanmar_keyword"					:	"律村、海外、ミャンマー、ヤンゴン、不動産、建設、金融、SOC"
+		,"myanmar_description"				:	"律村ミャンマー事務所は、ホーチミン事務所、ハノイ事務所、中国事務所に続き、四番目に開設された海外事務所です。ミャンマーに投資する韓国企業の不動産、建設、金融、SOCプロジェクトなど関し、顧客のニーズに合わせ、最高のリーガルサービスを提供しています。"
+
+		,"china_title"						:	"中国事務所 | 法務法人(有)律村"
+		,"china_keyword"					:	"律村、海外、中国、上海"
+		,"china_description"				:	"律村中国事務所は、投資、貿易、金融、公正取引、租税、仲裁・訴訟などあらゆる分野の専門家が結集し、中国関連の投資・貿易、企業経営、紛争など現地で起きる様々な問題等に対応しています。"
+
+		,"vietnam_title"					:	"ベトナム事務所 | 法務法人(有)律村"
+		,"vietnam_keyword"					:	"律村、海外、ベトナム、ホーチミン、ハノイ、東南アジア"
+		,"vietnam_description"				:	"律村ホーチミン、ハノイ事務所は、ベトナムで活動する国内外の企業にリーガルサービスを提供し、現地におけるM&A、不動産、Project Financing取引を成功させるためのお手伝いをしています。"
+
+		,"indonesia_title"					:	"インドネシア事務所 | 法務法人(有)律村"
+		,"indonesia_keyword"				:	"律村、海外、インドネシア、ジャカルタ、初の協業"
+		,"indonesia_description"			:	"律村インドネシア事務所はインドネシアに投資する韓国企業のM&A、不動産、建設、金融、SOCプロジェクトなどに関し、顧客のニーズに合わせて最高のリーガルサービスを提供しています。"
+	}
+}

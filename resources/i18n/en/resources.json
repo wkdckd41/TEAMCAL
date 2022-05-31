@@ -1,0 +1,65 @@
+{
+	"*****" : "resources_en"
+	
+	
+	,"highlight"			:	"Highlight"
+	,"deals_and_cases"	:	"Deals & Cases"
+	,"yulchon_news"		:	"Yulchon News"
+	,"in_the_press"		:	"In the Press"
+	,"publications"		:	"Publications"
+
+	,"periodicals"		:	"Periodicals"
+	,"legal_update"		:	"Legal Update"
+	,"paper_pub"			:	"Publications"
+
+	,"resources"					:	"Resources"
+	,"deals_and_cases_search"	:	"Search for Deals & Cases"
+	,"yulchon_news_search"		:	"Search for Yulchon News"
+	,"paper_pub_search"			:	"Search for Publications"
+	,"in_the_press_search"		:	"Search for Press Mentions"
+	,"news_letter_search"		:	"Search for Periodicals"
+	,"legal_update_search"		:	"Search for the Legal Update"
+	
+	,"title"					:	{
+		"deals_and_cases_search_input"	:	"업무사례 검색어 입력"
+		,"yulchon_news_search_input"		:	"율촌소식 검색어 입력"
+		,"paper_pub_search_input"		:	"논문/저서 검색어 입력"
+		,"in_the_press_search_input"		:	"언론보도 검색어 입력"
+		,"news_letter_search_input"		:	"뉴스레터 검색어 입력"
+		,"legal_update_search_input"		:	"최신법률정보 검색어 입력"
+		,"download"						:	"download"
+	}
+	
+	,"news_letter"		:	"Periodicals"
+	,"attach_file"		:	"Attachment"
+	,"relations_member"	:	"Related Professionals"
+	,"relations_news"	:	"Related Articles"
+	,"news_view"			:	"본문기사 보기"
+	
+	,"no_result_prev"	:	"No previous posts."
+	,"no_result_next"	:	"No next post."
+	
+	,"head"				:	{
+			"highlight_title"					:	"Highlight | Yulchon LLC"
+			,"highlight_keyword"				:	"Yulchon, news, materials, highlight, news, deals & cases, press mentions, publications, newsletters, latest legal information, Articles/books"
+			,"highlight_description"			:	"You can see Yulchon's newly updated news and the materials made by Yulchon professionals."
+			,"deals_and_cases_title"			:	"Deals & Cases | Yulchon LLC"
+			,"deals_and_cases_keyword"			:	"Yulchon, Deals & Cases, performance, deal, advisory, legal advice, victory in a legal suit, representation, transaction, conclusion, judgment"
+			,"deals_and_cases_description"		:	"You can see the successful Deals & Cases performed by Yulchon."
+			,"yulchon_news_title"				:	"Yulchon News | Yulchon LLC"
+			,"yulchon_news_keyword"				:	"Yulchon, Award, Selection, Commitment, Contribution, Attendance, Participation, Presentation, Lecture, Interview, Publication, Delegation, Information, Discussion"
+			,"yulchon_news_description"			:	"You can see the recent news of Yulchon."
+			,"in_the_press_title"				:	"Press Metnion | Yulchon LLC"
+			,"in_the_press_keyword"				:	"Yulchon, Press Mention, Newspaper, Articles, Publication, Interview, Attorney, Contribution, Publication, Victory in a Legal Suit, Judgment, Award, Selection, Seminar, Event,"
+			,"in_the_press_description"			:	"You can see Yulchon related articles mentioned in the press."
+			,"periodicals_title"				:	"Newsletter | Yulchon LLC"
+			,"periodicals_keyword"				:	"Yulchon, Newsletter, Regular, Spring, Summer, Autumn, Winter"
+			,"periodicals_description"			:	"You can see Yulchon's regular newsletters."
+			,"legal_update_title"				:	"the Latest Legal Information | Yulchon LLC"
+			,"legal_update_keyword"				:	"Yulchon, the latest legal information, legal update, news update, legal issues, foreign legal trend, implications, judgment, amendment, notice, tax analysis"
+			,"legal_update_description"			:	"You can see legal information related to Yulchon's recent issues."
+			,"paper_pub_title"					:	"Articles/Books | Yulchon LLC"
+			,"paper_pub_keyword"				:	"Yulchon, Article, Book, Publication, Competition Journal, Competition and Law, Sekyung Newspaper, Monthly Tax, the Magazine, Justice, Labor Law, Labor Post, NNA"
+			,"paper_pub_description"			:	"You can see the Articles and books published by Yulchon's professionals."
+	}
+}

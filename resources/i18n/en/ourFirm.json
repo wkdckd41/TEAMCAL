@@ -1,0 +1,198 @@
+{
+	"****************" : "en",
+	
+	"our_firm"				:	"Our Firm",
+	"overview_values"		:	"Overview/Values",
+	"accolades"				:	"Accolades",
+	"academy"				:	"Academy",
+	"location"				:	"Location",
+	
+	"overview"	:	{
+		"overview"				:	"About Yulchon"
+		,"overview_detail_1"	:	"Yulchon LLC was founded in 1997 following the meaning of Yulchon: “Lawyer’s Village”—Top legal experts come together and combine their talents to create a village of lawyers. Since its foundation, Yulchon has achieved continuous growth through its own efforts without making any merger or acquisition deal to become one of Korea’s prominent law firms. Based on diverse experience in all major practice areas including Corporate & Finance, Antitrust, Dispute Resolution, Intellectual Property, Labor and Overseas Investment, Yulchon’s professionals have provided their clients with the highest quality of legal services as promptly and accurately as possible. Particularly, with its unique teamwork-based system combined with expertise in all practice fields and cooperative culture, Yulchon has played a leading role in the development of Korea’s industries and legal market. As an effort to seek overseas expansion, Yulchon has operated offices in China, Russia, Vietnam, Myanmar and Indonesia and established a collaborative system with global leading law firms to demonstrate its capabilities as a global player. Yulchon strives to provide exceptional legal services for our clients based on the values of ‘Commitment to Client’ and ‘Creative Innovation’ and become one of Korea’s top law firms by taking a proactive approach to the opening of the legal market and the rapidly changing legal field."
+		,"overview_detail_2"	:	""
+		,"values"				:	"Yulchon Values"
+		,"values_detail"		:	"Three key values undergird Yulchon LLC’s success at setting new standards for providing you with high-quality legal service."
+		,"commitment_title"		:	"<em>Commitment</em><br>Commitment to Client"
+		,"commitment_content"	:	"Our professionals and staff share a single-minded devotion to putting your interests first. This commitment is central to Yulchon’s identity as a firm and to our reputation for exceptional responsiveness."
+		,"innovation_title"		:	"<em>Innovation</em><br>Creative Innovation"
+		,"innovation_content"	:	"Yulchon specializes in creative and innovative solutions to our legal challenges. We cultivate innovation in all aspects of our practice. As a result, Yulchon is known for remarkable success in establishing favorable precedents in both deal structuring and dispute resolution."
+		,"excellence_title"		:	"<em>Excellence</em><br>Excellence of Service"
+		,"excellence_content"	:	"Yulchon’s reputation for exceptional service stems from a law firm culture in which seasoned and highly skilled professionals serve you best by understanding not only the legal aspects of your immediate challenges but also your long-term interests."
+	
+	},
+	
+	"academy_tab"	:	{
+		"description_1"								:	"Yulchon spares no supports and efforts in providing its professionals with the help and support they require for developing expertise in their main practice areas. Yulchon’s support and efforts are evident in the fact that Yulchon has established a regular in-house education program and successfully operated Yulchon Academy, which is the first and the best among law firms in Korea."
+		,"description_2"							:	"‘Since its establishment in 2007, 'Yulchon Academy' has developed a variety of training courses for career development and professionals’ growth and development throughout the years. These courses include not only the latest legal knowledge and trends at home and abroad, but also education programs related to business knowledge such as finance, accounting and marketing, industry sector expertise on clients’ business, communication and presentation skills, and leadership skills, humanities and liberal arts field."
+		,"yulchon_academy_program"					:	"The followings are representative programs offered at Yulchon Academy"
+		,"new_lawyer_program"						:	"Training Program for Newly Recruited Lawyers" 
+		,"training_academy_program_description"		:	"Yulchon does not assign any work to newly recruited lawyers for about 2 months after joining Yulchon, instead, we provide various practical knowledge and skills necessary for carrying out work such as writing legal documents/ contracts, and training on English and IT skills."
+		,"year_academy_program"						:	"Tailored Education Programs"
+		,"year_academy_program_description"			:	"Yulchon Academy provides its professionals with an education program that is tailored to their level of experience. The program specifies the level of knowledge and expertise that is required for junior, middle and senior professionals and partners, and helps employees reach the top rank in their primary fields of practice."
+		,"professional_law_program"					:	"Professional Legal Program"
+		,"professional_law_program_description"		:	"Yulchon Academy provides its professionals Professional Legal Programs that deeply deal with new, specialized, and complex legal issues in each area by working in conjunction with our various internal professional teams, partners, experts from all walks of life."
+		,"language_program"							:	"Customized Language Programs"
+		,"language_program_description"				:	"Yulchon Academy offers customized language programs that cover English, Japanese, Chinese, and Spanish for professionals as well as Korean language courses for foreign professionals. In particular, Yulchon designates and provides unique and customized language program to support each professional to study the desired language through professional lecturers at 1:1 in-house during the working hours."
+		,"customer_program"							:	"Programs for In-House Lawyers"
+		,"customer_program_description"				:	"Yulchon develops and operates various customized programs for Yulchon's professionals as well as law school students, in-house lawyers, and leaders of in-house legal organizations."
+	}
+	
+	,"year"					:	"Year"
+	,"practice_area"		:	"Practice Area"
+	,"awards_search"		:	"수상내역 검색"
+	,"other_offices"		:	"Other Offices"
+	
+	,"nation"			:	{
+		"korea"			:	"Korea"
+		,"russia"		:	"Russia"
+		,"myanmar"		:	"Myanmar"
+		,"china"		:	"China"
+		,"vietnam"		:	"Vietnam"
+		,"indonesia"	:	"Indonesia"
+	}
+	
+	,"locale"			:	{
+		"seoul"			:	"Seoul"
+		,"moscow"		:	"Moscow"
+		,"yangon"		:	"Yangon"
+		,"shanghai"		:	"Shanghai"
+		,"hochininh"	:	"Hochiminh"
+		,"hanoi"		:	"Hanoi"
+		,"jakarta"		:	"Jakarta"
+	}
+	
+	,"workpart"			:	{
+		"all"					:	"All"
+		,"mna"					:	"M&A"
+		,"finance"				:	"Finance"
+		,"corporate"			:	"Corporate"
+		,"antitrust"			:	"Antitrust"
+		,"dispute_resolution"	:	"Dispute Resolution"
+		,"tax"					:	"TAX"
+		,"ip"					:	"IP"
+		,"estate"				:	"Real Estate & Construction"
+		,"firm"					:	"Firm"
+		,"etc"					:	"Etc."
+	}
+	
+	,"professionals"		:	"Professionals"
+	,"address"				:	"Address"
+	,"contact_information"	:	"Contact Information"
+	,"transportation"		:	"Transportation"
+	,"from_the_airport"		:	"How to get to Yulchon from the airport"
+	
+	,"seoul" : {
+		"office_name"					:	"<em>Korea</em>Seoul office"
+		,"sub_title"					:	"Through our lawyers’ unparalleled dedication to represent our clients’ interests and clients’ confidence in us. Yulchon’s Seoul office has achieved tremendous growth in the shortest time in Korean law firm history."
+		,"sub_content"					:	"Yulchon’s Seoul office provides the highest quality advice in the areas of cooperate & finance, antitrust, litigation, tax, intellectual property, real estate & construction and outbound investment by drawing from our seasoned professionals’ vast experience and expertise. Embracing the new challenges of the global economy and the opening of the legal services market in Korea, Yulchon has opened offices in China, Russia, Vietnam, Myanmar and Indonesia and carefully nurtured a network of various top-tier foreign law firm for creative collaboration. Furthermore, Yulchon has added to its deep bench numerous experienced foreign-licensed lawyers from around the globe, including the U.S., Europe as well as Central and South America. Yulchon is fully ready and poised to face the new challenges and open a new chapter in Korean law firm history. We also provide practical solution and up-to-date information to domestic and foreign clients by offering as many as 50 seminars and workshops a year."
+		,"sub_content_type2"			:	"With undivided commitment, creative problem solving and superior legal skills, Yulchon’s Seoul office will continue to offer the highest quality legal advice for years to come."
+		,"by_subway"					:	"By Subway"
+		,"by_subway_des"				:	"Line 2 (Green Line) Samseong Station. Exit the station through Exit 5 and walk straight ahead along Teheran-ro.Parnas Tower is approximately 50 meters from the subway station on the right side of Teheran-ro."
+		,"by_bus"						:	"By Bus"
+		,"by_bus_des"					:	"The bus stop is \"Trade Center - Samseong Station\" (무역센터삼성역)<br>Blue Bus : 146, 333, 341, 360, 740, N13, N61<br>Green Bus : 3411<br>Express : 8001<br>Shuttle : Kangnam 07 or 08 village(mauel) bus<br>Direct (Red) Bus : 500-2, 1100, 1700, 2000, 2000-1, 7007, 9303, 9414<br>Airport Bus : 6103, 6006, 6704, 6000, 6104"
+		,"incheon_airport"				:	"Incheon International Airport"
+		,"by_bus_airport"				:	"By Bus"
+		,"by_bus_incheon_airport_des"	:	"Take No.6103 and get off at \"Samseong\" station.<br>Take No.6006 and get off at \"Trade Center\" station.<br>Take No.6704 and get off at \"Grand Intercontinental Hotel\" station.<br>Length of trip: Approx. 100 minutes / 70 km"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 80 minutes / 70 km"
+		,"gimpo_airport"				:	"Gimpo Airport"
+		,"by_bus_gimpo_airport_des"		:	"Take No.6000 or 6104 and get off at \"Samseong\" station.<br>Length of trip: Approx. 60 minutes / 30 km"
+		,"by_taxi_gimpo_airport_des"	:	"Length of trip: Approx. 50 minutes / 30 km"
+	}
+	
+	,"moscow" : {
+		"office_name"					:	"<em>Russia</em>Moscow office"
+		,"sub_title"					:	"Based on eight year long experience of providing top notch legal consulting and innovative solutions to Korean businesses pursing investment projects in Russia and Central Asia, Yulchon has opened a representative office in Moscow at the prestigious business center ”White Gardens” alongside with the world renowned law and accounting firms such as “Baker & McKenzie”, “Dentons”, “PriceWaterHouseCoopers” and “Deloitte”. Moscow office shall serve as an output of the firm’s regional “Russia and Central Asia” practice with an aime at developing new and enhancing existing relations with prominent local law firms and sole practitioners in order to better respond to Korean clients’ needs. The firm’s regional “Russia and Central Asia” practice has gained a strong reputation among Korean law firms for having a unique experience of handling a variety of legal issues ranging form M&A, SOC, plant construction, investment in natural resources as well as representing Koreans clients’ interests in courts of all instances in the Russian Federation and some republics of Central Asia. To name a few, by way of our active involvement a Korean client favorable decision by a third instance court was secured in Russia thus overturning the previous court’s decision ordering the Korean respondent, “Korea Aerospace Industries”, to pay $50 million in damages. In Kazakhstan, we successfully represented a Korean construction company “Sambu” by securing an award of $120 million in damages from the courts of all instances starting from Economic court and all the way through the Supreme Court of Kazakhstan."
+		,"sub_content"					:	"In recognition of its contribution to facilitating the needs of Korean investor in Russia our firm was the only law firm invited to accompany the President Myung Bak Lee on his visit to Moscow in September 2008 as part of official delegation from South Korea. The Moscow office is headed by a Russia trained jurist / advocate, the first ever attorney of Korean decent appointed as an arbitrator to the International Commercial Arbitration Court under the auspices of the Chamber of Commerce and Industry of the Russian Federation as well as the Kazakhstani International Arbitrage, who is known for his active role in dispute resolution between parties from Korea and former Soviet Union states. Hwa Joon Lee, a Russia trained jurist and advocate of the Moscow city bar, graduated from school in Russia followed up by a graduation with honors from the department of law of the Moscow State University and International private law graduate studies at the department of law of the Seoul National University. Shortly after he commenced work at the Moscow office of the Clifford Chance law firm he had to return to Korea after 13 years in Russia. Upon arrival he was conscripted to serve as a JAG officer at the contract department of the Ministry of Defense of Korea to oversee procurement of Russian made arms and weapons."
+		,"sub_content_type2"			:	"The firm's regional “Russia and central Asia” practice is made up of Korea, Russia, USA trained attorneys with a deep understanding of cultural economic and legal traditions of the region coupled with diverse practical experience. Among them there are a Russia licensed attorney of Russian decent who has lived and worked in Korea for over 16 years, whose qualifications go beyond Korean language fluency but include personal knowledge of Korean corporate culture; and a paralegal with a prestigious Korean linguistic university major in simultaneous Russian - Korean language interpretation which adds an extra value to the \"Russian and Central Asia\" regional practice team."
+	}
+	
+	,"yangon" : {
+		"office_name"					:	"<em>Myanmar</em>Yangon office"
+		,"sub_title"					:	""
+		,"sub_content"					:	"Yulchon's Myanmar office was established in 2014, following Yulchon's Ho Chi Minh City, Hanoi and Beijing offices. Yulchon's Myanmar strives to deliver legal services related to corporate matters, real estate, finance, construction, SOC projects, and M&A transactions, among others. Yulchon's Myanmar office works closely with Southeast Asia Practice Group of Yulchon LLC to provide professional, accurate and efficient solutions."
+		,"sub_content_type2"			:	""
+		,"airport"						:	"Yangon Mingladon International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30 minutes / 8 km"
+	}
+	
+	,"shanghai" : {
+		"office_name"					:	"<em>China</em>Shanghai office"
+		,"sub_title"					:	"On March 1, 2018, Yulchon moved its China representative office to Shanghai."
+		,"sub_content"					:	"Since opening its China office in Beijing in 2011, Yulchon has been providing high-quality legal services to both Korean clients doing business in China and Chinese clients doing business in Korea. Yulchon has advised these clients in many areas including cross-border transactions, investments, finance, IPOs, tax, competition, intellectual property, and dispute resolution, through seamless collaboration among experts in Korea and China. Yulchon’s China practice will continue and expand on these strong beginnings through its new Shanghai office, from which it will be more efficient than ever before in helping achieve the goals of Yulchon’s Chinese and Korean clients, as well as global companies with a presence in China. Our Shanghai office includes the following lawyers: Mr. Hee-Chul Kang, one of the founding partners of Yulchon and recognized as a leading lawyer in Korea on cross border M&A, corporate law, labor & employment law, and more; Mr. Wook Huh, a Korean lawyer with a Beijing University doctorate in law and more than ten years’ experience in China; and Mr. Zhong Nan Tai, a Chinese lawyer who has abundant experience and expertise with China-Korea related business."
+		,"sub_content_type2"			:	"Yulchon’s Chinese practice also includes a strong team in its Seoul headquarters, consisting of Mr. Ung Jae Byun, a Korean lawyer who is recognized as one of the top experts in investments and transactions between China and Korea, with almost 20 years’ experience in this area; and Mr. Joong Bu Kim, a Chinese lawyer who has worked as a senior attorney in a top law firm in Shenzen."
+	}
+	
+	,"hochininh" : {
+		"office_name"					:	"<em>Vietnam</em>Hochiminh office"
+		,"sub_title"					:	"The Southeast Asian countries such as Vietnam, Myanmar, Indonesia, Malaysia, Cambodia, Thailand and Laos, etc. have become hot places to invest, thanks to their steady economic growth and active polices to attract foreign investments."
+		,"sub_content"					:	"In response, Yulchon opened an office in Ho Chi Minh City in 2007, Hanoi in 2010, Yangon in 2014, and Jakarta in 2017 and has provided legal services related to regional investments in Vietnam and the other Southeast Asian countries. In addition, Yulchon operates a separate team dedicated to the Southeast Asian countries, where experts in the laws of the Southeast Asian countries including Vietnam and Myanmar and Indonesian and Korean and foreign lawyers work closely with one another in order to offer systematic and expert advice to clients. Especially, Vietnam offices have played a major role within such Southeast Asia Team over the past 10 years. Our Vietnam offices provide legal advice to many companies that conduct a different type of business in Vietnam, and have successfully handled various M&A, project financing, and transfer transactions, etc. in Vietnam. Recently, our Vietnam offices have assisted clients with innovative solutions for complex legal disputes in Vietnam, and have also successfully represented clients in related litigation and arbitration."
+		,"sub_content_type2"			:	"As such, drawing form our vast knowledge and expertise, Yulchon Vietnam Offices, with its long history and experience in the Southeast Asia Team, offer to both client and entity seeking to enter Vietnam the highest quality legal services that are tailor made and reflecting not only the legal systems of Vietnam but also its economic and cultural characteristics."
+		,"airport"						:	"Tan Son Nhat International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 30minutes / 10km"
+	}
+	
+	,"hanoi" : {
+		"office_name"					:	"<em>Vietnam</em>Hanoi office"
+		,"sub_title"					:	"The Southeast Asian countries such as Vietnam, Myanmar, Indonesia, Malaysia, Cambodia, Thailand and Laos, etc. have become hot places to invest, thanks to their steady economic growth and active polices to attract foreign investments."
+		,"sub_content"					:	"In response, Yulchon opened an office in Ho Chi Minh City in 2007, Hanoi in 2010, Yangon in 2014, and Jakarta in 2017 and has provided legal services related to regional investments in Vietnam and the other Southeast Asian countries. In addition, Yulchon operates a separate team dedicated to the Southeast Asian countries, where experts in the laws of the Southeast Asian countries including Vietnam and Myanmar and Indonesian and Korean and foreign lawyers work closely with one another in order to offer systematic and expert advice to clients. Especially, Vietnam offices have played a major role within such Southeast Asia Team over the past 10 years. Our Vietnam offices provide legal advice to many companies that conduct a different type of business in Vietnam, and have successfully handled various M&A, project financing, and transfer transactions, etc. in Vietnam. Recently, our Vietnam offices have assisted clients with innovative solutions for complex legal disputes in Vietnam, and have also successfully represented clients in related litigation and arbitration."
+		,"sub_content_type2"			:	"As such, drawing form our vast knowledge and expertise, Yulchon Vietnam Offices, with its long history and experience in the Southeast Asia Team, offer to both client and entity seeking to enter Vietnam the highest quality legal services that are tailor made and reflecting not only the legal systems of Vietnam but also its economic and cultural characteristics."
+		,"airport"						:	"Noi Bai International Airport"
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 45 minutes / 22.5 km"
+	}
+	
+	,"jakarta" : {
+		"office_name"					:	"<em>Indonesia</em>Jakarta office"
+		,"sub_title"					:	"Indonesia is the world's fourth most populous country with an immense territory and abundant natural resources, based upon which it could possibly lead to its successful economic growth."
+		,"sub_content"					:	"As Yulchon has noticed Indonesia's growth potential, Yulchon becomes, among so called \"Big 6\", the first Korean law firm that successfully established a co-operative relationship with a renowned Indonesian law firm, Roosdiono & Partners(a member of ZICO law), and set up a local office in Jakarta. With the set-up of a local office in Jakarta, Yulchon has created a platform to provide clients, wishing to start its business in Indonesia, with effective legal services by dispatching Min Taek Lim, Esq. (licensed in the state of Alabama) to the local office in Jakarta, and by retaining an Indonesian lawyer to be dispatched from Roosdiono & Partners to Yulchon."
+		,"sub_content_type2"			:	"Yuchon's local office in Indonesia, in cooperation with its head office, offers legal services in various legal areas including M&A, real estate, construction, finance, PPP and SOC project, etc. to cater to clients' specific needs. Furthermore, Yulchon has organized an Indonesian team in its head office with dedicated members including Bong Hee Han, Esq., Hee Woong Yoon, Esq. (both licensed in Republic of Korea) and Tong Soo Chung, Esq. (licensed in the state of California), Tehyok Daniel Esq. (licensed in the state of New York) to offer superior legal services for those who wish to make a foray into Indonesian market."
+		,"by_taxi"						:	"By taxi"
+		,"by_taxi_des"					:	"Length of trip: Approx. 60 minutes / 30 km"
+	}
+	
+	,"head"			:	{
+		"overview_values_title"				:	"Introduction and value l Yulchon LLC"
+		,"overview_values_keyword"			:	"Yulchon, Lawyer's Village, Established in 1997, Legal Services, Experts, Collaboration Spirit, Overseas, Offices, Global"
+		,"overview_values_description"		:	"Yulchon LLC was founded in 1997 following the meaning of Yulchon: “Lawyer’s Village”—Top legal experts come together and combine their talents to create a village of lawyers. Three key values undergird Yulchon LLC’s success at setting new standards for providing you with high-quality legal service."
+		
+		,"accolades_title"					:	"Awards l Yulchon LLC"
+		,"accolades_keyword"				:	"Yulchon, awards, selected, 1st, law firms of the year, awards, rankings, succession, law firms, asialaw, financial times, chambers Asia pacific"
+		,"accolades_description"			:	"Yulchon has been selected and awarded by leading domestic and overseas rating agencies in the field of M&A, finance, corporate law, fair trade, litigation, taxation, Intellectual Property and Real Estate & Construction."
+
+		,"academy_title"					:	"Academy l Yulchon LLC"
+		,"academy_keyword"					:	"Yulchon, Academy, Talent, Expert, Growth, Development, Self-development, Educational institution, Instructor, Nurturing"
+		,"academy_description"				:	"Yulchon is the first law firm to operate the Academy, which is the in-house educational institution, to provide yearly tailored education program, professional legal program, tailored language program and programs for clients."
+
+		,"location_title"					:	"Office Location l Yulchon LLC"
+		,"location_keyword"					:	"Yulchon, office, location, how to get to Yulchon from the airport, airport, bus, subway"
+		,"location_description"				:	"Provide information on Yulchon’s local offices in Korea, Russia, Myanmar, Vietnam and Indonesia."
+
+		,"korea_title"						:	"Seoul Office l Yulchon LLC"
+		,"korea_keyword"					:	"Yulchon, Seoul, 1997, Legal Services, Parnas Tower, Samseong Station, Line No. 2, World Trade Center Seoul, Incheon, Gimpo"
+		,"korea_description"				:	"Yulchon LLC was founded in 1997 following the meaning of Yulchon: “Lawyer’s Village”—Top legal experts come together and combine their talents to create a village of lawyers. Since its foundation, Yulchon has provided the best legal services based on our extensive experience and knowledge in the fields of corporate law and finance, fair trade, litigation, taxation, Intellectual Property, Real Estate & Construction, and overseas investment."
+
+		,"russia_title"						:	"Russia Office l Yulchon LLC"
+		,"russia_keyword"					:	"Yulchon, overseas, Russia, Moscow, Hwa Joon Lee, arbitration board, jurist, advokat"
+		,"russia_description"				:	"Yulchon’s Russia office strives to meet the needs of Korean clients in Russia through collaboration with prestigious Russian law firms and experts in each filed with proven capabilities."
+
+		,"myanmar_title"					:	"Myanmar Office l Yulchon LLC "
+		,"myanmar_keyword"					:	"Yulchon, overseas, Myanmar, Yangon, real estate, construction, finance, SOC"
+		,"myanmar_description"				:	"The Myanmar office is the fourth overseas office launched by Yulchon, following offices in Ho Chi Minh and Hanoi of Vietnam and the China office. It provides legal services tailored to the needs of Korean companies investing in Myanmar in areas such as real estate, construction, finance, SOC projects, etc."
+
+		,"china_title"						:	"China Office l Yulchon LLC"
+		,"china_keyword"					:	"Yulchon, overseas, China, Shanghai"
+		,"china_description"				:	"Yulchon’s China office helps clients resolve local issues such as China-related investment, trade, corporate management, and disputes by utilizing expertise of various specialists in China-related investment, trade, finance, antitrust, tax, arbitration, litigation, etc., and provides advisory services."
+
+		,"vietnam_title"					:	"Vietnam Office l Yulchon LLC"
+		,"vietnam_keyword"					:	"Yulchon, overseas, Vietnam, Ho Chi Minh, Hanoi, Southeast Asia"
+		,"vietnam_description"				:	"Yulchon’s offices in Ho Chi Minh and Hanoi provide advisory services for Vietnamese and foreign companies, and successfully perform M&A deals, real estate projects and project financing transactions in Vietnam."
+
+		,"indonesia_title"					:	"Indonesia Office l Yulchon LLC"
+		,"indonesia_keyword"				:	"Yulchon, overseas, Indonesia, Jakarta, first collaborative relationship"
+		,"indonesia_description"			:	"Yulchon’s Indonesia office provides legal services tailored to Korean companies investing in Indonesia in areas such as M&A, real estate, construction, finance, SOC projects, etc."
+	}
+}

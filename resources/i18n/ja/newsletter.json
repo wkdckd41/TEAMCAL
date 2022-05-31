@@ -1,0 +1,23 @@
+{
+	"*****" : "newsletter_ja"
+	
+	,"subscribe_to_newsletter"		:	"ニュースレター購読のお申込み"
+	,"member_sub_info"				:	"<span>会員</span>の<span>場合簡単に</span>購読をお申し込みいただけます。"
+	,"quick_subscription"			:	"簡易購読申込み"
+	,"non_member_subscription"		:	"非会員の購読申込み<br><span class=\"m_hide\">(律村のホームページに会員登録すると簡易購読申込みができ、より多様なサービスをお楽しみいただけます。)</span>"
+	,"fm_txt_info"					:	"<span class=\"txt_essential\">*表示</span>された項目は必須項目です。"
+	,"lg_hidden"					:	"(律村のホームページに会員登録すると簡易購読申込みができ、より多様なサービスをお楽しみいただけます。 )"
+	
+	,"email"						:	"Ｅメール(法人) <span class=\"txt_essential\">*</span>"
+	,"emailEmpty"					:	"メールアドレスを入力してください。"
+	,"emailFormat"					:	"メールアドレスの形式にしたがい入力してください。"
+	,"emailOverlap"					:	"すでに登録されているメールアドレスです。"
+	,"emailSuccess"					:	"使用可能なメールアドレスです。"
+	
+	,"interestPart"					:	"関心分野"
+	,"partChoice"					:	"分野選択"
+	
+	,"complete_application"			:	"申し込み完了"
+	
+	,"alert_complete_application"	:	"申込みが完了しました。"
+}

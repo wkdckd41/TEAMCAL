@@ -1,0 +1,258 @@
+@charset "utf-8";
+
+/* 폼 validate */
+[class*="row"] [class*="col-"] .msg_validate{height:16px;margin-right:10px;margin-bottom:14px;padding-left:23px;font-size:16px;color:#e34b2d;background:url(../../images/common/ico_alert.png) no-repeat 0 center;background-size:16px 16px;line-height:16px;text-align:left;}
+[class*="row"] [class*="col-"] .msg_validate.success{background-image: url(../../images/common/ico_success.png);color:#075aba;}
+[class*="row"] [class*="col-"].form_cnt .msg_validate{margin-left:170px;}
+
+.form_group_wrap p input[type="text"] {min-width: calc(100% - 220px);}
+
+/* 폼그룹 공통 - 가입 화면 */
+/* IE 10, 11의 네이티브 화살표 숨기기 */
+select::-ms-expand {display:none;} 
+
+/* 인풋 스타일 */
+input{border:1px solid #dadada;}
+input, .enter_txt{margin-left:40px;height:48px;padding:0 20px;font-size:18px;box-sizing:border-box; outline:none;}
+input:focus{outline:none;border:2px solid #222;}
+
+/* 라디오 버튼  스타일 */
+input[type=radio]{height:26px;width:26px;padding:14px 15px;background:url(../../images/common/btn_radio_off.png) no-repeat 0 0;background-size:26px 26px;}
+
+/* 체크박스 스타일 */
+input[type=checkbox]{height:24px;width:24px;padding:0;background:url(../../images/common/btn_chk_off.png) no-repeat 0 0;background-size:24px 24px;}
+input[type=radio], 
+input[type=checkbox]{vertical-align:middle;cursor:pointer;border:none!important;-webkit-transition:0.5s;transition:0.5s;-webkit-appearance:none;-moz-appearance:none;appearance:none;}
+
+.column_wide{padding:80px 0 120px;}
+.column_wide .mb_cnt_wrap.col-5 form{width:400px;margin:0 auto;}
+.column_wide .mb_cnt_wrap{float:none;margin:0 auto;/*width:400px;*/padding:80px 0 150px;} 
+.column_wide .mb_info_dsc{float:none;margin:0 auto;/*width:400px;padding:80px 0 150px;*/}
+.mb_cnt_wrap label{display:none;}
+[class*="col-"] .mb_cnt_wrap input{margin-bottom:16px;height:50px;font-size:18px;line-height:21px;border:1px solid #d9d9d9;box-sizing:border-box;}
+.mb_cnt_wrap input:focus{outline:none;border:2px solid #222;}
+[class*="col-"] .mb_cnt_wrap button{float:none;padding:15px 0;margin-top:35px;background:#075aba;color:#fff;font-size:20px;font-weight:400;line-height:21px;text-align:center;}
+.column_wide button.btn_white{padding:10px 32px;font-size:18px;color:#666;border:1px solid #666;border:1px solid #666;background:#fff;}
+.column_wide button.btn_gray{color:#fff;border:1px solid #666;background:#666;}
+.custom_etc{margin:20px auto 0 ;padding:0 2.03%;text-align:center;box-sizing:border-box;} /* margin:20px 2.03%; */
+.custom_etc{max-width:400px;}
+.custom_etc ul li{display:inline-block;background-color:#666;line-height:15px;}
+.custom_etc ul li a{margin-left:1px;padding:0 15px;font-size:16px;color:#666;background-color:#fff;}
+.custom_etc ul li:first-child a{margin-left:0;}
+.find_dsc p{text-align:left}
+.find_dsc p span{float:right}
+.find_dsc a{color:#666;border-bottom: 1px solid #666;}
+.find_dsc a:hover{text-decoration:none;}
+.mb_info_dsc p, .mb_info_dsc p.dsc_tl, .containbox_mb .mb_info_dsc p{color:#666;font-size:24px;line-height:36px;text-align:center;word-break:keep-all;}
+.mb_info_dsc p.dsc_tl{margin-bottom:35px;color:#222;}
+.mb_info_dsc p span{color:#075aba;letter-spacing:-1px;}
+
+/* 이메일(아이디) 찾기 */
+.column_wide .find_id_area .mb_info_dsc{padding:0;}
+
+/* 비밀번호 찾기 */ 
+.column_wide .find_pw_area, .reg_pw_area{text-align:center;}
+.column_wide .add_dsc{padding:35px 0 0;background:url(../../images/official/member/img_bar_small.png) no-repeat center 0;}
+.column_wide .add_dsc p{font-size:18px;line-height:30px;}
+
+/* 비밀번호 재설정 */
+.chg_pw_area p, .reg_pw_area p{margin-bottom:30px;font-size:18px;color:#666;line-height:26px;text-align:center;word-break:keep-all;}
+
+/* 메일 인증 */
+.confim_email_area{text-align:center;}
+.confim_email_area .mb_cnt_wrap{padding:0}
+.confim_email_area .btn_area{margin:40px auto;}
+.confim_email_area [class*="col-"] button{margin:0 5px;min-width:240px}
+
+/* 회원 탈퇴 */
+.leave_area{padding:20px 40px;border: 1px solid #dadada;box-sizing:border-box;}
+.leave_area .info_txt{max-height:90px;margin:0;padding:10px 0 10px 23px;font-size:18px;color:#888;background:url(../../images/common/ico_alert2.png) no-repeat 0 center;background-size:auto;line-height:normal;text-align:left;}
+.form_group_wrap .leave_area button{float:right;margin:0;} 
+.enter_txt{display:inline-table;padding-left:0;}
+.column_wide button{float:none;margin-top:24px;padding:0 20px;height:50px;background:#075aba;color:#fff;font-size:20px;font-weight:400;line-height:21px;}
+.form_group_wrap  button.btn_white{padding:10px 32px;font-size:18px;color:#666;border:1px solid #666;border:1px solid #666;background:#fff;}
+.form_group_wrap  button.btn_gray{color:#fff;border:1px solid #666;border:1px solid #666;background:#666;font-size:18px;line-height:18px;}
+.form_group_wrap  button.btn_gray:active,
+.form_group_wrap  button.btn_gray:hover{background: #525252;border: 1px solid #525252;}
+.mb_leave_area .btn_area{text-align:center;}
+.mb_leave_area .btn_area button{min-width: 240px;}
+
+/* 회원정보 */
+.form_cnt.view_list input:disabled{padding:0;background:transparent;border:none;}
+.btn_area.col-12{display:inline-block;margin:60px auto;width:100%;}
+.btn_area.type3.col-12{display:inline-block;margin:20px auto;width:100%;}
+.btn_area.col-12, .btn_area.col-12 button {float:none;text-align:center;}
+.form_cnt input[type=radio]:focus,
+.form_cnt input[type=radio]:checked{background-image:url(../../images/common/btn_radio_on.png);border:none;}
+.form_cnt{/* padding-bottom:120px; */font-size:16px;color:#222;}
+.form_cnt .fm_txt_info{text-align:right;border-bottom: 2px solid #222222;padding-bottom: 20px;}
+.form_cnt .txt_essential{color:#e34b2d;}
+.form_cnt .fm_txt_dsc{margin-left:170px;margin-bottom:14px;}
+.form_cnt p{margin:8px 0;line-height:60px;}
+.form_cnt label{float:left;margin-left:10px;width:120px;font-size:18px;}
+
+.form_cnt.type2 p{margin:18px 0;line-height:60px;}
+.form_cnt.type2 label {float: left;margin-left: 10px;width: 150px;font-size: 18px;}
+
+.form_cnt form{padding:20px 0 0;border-top:2px solid #222;border-bottom:1px solid #222;}
+.form_cnt input::placeholder {font-weight:300;}
+.form_cnt .int_field{float:left;margin-bottom:15px;padding:37px 42px 12px;background:#f7f7f7;box-sizing:border-box;}
+.form_cnt .int_field div.int_cnt div{float:left;margin:0 18px 25px;}
+.form_cnt .int_field a{display:inline-block;height:20px;width:20px;background:url(../../images/common/img_delete.png) no-repeat 0 0;background-size:100% auto;vertical-align:middle;text-indent:-9999px;}
+.form_cnt select{float:left;margin-left:40px;}
+.form_cnt select+input{margin-left:10px; background:#f5f5f5;}
+.form_cnt select+input:focus{background:#fff;}
+
+select {min-width:150px;margin-top:9px;padding:15px 20px;font-size:16px;line-height:16px;background:url(../../images/common/ico_select.png) no-repeat 95% 50%;-webkit-appearance:none;-moz-appearance: none;appearance: none;}
+p.br_line{position:relative;float:left;width:100%;margin: 0;padding:2px 0;border-top:1px solid #dadada;line-height:75px;}
+p.br_line button{position:absolute;top:0;right:0;margin:15px 0 0;/*padding:15px 48px;*/color:#fff;font-size:18px;background:#666;}
+p.br_line button span{font-size:16px;}
+span.info_txt{float:left;margin-left:40px;line-height:75px;}
+.line_h label{margin-top:10px;line-height:25px;}
+
+/* 약관 동의 */
+input[type=checkbox]:checked{background-image:url(../../images/common/btn_chk_on.png);border:none;}
+span.input_chk{float:right;font-size:18px;vertical-align:middle;line-height:16px;}
+span.input_chk input{margin-left:0;}	
+span.input_chk label{margin-left:10px;}
+.tm_essential {color:#075aba;}
+.tm_essential.tm_option{color:#888;}
+.terms_tit_area{margin:60px auto 20px;}
+.terms_tit_area .tm_tl{font-size:20px;color:#222;}
+.terms_tit_area .tm_tl span{font-size:16px;}
+.terms_cnt{overflow:hidden;position:relative;height:200px;padding:30px;color:#888;font-size:16px;font-weight:300;line-height:30px;border:1px solid #d9d9d9;box-sizing:border-box;word-break:keep-all;z-index:0;}
+.terms_box .terms_chk_all{padding:20px 40px;color:#222;font-size:18px;background:#f5f5f5;}
+.terms_chk_all  p{display:inline-block;width:100%;line-height:51px;letter-spacing:-1px;}
+.terms_chk_all .input_chk{position:relative;display:inline-table;margin:12px 0;color:#fff;font-size:18px;line-height:normal;font-weight:300;}
+.terms_chk_all .input_chk input{position:absolute;width:0;-webkit-transition:unset;transition:unset;}
+.terms_chk_all .input_chk label{margin:0;padding:12px 20px;background:#666;}
+.terms_chk_all .input_chk .active+input[type=checkbox]{top:0;left:13.555%;margin:0;width:24px;background-image: url(../../images/common/btn_chk_on.png);}
+.terms_chk_all .input_chk .active{padding:12px 30px 12px 56px;background:#075aba;}
+
+/* 약관 스크롤바 */
+.swiper-scrollbar{/* top:30px;right:30px;margin: 30px 30px 0 0; */border-radius:0;} 
+.swiper-scrollbar-drag{height:40px !important;background:#999;border-radius:0;}
+
+/* 파일업로드 */
+.hdn_fileupload{display: none;}
+.fileupload_content{width: calc(100% - 380px);display: inline-block;}
+.fileupload_content div{display: block;padding: 5px 0;font-size: 18px;}
+.fileupload_txt{vertical-align: top;display: inline-table;padding-left: 0;margin-left: 20px;height: 48px;padding: 0 20px;font-size: 18px;box-sizing: border-box;outline: none;}
+.container_wrap .column_wide button.btn_fileupload{padding: 0 15px;height: 36px;font-size: 16px;}
+.fileupload_wrap{border-bottom: 1px solid #222222;padding: 22px 0 10px 0;}
+
+@media only screen and (max-width: 1920px) {
+ 
+}
+ 
+@media only screen and (max-width: 1200px) { 
+	.terms_box_wrap .grid-layout-np,
+	.form_group_wrap .grid-layout-np{padding: 0 2.47%;}
+}
+ 
+@media only screen and (max-width: 1024px) {  
+	input:checked[type='checkbox']{background-color: transparent;-webkit-appearance: none;} 
+}
+
+@media only screen and (max-width: 880px) { 
+	.terms_chk_all  p{text-align:center;line-height:normal;}
+	.terms_chk_all .input_chk{float:none;margin-top:20px;}
+}
+
+@media only screen and (max-width: 767px) { 
+	.fileupload_txt{float: right;padding: 0;}
+	.fileupload_content div{font-size: 12px;}
+	.fileupload_content{width: 100%;}
+	.fileupload_content div{display: block;margin-left: 10px;}
+
+	/* 폼 validate */
+	[class*="row"] [class*="col-"] .msg_validate{margin-bottom:8px;padding-left:15px;height:13px;font-size:13px;line-height:13px;background-image: url(../../images/common/ico_alert_m.png);background-size: 13px 13px;}
+	[class*="row"] [class*="col-"] .terms_box .msg_validate{/* margin-right:7px;padding-left:15px; */}
+	input[type=checkbox],
+	.terms_chk_all .input_chk .active+input[type=checkbox]{width:21px;height:21px;background-size:21px 21px;}
+	.xs_hidden{display:none}
+	
+	.form_cnt{padding-bottom:40px;font-size:13px;}
+	.form_cnt form{padding:0;}
+	.form_cnt label, .form_cnt input, .form_cnt select, .form_cnt p.br_line button, .form_cnt button, .chg_pw_area p, .reg_pw_area p,.leave_area .info_txt,.column_wide button.btn_gray{font-size:14px;line-height:18px} /* .form_cnt p.br_line button */
+	.form_cnt label{float:none;display:inline-block;margin:10px 0;width:auto;font-weight:500;line-height:normal;}
+	[class*="row"] [class*="col-"].form_cnt .msg_validate,
+	.form_cnt select,  span.info_txt, .form_cnt input{margin-left:0;}	
+	.form_cnt select, .form_cnt .fm_txt_dsc{margin:0;}
+	.form_cnt input, .form_cnt select{height:40px;width:100%;padding:0 10px;} 
+	span.info_txt, .form_cnt p{line-height:normal} 
+	.form_cnt select+input{margin:7px auto 0;} 
+	.form_cnt .int_field{padding:20px 20px 0;}
+	.form_cnt .int_field div.int_cnt div{margin:0 10px 10px;}
+	.form_cnt input[type=radio]{height:23px;width:23px;padding:0;background-size:23px 23px;}
+	.form_cnt input[type=radio]+span{margin-right:30px;vertical-align:middle;} 
+	.form_cnt p.br_line{padding:10px 0;border:none} 
+	.form_cnt p.br_line label{display:inline-block;margin:10px 0 0;}	
+	.form_cnt p span.radio_g{display:block;}
+	.form_cnt p span.radio_g.fl_right{float:left;margin-top:15px}
+	.form_cnt p.br_line br{display:none;}
+	.form_cnt p.br_line button, .column_wide .view_list button.btn_gray{height:40px;position:relative;top:auto;right:auto;float:right;margin:0 auto;padding:10px 30px;font-size:14px;}
+	.form_cnt.type2 p.br_line button, .column_wide .view_list button.btn_gray{height:40px;position:relative;top:auto;right:auto;float:right;margin:5px auto;padding:10px 30px;font-size:14px;}
+
+	p.br_line button span{font-size:14px;}
+	.enter_txt {display:inline;margin:0;padding:0;}
+
+	.btn_area.col-12{margin:30px auto;}
+
+	.column_wide .btn_area.col-12 button{margin: 0 auto;width:100%;font-size:15px;}
+	.form_cnt p.br_line+p, 
+	div.int_field+p{border-top:1px solid #dadada;}
+
+	.column_wide button {font-weight:400;}
+	.column_wide .mb_cnt_wrap{width:100%;padding:30px 0;}
+	.column_wide .mb_cnt_wrap.col-5 form{width:100%;}
+	[class*="col-"] .mb_cnt_wrap input{margin-bottom:8px;font-size:14px;}
+	[class*="col-"] .mb_cnt_wrap button{margin-top:0;font-size:15px;}
+	[class*="col-"] .mb_cnt_wrap input,
+	[class*="col-"] .mb_cnt_wrap button{/*width:100%;margin-left:0;margin-right:0;*/height:40px;}
+
+	.custom_etc{width:100%;max-width:100%;}
+	.custom_etc ul li{line-height:11px;}
+	.custom_etc ul li a{padding:0 7px;font-size:14px;}
+	.mb_cnt_wrap.col-5 .btn_area{margin:30px auto 0; } 
+		
+	.terms_tit_area{position:relative;float:left;width:100%;margin:30px auto 10px;}	
+	.terms_tit_area .tm_tl{font-size:14px;/*line-height:30px;*/}
+	.terms_tit_area .tm_tl span{font-size:13px;}
+	.terms_box .terms_chk_all{padding: 30px 40px;font-size:14px;text-align:center;word-break:keep-all;}
+	.terms_box .terms_chk_all p{line-height:18px;letter-spacing:0;}	
+	.terms_cnt{float:left;height:130px;padding:15px;font-size:13px;line-height:20px;}	
+	.terms_chk_all .input_chk{display:block;float:none;margin:20px auto 10px;max-width:138px;font-size:14px;}
+	.terms_chk_all .input_chk label{padding:10px 40px;}
+	.terms_chk_all .input_chk .active{padding:10px 40px 10px 40px}	
+
+	.mb_info_dsc p.dsc_tl,	.mb_info_dsc p, .membership .mb_info_dsc p{margin-bottom:20px;} 
+	.mb_info_dsc p, .membership .mb_info_dsc p{font-size:16px;line-height:22px;}
+	.column_wide .add_dsc{padding:20px 0 0;background-image: url(../../images/official/member/img_bar_small_m.png);}
+	.column_wide .add_dsc p{margin-bottom:20px;font-size:14px;line-height:18px;}	 
+	.confim_email_area [class*="col-"] button{min-width:45%;}
+	.confim_email_area .btn_area{margin:0 auto;}
+	.leave_area {position:relative;display:inline-block;width:100%!important;padding:20px 0;border:none;}
+	.leave_area:before{display:block;position:absolute;top:0;left:-2.5%;right:-2.5%;border-top:1px solid #dadada;content:"";}
+	.leave_area .info_txt{background:none;padding-left:0}
+
+	.fileupload_wrap{position: relative;min-height: 106px;}
+	.fileupload_wrap .btn_close_wrap img{padding: 2px 5px;width: 17px;}
+}
+
+@media only screen and (max-width: 580px) { 
+	.confim_email_area .add_dsc br{display:none;} 
+}
+ 
+@media only screen and (max-width: 480px) { 
+	.terms_tit_area .input_chk{float:left;width:100%;}
+	span.input_chk input{position:absolute;top:5px;right:0;}
+	[class*="row"] [class*="col-"] .terms_box .msg_validate{margin:0;}
+}
+
+@media only screen and (max-width: 360px) { 
+	.login_area .custom_etc{margin-left:0;margin-right:0;}
+	.custom_etc ul li a{padding:0 5px;}
+}
+
+

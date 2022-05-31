@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+.page_seminar_write .form_cnt form p.lg-hidden{display:none;}
+/* seminar list */
+.sub_visual_area{background-image:url(../../images/official/seminar/top_visual.jpg);}
+.list_search input{border:1px solid #bbb;}
+.list_search.box_search{padding-bottom:0;}
+.txt_article{font-weight:500;}
+.page_seminar_list .info_box {overflow:hidden;position:relative;box-sizing:border-box;background-size:cover;background-position:center bottom; background:#fff;} 
+.page_seminar_list .info_box .link {display:block; box-sizing:border-box;font-weight:300;} 
+.page_seminar_list .info_box .link:hover {color:#222}
+.page_seminar_list .info_box .link:hover .txt_article,
+.page_seminar_list .info_box .link:hover .txt_article .ellip .ellip-line {text-decoration: underline}
+.page_seminar_list .info_box .txt_ctg {color:#0096f3; font-weight:400;}
+.page_seminar_list .info_box .btn_apply {background:#075aba; display:block; text-align:center; font-weight:400; color:#fff}
+.page_seminar_list .info_box .btn_apply:hover, .page_seminar_list .info_box .btn_apply:focus {text-decoration:none}
+.page_seminar_list .info_box .disabled {background:#666;}
+
+/* seminar detail */
+.page_seminar_detail .view_type_post {margin-bottom:0;}
+.page_seminar_detail .view_type_post .detail {padding-bottom:30px; min-height:200px; overflow-x:auto;}
+.page_seminar_detail .view_type_post .detail table {/* ie */ width:auto; /* chrome */width:fit-content;}
+.page_seminar_detail .view_type_post .detail img {max-width:100%; width:auto;}
+
+/* 세미나 안내 첨부파일 추가_20180430  */
+.view_type_post .additional{margin:30px 20px 60px}
+
+/* 참석 신청서 */
+.seminar .sm_write_area .grid-layout-np{padding:0;}
+.seminar .sm_info_area{padding:40px 30px;background:#eff6fa;text-align:center;}
+.seminar .sm_info_area p{font-size:22px;line-height:24px;}
+.seminar .sm_info_area p span{color:#075aba;}
+.seminar .sm_info_area button{height:50px;min-width:200px;margin-top:20px;padding:10px 30px;color:#fff;font-size:18px;background:#075aba;}
+
+.form_cnt form{padding-bottom:20px;}
+.form_cnt p{position:relative;display:block;}
+.page_seminar_write .form_cnt form p {display:table;width:100%;}
+.section  .column_wide button.btn_white{height:60px;}
+.terms_box .terms_chk_all{margin-top:60px;}
+.form_group_wrap p input[type="text"], .form_group_wrap p input[type="password"],  .form_group_wrap p input[type="tel"] {min-width: 430px;} 
+.form_group_wrap p input.w_auto {padding: 0 13px;min-width:270px;}
+.page_seminar_write .terms_box{width:100%;margin:0;} 
+.page_seminar_write .sm_write_area .f_cnt_top{padding:40px 0 0;}
+.page_seminar_write .sm_write_area p.txt_title{display:inline-table;font-size:24px;line-height:50px;}
+.page_seminar_write .sm_write_area p.txt_title span{margin-left:20px;font-size:16px;line-height:24px;font-weight:300;} 
+.page_seminar_write .sm_write_area .form_cnt .fm_txt_info{float:right;padding:0;line-height:70px;}
+.page_seminar_write .sm_write_area textarea{margin-top:6px;margin-left: 40px;padding:15px;width:81.333%;border:1px solid #dadada;box-sizing: border-box;} /* width:75.555%; */
+.page_seminar_write .sm_write_area textarea:focus{outline:none;border:2px solid #222;}
+.page_seminar_write .sm_write_area textarea.txt_area01{height:245px;}
+.page_seminar_write .sm_write_area textarea.txt_area02{height:105px;}
+.page_seminar_write .sm_write_area .limit_txt {position:absolute;bottom:0;padding-left:15px;line-height:21px;}
+.page_seminar_write .sm_write_area .limit_txt span{color:#075aba;}
+.form_cnt select+input{margin-left:7px;} 
+
+/* 세미나 접수 확인 */ 
+.page_seminar_confirm .column_wide .mb_cnt_wrap{float: left;width:50%;padding:0;}
+.page_seminar_confirm .column_wide form{width:auto;padding:0;border:none;}
+.page_seminar_confirm .column_wide .form_cnt{margin-top:40px;padding:30px 0 0;border-top:2px solid #222;background:url(../../images/official/seminar/line_gray.png) no-repeat center 65px;}
+.page_seminar_confirm .column_wide .form_cnt label{display:none;}
+.page_seminar_confirm .column_wide .form_cnt .custom_etc{width:90%;padding:0;word-break: keep-all;}
+.page_seminar_confirm .column_wide .form_cnt .msg_validate{margin:0 2.03% 14px;max-width:400px;box-sizing:border-box;}
+.page_seminar_confirm .column_wide .form_cnt p{margin:0 2.03%;text-align:left;line-height:normal;}
+.page_seminar_confirm .tabcontent {display:block;padding:0;}
+.page_seminar_confirm .tabcontent p.dsc_tl{display:block;margin-bottom:15px;font-size:24px;line-height:60px;color:#222;text-align:center;}
+
+
+@media only screen and (max-width: 1180px) {
+	.page_seminar_write .sm_write_area .form_cnt .fm_txt_info{float:none;padding-bottom:15px;}
+	.page_seminar_write .sm_write_area p.txt_title, 
+	.page_seminar_write .sm_write_area p.txt_title span, 
+	.page_seminar_write .sm_write_area .form_cnt .fm_txt_info{line-height:normal;}
+	.page_seminar_write .sm_write_area p.txt_title span{margin-left:5px;letter-spacing:-1px;} 
+	.page_seminar_write .sm_write_area .view_list.form_cnt .fm_txt_info{float:right;padding:0;line-height:65px;}	
+	.page_seminar_write .sm_write_area .view_list p.txt_title{line-height:50px;}
+}
+
+@media only screen and (max-width: 960px) {
+	/* 세미나 신청 */
+	input, .enter_txt,
+	.form_cnt select,
+	.page_seminar_write .sm_write_area textarea{margin-left:4.333%;}
+	.form_cnt .fm_txt_dsc{margin-left:21.333%;}
+	.page_seminar_write .sm_write_area textarea{width:77.555%;}
+	.fm_txt_dsc.fl_clear{width:auto;}
+	.form_cnt label{width:16.333%;letter-spacing:-1px;}
+	.page_seminar_write .sm_write_area .limit_txt {position:relative;display:inline-block;padding:5px 0 10px;width:92%;text-align:right;box-sizing:border-box;}
+}
+
+@media only screen and (min-width: 768px){
+	.txt_article{font-size:22px;line-height:32px;}
+	.page_seminar_list .info_box {padding:40px; height:370px;margin-bottom:2.501%;}
+	.page_seminar_list .info_box .btn_apply {position:absolute; bottom:40px; left:0; margin:0 40px; width:calc(100% - 80px); height:60px; line-height:60px; font-size:18px}
+	.page_seminar_list .info_box .txt_ctg {margin-bottom:25px; font-size:18px;}
+	.page_seminar_list .info_box .txt_date {margin-top:15px; font-size:16px;}
+	.page_seminar_list .list_nodata {margin-bottom:50px;}
+	.page_seminar_list .list_btn_area {margin-top:30px;}
+}
+
+@media only screen and (min-width: 768px) and (max-width:1024px) {
+	.page_seminar_list .info_box {width:47.91%}
+	.page_seminar_list .info_box .txt_ctg {margin-bottom:20px;}
+	.txt_article {font-size:20px; line-height:30px;}
+	.column_wide .mb_cnt_wrap.col-5 form{width:90%;}
+	.custom_etc ul li a{padding:0 2px}
+}
+
+@media only screen and (max-width: 767px){
+	.page_seminar_write .form_cnt form p.lg-hidden{display:block;}
+	.seminar .list_search{margin-bottom: 30px;}
+	.sub_visual_area{background-image:url(../../images/official/seminar/top_visual_m.jpg);}
+	.terms_box_list div.input_chk {padding: 15px 0 0;}
+
+	/* seminar list */
+	.txt_article{margin-top:15px;font-size:18px;line-height:24px;}
+	.page_seminar_list .info_box {padding:20px 25px;}
+	.page_seminar_list .info_box .link {min-height:150px; padding-bottom:50px; box-sizing:border-box;}
+	.page_seminar_list .info_box .txt_date {margin-top:15px;}
+	.page_seminar_list .info_box, .page_seminar_list .pb_info_box{margin-bottom:4%;}	
+	.page_seminar_list .info_box, .page_seminar_list .pb_info_box{height:auto;min-height:200px;}
+	.page_seminar_list .info_box .btn_apply {height:40px; line-height:40px;}
+	.page_seminar_list .list_nodata {margin-bottom:40px;}
+	.page_seminar_list .list_btn_area {margin-top:10px;}
+
+	/* seminar detail */
+	.page_seminar_detail .view_type_post .detail {padding-bottom:25px; min-height:100px;}
+	.page_seminar_confirm .tabcontent p.dsc_tl.m_hide{display:none;} 
+
+	/* 세미나 신청 */
+	.form_cnt label{width:100%;}
+	.form_cnt select, 
+	.form_cnt .fm_txt_dsc{margin:0;}
+	.seminar .sm_info_area{padding:30px;}
+	.seminar .sm_info_area p{font-size:14px;line-height:18px;}
+	.seminar .sm_info_area button{padding:10px 15px;}
+	.page_seminar_confirm .column_wide .form_cnt p
+	.page_seminar_write .form_cnt,
+	.form_group_wrap .grid-layout-np{margin:0;padding:0;}
+	.terms_box .terms_chk_all{margin:0;} 
+	.page_seminar_write .sm_write_area p.txt_title,
+	.page_seminar_write .sm_write_area .view_list p.txt_title{font-size:16px;line-height:30px;letter-spacing:-1px;}
+	.page_seminar_write .sm_write_area .form_cnt .fm_txt_info{float:right;padding:0;line-height: 45px;} 
+	.page_seminar_write .sm_write_area .view_list.form_cnt .fm_txt_info{line-height:45px;}
+	.page_seminar_write .sm_info_area button{font-size:14px;}
+	.form_group_wrap p input[type="text"], 
+	.form_group_wrap p input[type="password"],
+	.form_group_wrap p input[type="tel"]{min-width:0;}
+	.page_seminar_write .sm_write_area textarea{margin:0;width:100%;}
+	.page_seminar_write .sm_write_area .limit_txt{position:relative;float:right;}
+	.page_seminar_write	.column_wide .btn_area.col-12 button{height:50px;width:47.555%;}
+	.column_wide .btn_area.col-12 button.btn_white{margin-right:10px;} 
+	.page_seminar_write	.form_cnt select+input{margin-left:0;}
+	.page_seminar_write .fm_txt_dsc.fl_clear,
+	.page_seminar_write .sm_write_area .limit_txt {width: 100%;}
+	.page_seminar_write .sm_write_area .limit_txt {padding-bottom:0;}
+	
+
+	/* 세미나 접수 확인 */  
+	.page_seminar_confirm .column_wide .mb_cnt_wrap input, .page_seminar_confirm .column_wide .mb_cnt_wrap button{width:100%;margin:0 auto 8px;}
+	.page_seminar_confirm .column_wide .mb_cnt_wrap{float:none;width:100%;}
+	.page_seminar_confirm .column_wide .form_cnt{margin:0;padding:0;border:none;background:none;}
+	.page_seminar_confirm .mb_tab{overflow:hidden}
+	.page_seminar_confirm .mb_tab button{float:left;height:50px;width:50%;background:#f7f7f7;border:1px solid #d9d9d9;border-bottom-color:#000;font-size:15px;line-height: 30px;color:#888;font-weight:400;}
+	.page_seminar_confirm .mb_tab button:hover{background:#e5e5e5;color:#222;} 
+	.page_seminar_confirm .mb_tab button.active {color:#222;background-color:#fff;border-style:solid;border-color:#222;border-width:2px 1px 0px 1px;}
+	.page_seminar_confirm .tabcontent {display:none;padding:0;}
+	.page_seminar_confirm .column_wide .form_cnt .custom_etc{width:100%;color:#666;font-size:14px;font-weight:300;}
+	.page_seminar_confirm .column_wide .form_cnt .msg_validate {margin: 0 0 8px;} 
+
+}

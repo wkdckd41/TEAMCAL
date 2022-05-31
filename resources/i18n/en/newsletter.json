@@ -1,0 +1,23 @@
+{
+	"*****" : "newsletter_en"
+	
+	,"subscribe_to_newsletter"		:	"Subscribe to our newsletter"
+	,"member_sub_info"				:	"If you are a <span>member</span>, you can  <span>easily</span> subscribe"
+	,"quick_subscription"			:	"Quick Subscription"
+	,"non_member_subscription"		:	"Non-Member Subscription <br><span class=\"m_hide\">(If you join Yulchon Membership, you can get various benefits by a quick subscription.)</span>"
+	,"fm_txt_info"					:	"Items indicated with <span class=\"txt_essential\">asterisk (*)</span>is mandatory"
+	,"lg_hidden"					:	"(If you join Yulchon Membership, you can get various benefits by a quick subscription.)"
+	
+	,"email"						:	"E-mail <br>(company)<span class=\"txt_essential\">*</span>"
+	,"emailEmpty"					:	"Please enter your email."
+	,"emailFormat"					:	"Please enter your email address in a proper format."
+	,"emailOverlap"					:	"The email address you have entered is already registered."
+	,"emailSuccess"					:	"You can use the above email address."
+	
+	,"interestPart"					:	"Areas of Interest"
+	,"partChoice"					:	"Select Areas"
+	
+	,"complete_application"			:	"Complete Application"
+	
+	,"alert_complete_application"	:	"Your application has been completed"
+}

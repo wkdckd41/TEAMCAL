@@ -1,0 +1,23 @@
+{
+	"*****" : "newsletter_zh"
+	
+	,"subscribe_to_newsletter"		:	"申请订阅简讯"
+	,"member_sub_info"				:	"<span>会员</span>可简易申请订阅"
+	,"quick_subscription"			:	"简易申请订阅"
+	,"non_member_subscription"		:	"非会员申请订阅<span class=\"m_hide\">(成为律村会员后，可通过简易申请订阅享受多种服务。）</span>"
+	,"fm_txt_info"					:	"<span class=\"txt_essential\">带*号标记</span>的项目为必填项目。"
+	,"lg_hidden"					:	"(成为律村会员后，可通过简易申请订阅享受多种服务。)"
+	
+	,"email"						:	"邮箱（法人)<span class=\"txt_essential\">*</span>"
+	,"emailEmpty"					:	"请输入邮箱地址。"
+	,"emailFormat"					:	"请按照邮箱格式输入。"
+	,"emailOverlap"					:	"已注册的邮箱。"
+	,"emailSuccess"					:	"可使用的邮箱地址。"
+	
+	,"interestPart"					:	"关心领域"
+	,"partChoice"					:	"选择领域"
+	
+	,"complete_application"			:	"完成申请"
+	
+	,"alert_complete_application"	:	"申请完成。"
+}

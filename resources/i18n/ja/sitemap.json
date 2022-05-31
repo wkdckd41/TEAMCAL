@@ -1,0 +1,51 @@
+{
+	"****************" : "sitemap_ja"
+	
+	,"business_field"		: "業務分野"
+	,"practices"			: "分野別"
+	,"industries"			: "産業別"
+	,"international"		: "地域別"
+	,"member"				: "構成員"
+	,"news_data"			: "お知らせ/資料"
+	,"seminar"				: "セミナー"
+	,"yulchon_introduce"	: "律村の紹介"
+	,"incruit"				: "人材採用"
+	
+	,"deals_and_cases"	:	"最新の事例"
+	,"yulchon_news"		:	"お知らせ"
+	,"in_the_press"		:	"報道資料"
+	,"publications"		:	"刊行物"
+	,"periodicals"		:	"定期ニュースレター"
+	,"legal_update"		:	"最新法律情報"
+	,"paper_pub"		:	"論文/著書"
+	
+	,"seminars"			:	"セミナー"
+	,"seminars_info"	:	"セミナーのご案内"
+	,"confirmation_of_application"	:	"受付の確認"
+	,"confirmation_letter"	:	"受付確認書の発行"
+	
+	,"probono"					:	"社会貢献"
+	,"introduction"				:	"紹介"
+	,"legal_knowledge"			:	"法律知識の社会還元"
+	,"sharing"					:	"分かち合いの価値の実現"
+	,"creating_shared_value"	:	"共有価値の創造"
+	
+	,"our_firm"				:	"律村の紹介"
+	,"overview_values"		:	"概要/価値"
+	,"accolades"			:	"受賞内容"
+	,"academy"				:	"アカデミー"
+	,"location"				:	"事務所の所在地"
+	
+	,"careers"				:	"人材採用"
+
+	,"login"				:	"ログイン"
+	,"join_us"				:	"会員登録"
+	,"find_email"			:	"Ｅメール(ID)を確認する"
+	,"find_password"		:	"パスワードを確認する"
+	
+	,"head"					:	{
+			"title"			:	"サイトマップ | 法務法人(有)律村"
+			,"keyword"		:	"律村、サイトマップ"
+			,"description"	:	"律村のサイトマップページです。"
+	}	
+}

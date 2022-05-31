@@ -1,0 +1,65 @@
+{
+	"*****": "resources_ja",
+	
+	
+	"highlight": "Highlight",
+	"deals_and_cases": "最新の事例",
+	"yulchon_news": "お知らせ",
+	"in_the_press": "報道資料",
+	"publications": "刊行物",
+	
+	"periodicals": "定期ニュースレター",
+	"legal_update": "最新法律情報",
+	"paper_pub": "論文/著書",
+	
+	"resources": "お知らせ/資料",
+	"deals_and_cases_search": "最新の事例を検索する",
+	"yulchon_news_search": "律村のお知らせを検索する",
+	"in_the_press_search": "報道資料を検索する",
+	"news_letter_search": "ニュースレターを検索する",
+	"legal_update_search": "最新法律情報を検索する",
+	"paper_pub_search": "論文/著書を検索する",
+	
+	"title": {
+		"deals_and_cases_search_input": "업무사례 검색어 입력",
+		"yulchon_news_search_input": "율촌소식 검색어 입력",
+		"paper_pub_search_input": "논문/저서 검색어 입력",
+		"in_the_press_search_input": "언론보도 검색어 입력",
+		"news_letter_search_input": "뉴스레터 검색어 입력",
+		"legal_update_search_input": "최신법률정보 검색어 입력",
+		"download": "다운로드"
+	},
+	
+	"news_letter": "定期ニュースレター",
+	"attach_file": "添付ファイル",
+	"relations_member": "関連構成員",
+	"relations_news": "関連記事",
+	"news_view": "본문기사 보기"
+	
+	,"no_result_prev"	:	"前の記事が見つかりません。"
+	,"no_result_next"	:	"次の記事が見つかりません。"
+	
+	,"head"				:	{
+			"highlight_title"					:	"Highlight | 法務法人(有)律村"
+			,"highlight_keyword"				:	"律村、お知らせ、資料、ハイライト、highlight、ニュース、業務事例、マスコミ報道、刊行物、ニュースレター、最新の法律情報、論文/著書"
+			,"highlight_description"			:	"時代をリードする律村の最新のお知らせ、律村が独自に作成した資料をご覧いただけます。"
+			,"deals_and_cases_title"			:	"最新の事例 | 法務法人(有)律村"
+			,"deals_and_cases_keyword"			:	"律村、最新の事例、実績、ディール、deal、遂行、法律相談、勝訴、代理、取引、終結、判決"
+			,"deals_and_cases_description"		:	"律村の最新事例をご紹介しています。"
+			,"yulchon_news_title"				:	"お知らせ | 法務法人(有)律村"
+			,"yulchon_news_keyword"				:	"律村、受賞、選出、委嘱、寄稿、出席、参加、発表、講演、インタビュー、発刊、委任、案内、討論"
+			,"yulchon_news_description"			:	"律村からのお知らせをご覧いただけます。"
+			,"in_the_press_title"				:	"報道資料 | 法務法人(有)律村"
+			,"in_the_press_keyword"				:	"律村、マスコミ報道、新聞、記事、掲載、インタビュー、弁護士、寄稿、発刊、勝訴、判決、受賞、選出、セミナー、イベント"
+			,"in_the_press_description"			:	"マスコミで報道された律村関連の記事をご覧いただけます。"
+			,"periodicals_title"				:	"ニュースレター | 法務法人(有)律村"
+			,"periodicals_keyword"				:	"律村、ニュースレター、定期、春、夏、秋、冬"
+			,"periodicals_description"			:	"律村の定期ニュースレターをご覧いただけます。"
+			,"legal_update_title"				:	"最新法律情報 | 法務法人(有)律村"
+			,"legal_update_keyword"				:	"律村、最新の法律情報、legal update、news update、法律問題、海外法律の動向、示唆するもの、判決、改正案、留意事項、tax analysis"
+			,"legal_update_description"			:	"律村で扱った最近の法律問題に関する情報をお届けしています。"
+			,"paper_pub_title"					:	"論文/著書 | 法務法人(有)律村"
+			,"paper_pub_keyword"				:	"律村、論文、著書、書籍、発刊、ジャーナル、競争と法、セギョン新聞、月間租税、ジャスティス、労働法、労働ポスト、NNA"
+			,"paper_pub_description"			:	"律村の専門家が投稿した論文や著書をご紹介しています。"
+	}
+}

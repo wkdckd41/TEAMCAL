@@ -1,0 +1,43 @@
+{
+	"****************" : "search_en"
+	
+	,"all"				:	"All"
+	,"expertise"			:	"Expertise"
+	,"deals_and_cases"	:	"Deals & Cases"
+	,"professionals"		:	"Professionals"
+	,"yulchon_news"		:	"Yulchon News"
+	,"in_the_press"		:	"Press Mentions"
+	,"publications"		:	"Publications"
+	,"periodicals"		:	"Periodicals"
+	,"legal_update"		:	"Legal Update"
+	,"paper_pub"			:	"Publications"
+
+	,"search"					:	"Search"
+	,"all_search"				:	"Search"
+	,"search_keyword_input"		:	"Please enter search keywords"
+	,"search_keyword_delete"		:	"검색 키워드를 입력하세요."
+	
+	,"result"		:	{
+		"total"					:	"There are <span class=\"main_blue\">“{{count}}”</span> results for <span class=\"main_blue\">“{{keyword}}”</span>"
+		,"practices_result"		:	"Expertise <span class=\"main_blue\">({{count}})</span>"
+		,"pro_result"			:	"Professionals <span class=\"main_blue\">({{count}})</span>"
+		,"case_result"			:	"Deals & Cases <span class=\"main_blue\">({{count}})</span>"
+		,"news_result"			:	"Yulchon News <span class=\"main_blue\">({{count}})</span>"
+		,"media_result"			:	"Press Mentions <span class=\"main_blue\">({{count}})</span>"
+		,"pub_result"			:	"Publications <span class=\"main_blue\">({{count}})</span>"
+	}
+	
+	,"search_title"	:	{
+		"pro_result"				:	"<strong class=\"search_title\">Professionals <span class=\"main_blue\">({{count}})</span></strong>"
+		,"practices_result"		:	"<strong class=\"search_title\">Practices <span class=\"main_blue\">({{count}})</span></strong>"
+		,"case_result"			:	"<strong class=\"search_title\">Deals & Cases <span class=\"main_blue\">({{count}})</span></strong>"
+		,"news_result"			:	"<strong class=\"search_title\">Yulchon News <span class=\"main_blue\">({{count}})</span></strong>"
+		,"media_result"			:	"<strong class=\"search_title\">Press Mentions <span class=\"main_blue\">({{count}})</span></strong>"
+		,"pub_result"			:	"<strong class=\"search_title\">Publications <span class=\"main_blue\">({{count}})</span></strong>"
+	}
+	
+	,"practices"			: "Practices"
+	,"industries"		: "Industries"
+	,"international"		: "International"
+	,"etc"				: "기타"
+}

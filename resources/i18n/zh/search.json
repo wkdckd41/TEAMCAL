@@ -1,0 +1,43 @@
+{
+	"****************" : "search_zh"
+	
+	,"all"				:	"All"
+	,"expertise"		:	"业务领域"
+	,"deals_and_cases"	:	"律村业绩"
+	,"professionals"	:	"专业人员"
+	,"yulchon_news"		:	"律村动向"
+	,"in_the_press"		:	"新闻报道"
+	,"publications"		:	"律村期刊"
+	,"periodicals"		:	"定期简讯"
+	,"legal_update"		:	"最新法律信息"
+	,"paper_pub"			:	"论文/著作"
+
+	,"search"					:	"검색"
+	,"all_search"				:	"통합검색"
+	,"search_keyword_input"		:	"搜索业务领域、专业人员、消息/资料"
+	,"search_keyword_delete"		:	"검색 키워드를 입력하세요."
+	
+	,"result"		:	{
+		"total"					:	"关于<span class=\"main_blue\">“{{keyword}}”</span>有<span class=\"main_blue\">“{{count}}”</span>个搜索结果。"
+		,"practices_result"		:	"业务领域 <span class=\"main_blue\">({{count}})</span>"
+		,"pro_result"			:	"专业人员 <span class=\"main_blue\">({{count}})</span>"
+		,"case_result"			:	"律村业绩 <span class=\"main_blue\">({{count}})</span>"
+		,"news_result"			:	"律村动向 <span class=\"main_blue\">({{count}})</span>"
+		,"media_result"			:	"律村期刊报道 <span class=\"main_blue\">({{count}})</span>"
+		,"pub_result"			:	"律村期刊 <span class=\"main_blue\">({{count}})</span>"
+	}
+	
+	,"search_title"	:	{
+		"pro_result"			:	"<strong class=\"search_title\">专业人员 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"practices_result"		:	"<strong class=\"search_title\">业务领域 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"case_result"			:	"<strong class=\"search_title\">律村业绩 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"news_result"			:	"<strong class=\"search_title\">律村动向 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"media_result"			:	"<strong class=\"search_title\">新闻报道 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"pub_result"			:	"<strong class=\"search_title\">律村期刊 <span class=\"main_blue\">({{count}})</span></strong>"
+	}
+	
+	,"practices"		: "按领域"
+	,"industries"		: "按产业"
+	,"international"	: "按地域"
+	,"etc"				: "기타"
+}

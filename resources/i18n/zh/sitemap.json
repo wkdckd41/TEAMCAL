@@ -1,0 +1,51 @@
+{
+	"****************" : "sitemap_zh"
+	
+	,"business_field"		: "业务领域"
+	,"practices"			: "按领域"
+	,"industries"			: "按产业"
+	,"international"		: "按地域"
+	,"member"				: "专业人员"
+	,"news_data"			: "消息/资料"
+	,"seminar"				: "研讨会"
+	,"yulchon_introduce"	: "律村介绍"
+	,"incruit"				: "诚聘人才"
+	
+	,"deals_and_cases"	:	"律村业绩"
+	,"yulchon_news"		:	"律村动向"
+	,"in_the_press"		:	"新闻报道"
+	,"publications"		:	"律村期刊"
+	,"periodicals"		:	"定期简讯"
+	,"legal_update"		:	"最新法律信息"
+	,"paper_pub"		:	"论文/著作"
+	
+	,"seminars"			:	"研讨会"
+	,"seminars_info"	:	"研讨会介绍"
+	,"confirmation_of_application"	:	"报名确认"
+	,"confirmation_letter"	:	"签发参会确认函"
+	
+	,"probono"					:	"社会贡献"
+	,"introduction"				:	"介绍"
+	,"legal_knowledge"			:	"将法律知识回馈于社会"
+	,"sharing"					:	"实现分享的价值"
+	,"creating_shared_value"	:	"创造共有价值"
+	
+	,"our_firm"				:	"律村介绍"
+	,"overview_values"		:	"概述/价值"
+	,"accolades"			:	"获奖内容"
+	,"academy"				:	"律村学院"
+	,"location"				:	"事务所位置"
+	
+	,"careers"				:	"诚聘人才"
+
+	,"login"				:	"登录"
+	,"join_us"				:	"注册会员"
+	,"find_email"			:	"找回邮箱（账号）"
+	,"find_password"		:	"找回密码"
+	
+	,"head"					:	{
+			"title"			:	"网站地图 | 法务法人（有限）律村"
+			,"keyword"		:	"律村、网站地图"
+			,"description"	:	"律村的网站地图页面。"
+	}	
+}

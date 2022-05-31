@@ -1,0 +1,130 @@
+{
+	"****************"	:	"regulations_ja"
+	
+	,"legal_notice"				:	"免責事項"
+	,"legal_notice_desc"		:	"本ウェブサイトに掲載された資料は一般的な情報を提供するために作成されたものであり、具体的な事案にそのまま適用することはできません。 したがって、本ウェブサイトを訪問された方は、本サイトに掲載された内容のみを根拠としてその具体的な事案に関し、何らかの決定をされることがないようご留意願います。問題となる特定の事実関係および状況について専門家に相談したり助言を得ることなく、単に本ウェブサイトに掲載された資料に基づき何らかの行為をしたり、行為をしないことによってもたらされる結果について、当法人および本ウェブサイト資料提供者は責任を負いません。<br><br>Contact Us<br><a href=\"mailto:mail@yulchon.com\">mail@yulchon.com</a>"
+	
+	,"limited_liability"					:	"有限責任"
+	,"limited_liability_description"		:	"律村は弁護士法に基づき設立された法務法人(有)であり、担当弁護士は受任事件について故意・過失により委任者に損害を発生させた場合には、律村と連帯してその損害を賠償する責任を負います。担当弁護士を直接指揮・監督した律村の構成員である弁護士も、その損害を賠償する責任を負い、ただし、指揮・監督に注意を怠らなかった場合には、この限りではありません。"
+	
+	,"privacy_policy"					:	"個人情報処理方針"
+	,"privacy_policy_description"		:	"法务法人(有限)律村（以下简称“律村”）依照相关法律保护信息主体的个人信息及权利，为有效处理个人信息相关的信息主体之问题，制定如下《个人信息处理方针》，并对外公开。"
+	
+	,"privacy_policy_1_title"		:	"<span class=\"tit_article\">第一条 </span><span>处理的个人信息之项目、处理目的、处理及持有期间</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_2_title"		:	"<span class=\"tit_article\">第二条 </span><span>个人信息向第三人提供</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_3_title"		:	"<span class=\"tit_article\">第三条 </span><span>个人信息处理之委托</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_4_title"		:	"<span class=\"tit_article\">第四条 </span><span>信息主体的权利义务及其行使方法</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_5_title"		:	"<span class=\"tit_article\">第五条 </span><span>个人信息的废弃</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_6_title"		:	"<span class=\"tit_article\">第六条 </span><span>个人信息的安全性确保措施</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_7_title"		:	"<span class=\"tit_article\">第七条 </span><span>个人信息处理方针的变更</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_8_title"		:	"<span class=\"tit_article\">第八条 </span><span>权益被侵害之救济方法</span><span class=\"ico_arrow\"></span>"
+	,"privacy_policy_9_title"		:	"<span class=\"tit_article\">第九条 </span><span>개个人信息的保护负责人</span><span class=\"ico_arrow\"></span>"
+	
+	,"privacy_policy_1"		:	{
+		"description_1"			:	"① 律村要处理的个人信息之项目、处理目的、处理及持有期间如下："
+		,"items"				:	"要处理的个人信息之项目"
+		,"purpose"				:	"个人信息的处理目的"
+		,"period"				:	"个人信息处理及持有期间"
+
+		,"subtitle_1"			:	"1. 客户个人信息"
+		,"items_content_1"		:	"姓名、联系方式（地址、电话号码、电子邮件等）、工作单位信息（公司名称、级别及职责等）"
+		,"items_content_2"		:	"律村为客户或者履行客户相关的服务及交易关系设定、维持、履行、管理过程中生成的或被提供的信息"
+		,"purpose_content_1"	:	"为客户提供服务、交易关系的设定、维持、履行、管理；事故调查；纠纷解决；投诉处理及其他法律上义务之履行"
+		,"purpose_content_2"	:	"为研讨会邀请函及简报的发送及提供其他信息"
+		,"period_content_1"		:	"达成上述目的或信息主体撤回同意时"
+		
+		,"subtitle_2"			:	"2. 专业职位及一般职位应聘人员、业务实习及实习应聘者等个人信息"
+		,"items_content_3"		:	"职位应聘人员<br><strong>[必须]：</strong>姓名、出生年月日、联系方式(地址、电话、电子邮件等)、照片、性别、学历事项、兵历及报勋事项、经历事项、应聘动机及自己介绍内容<br><strong>[选择]： </strong>家庭事项、获奖经历、外语及资格/执照、其他提交材料上记载的信息及参考事项"
+		,"items_content_4"		:	"业务实习及实习应聘人员<br><strong>[必须]：</strong>姓名、出生年月日、联系方式(地址、电话、电子邮件等)、照片、性别、学历事项、兵历及报勋事项、经历事项、应聘动机及自己介绍内容<br><strong>[选择]： </strong><br>家庭事项、获奖经历、外语及资格/执照、其他提交材料上记载的信息及参考事项、业务实习及做实习生的结果(※限于选拔)"
+		,"purpose_content_3"	:	"<strong>职位应聘人员：</strong>为本人确认、学历及经历确认、聘用与否审查决定及通知、追加聘用时应聘意思的确认为本人确认、学历及经历确认、聘用与否审查决定及通知、追加聘用时应聘意思的确认"
+		,"purpose_content_4"	:	"<strong>业务实习及实习应聘人员：</strong> 为本人确认、学历及经历确认、业务实习及实习生聘用与否审查决定及通知、业务实习及实习关系的设定维持、履行、管理等; 正式聘用与否决定"
+		,"period_content_2"		:	"达成上述目的时或信息主体撤回同意时<br>(但是上述目的达成后，只为纠纷解决、投诉处理及履行其他法律上义务等持有)"
+		
+		,"subtitle_3"			:	"3. 职员（专门职位及一般职位等）个人信息"
+		,"items_content_5"		:	"<strong>[必须]： </strong>姓名、住民登录号码等固有识别号码、国籍、联系方式(地址、电话、电子邮件等)、照片、维持劳动关系目的上的人事管理信息(人事记录卡、住民登录草本等入职时提交的材料上记载信息、员工编号、所属部门、职务、出缺勤及评价信息、惩戒信息、退职信息等根据劳动关系而发生、生成的人事管理信息等)"
+		,"items_content_6"		:	"<strong>[选择]： </strong>家庭信息"
+		,"purpose_content_5"	:	"为劳动合同的签订(聘用)及维持"
+		,"purpose_content_6"	:	"为人事令、评价、工资支付、福利、教育培训等人事管理目的上必要的业务处理"
+		,"purpose_content_7"	:	"为制作员工通讯录、登载各组Messenger(所属部门、职位、姓名、电子邮箱、电话号码)"
+		
+		,"description_2"		:	"② 律村原则上不收集信息主体相关的、具有可能侵害其私生活忧虑之敏感信息，必要时另行获得信息主体的同意后，只为同意之目的范围内限定使用。但是为敏感信息的正确性、最新与否，定期进行确认"
+	}
+	
+	,"privacy_policy_2"	:	{
+			"subtitle_1"			:	"① 律村原则上对信息主体的个人信息在第一条规定的目的范围内进行处理，未经信息主体的事先同意不会超过原来的范围处理或向第三人提供。但是，除非具有不当侵害信息主体或第三人利益之忧虑情形外，下列情形时将个人信息使用到目的以外的用途或向第三人提供。"
+			,"subtitle_1_content_1"	:	"信息主体事先同意提供给第三人"
+			,"subtitle_1_content_2"	:	"其他法律有特别规定时"
+			,"subtitle_1_content_3"	:	"作为信息主体或其法定代理人处于无法提供意思表示状态或地址不明等属于无法获得事先同意情形，确实为客户或者第三人的生命、身体、财产利益而处于紧急情况，被认定必要时"
+			,"subtitle_1_content_4"	:	"为统计制作及学术研究等目的而所需的情形，不能识别特定个人的形式提供个人信息时"
+			,"subtitle_2"			:	"② 律村根据第1项第1号规定获得同意时，应将下列各项内容告知信息主体。下列各号的任何内容发生变更时，律村也告知信息主体并获得同意。"
+			,"subtitle_2_content_1"	:	"接收个人信息的人"
+			,"subtitle_2_content_2"	:	"个人信息的使用目的（指提供时接收人的使用目的）"
+			,"subtitle_2_content_3"	:	"使用或提供的个人信息之项目"
+			,"subtitle_2_content_4"	:	"个人信息的持有及使用期限（指提供时接收人的持有及使用期限）"
+			,"subtitle_2_content_5"	:	"有权拒绝同意的事实及拒绝时产生不利时，该不利的内容"
+	}
+	
+	,"privacy_policy_3"	:	{
+			"subtitle_1"			:	"① 律村は下記のとおり情報主体の個人情報処理を委託しています。<br>日后对受托单位及委托业务内容需要变更时，通过本方针立即通知。"
+			,"subtitle_1_desc"		:	"· 法務法人(有)律村は、個人情報保護法第26条に基づき受託業者の現況及び業務内容を下記のとおり公開します。"
+			,"subtitle_1_content_1"	:	"<div class=\"content_th\">委託業務内容</div><div class=\"content_th\">受託業者名</div>"
+			,"subtitle_1_content_2"	:	"<div class=\"content_th\">アプリケーションの開発・運用</div><div class=\"content_th\">KUWOO情報技術㈱</div>"
+			,"subtitle_1_content_3"	:	"<div class=\"content_th\">債権回収委任業務</div><div class=\"content_th\">SCI評価情報㈱</div>"
+			,"subtitle_1_content_4"	:	"<div class=\"content_th\">Ｅメールの配信</div><div class=\"content_th\">㈱ NETPATHYメールリンク</div>"
+			,"subtitle_1_content_5"	:	"<div class=\"content_th\">CRMの維持・保守</div><div class=\"content_th\">ユン・ヒョンドク</div>"
+			,"subtitle_2"			:	"② 律村与受托单位签订委托合同时，根据相关法律在委托合同中明确约定委托业务履行目的外的禁止处理个人信息、技术性及管理性保护措施、再委托限制、对受托单位的管理及监督、损害赔偿等责任相关事项，监督受托人是否安全处理个人信息。"
+	}
+	
+	,"privacy_policy_4"	:	{
+			"content_1"		:	"① 信息主体根据个人信息保护法等相关法律的规定，可向律村提出个人信息的阅览、更正及删除、处理中止要求等来行使其个人信息保护相关权利。"
+			,"content_2"	:	"② 根据第1项的权利行使，可通过法定代理人或受托之人来行使。但此时根据个人信息保护施行规则要求需向律村提供委托书。"
+			,"content_3"	:	"③ 律村对信息主体的权利行使，按照个人信息保护法等相关法律规定，会立即采取措施。"
+	}
+	
+	,"privacy_policy_5"	:	{
+			"content_1"		:	"① 律村认为原则上达到了个人信息的处理目的等，该个人信息成为没必要时，立即将该个人信息进行废弃。"
+			,"content_2"	:	"② 律村根据个人信息的相关法律规定，对个人信息不进行废弃而有必要继续保存时，该个人信息与其他个人信息分开来保管和管理。"
+			,"content_3"	:	"③ 律村将选定发生废弃事由的个人信息，经获得个人信息保护(管理)负责人的同意后废弃该个人信息。"
+			,"content_4"	:	"④ 律村将要废弃的个人信息为电子文件格式时，以不可复原的方式进行永久删除；其他的记录文本、印刷物、书面形式的其他记录媒体时，进行破碎或销毁处理。"
+	}
+	
+	,"privacy_policy_6"	:	{
+			"content_1"		:	"律村为确保安全性，采取如下各号措施："
+			,"content_2_1"	:	"管理性措施：树立及施行内部管理计划；对律所成员进行定期的个人信息保护培训等"
+			,"content_2_2"	:	"管理性措施：树立及施行内部管理计划；对律所成员进行定期的个人信息保护培训等"
+			,"content_2_3"	:	"物理性措施：对电算室等个人信息保存场所采取进出入控制"
+	}
+	
+	,"privacy_policy_7"	:	{
+			"content_1"		:	"本方针可因相关法规及指南、律村内部规定等变更而变更；律村对本方针做出变更时，将变更以及施行时间、变更的内容持续登载于律村网站（www.yulchon.com），对变更前后的内容作出比较来公开，使信息主体能够轻易确认所变更的内容"
+	}
+	
+	,"privacy_policy_8"	:	{
+			"content_1"		:	"信息主体因个人信息被侵害需要举报或商谈时，请咨询如下机构："
+			,"kopico"		:	"个人信息纠纷调解委员会 : <a href=\"http://www.kopico.go.kr/\" target=\"_blank\">www.kopico.go.kr/</a> (1833-6972)"
+			,"kisa"			:	"韩国网络振兴院个人信息侵害举报中心 : <a href=\"http://privacy.kisa.or.kr/\" target=\"_blank\">privacy.kisa.or.kr/</a> (118)"
+			,"spo"			:	"韩国大检察厅网络犯罪侦查团 : <a href=\"http://www.spo.go.kr/\" target=\"_blank\">www.spo.go.kr/</a> (02-3480-3573)"
+			,"cyberbureau"	:	"警察庁サイバ-安全局 : <a href=\"http://cyberbureau.police.go.kr/\" target=\"_blank\">cyberbureau.police.go.kr/</a> (182)"
+	}
+	
+	,"privacy_policy_9"	:	{
+			"content_1"			:	"律村的个人信息保护负责人如下："
+			,"content_1_1"		:	"个人信息保护负责人：宋寅辅律师"
+			,"content_1_2"		:	"联系方式: 086-2-528-5200, <a href=\"mailto:privacy@yulchon.com\">privacy@yulchon.com</a>"
+			,"content_2"		:	"有关个人信息阅览请求及个人信息保护咨询、投诉处理、侵害救济等业务处理负责人如下："
+			,"content_2_1"		:	"负责人：知识企划组 李政贤 次长"
+			,"content_2_2"		:	"联系方式: 086-2-528-5200, <a href=\"mailto:privacy@yulchon.com\">privacy@yulchon.com</a>"
+	}
+	
+	,"head"			:		{
+		"legal_notice_title"			:	"免責広告 | 法務法人(有)律村"
+		,"legal_notice_description"		:	"律村HPの免責広告に関するページです。"
+		,"legal_notice_keywords"		:	"律村、免責広告"
+		,"limited_liability_title"			:	"有限責任 | 法務法人(有)律村"
+		,"limited_liability_description"	:	"律村HPの有限責任に関するページです。"
+		,"limited_liability_keywords"		:	"律村、有限責任"
+		,"privacy_policy_title"				:	"個人情報処理方針 | 法務法人(有)律村"
+		,"privacy_policy_description"		:	"律村HPの個人情報処理方針に関するページです。"
+		,"privacy_policy_keywords"			:	"律村、個人情報処理方針"
+	}
+}

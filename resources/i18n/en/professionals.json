@@ -1,0 +1,46 @@
+{
+	"**********"	:	"professionals_en",
+	
+	
+	"member_search"				:	"Search for professionals",
+	"member_condition_search"	: "Search professionals by criteria",
+	"searchkey_delete"			: "검색어 삭제",
+	
+	"select"		: "Select",
+	"practices"		: "Practrices",
+	"industries"	: "Industries",
+	"international"	: "International",
+	
+	"member"					: "Professionals",
+	
+	"tab" : {
+		"biography"					:	"<span>Biography</span>",
+		"representative_matters"	:	"<span>Representative</span><span> Matters</span>",
+		"awards_recognition"		:	"<span>Awards/</span><span>Recognition</span>",
+		"speech_presentation"		:	"<span>Speech/</span><span>Presentation</span>",
+		"news_publications"			:	"<span>News/</span><span>Publications</span>"
+	},
+	
+	"practice_focus"			:	"Practice Focus",
+	"biography"					:	"Biography",
+	"education"					:	"Education",
+	"experience"				:	"Experience",
+	"associations"				:	"Professional Associations and Memberships",
+	"languages"					:	"Languages",
+	"representative_matters"	:	"Representative Matters",
+	"awards_recognition"		:	"Awards/Recognition",
+	"speech_presentation"		:	"Speech/Presentation",
+	"news_publications"			:	"News/Publications",
+	"articles_books"			:	"Articles/Books",
+	"news"						:	"News",
+	
+	"open"							:	"OPEN",
+	"fold"							:	"FOLD"
+	
+	,"head"					:	{
+			"title"					:	"Professionals | Yulchon LLC"
+			,"keyword"				:	"Yulchon, professionals, attorneys, customs brokers, accountants, tax accountants, patent attorneys, certified labor attorney, advisors, experts, researchers"
+			,"description"			:	"Yulchon experts with the best ability and competitiveness are listening to our client's voice."
+	}
+	,"graduate"							:	"졸업"
+}

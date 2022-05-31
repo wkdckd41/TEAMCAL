@@ -1,0 +1,33 @@
+{
+	"****************" : "en"
+	
+	,"expertise"		: "Expertise"
+	,"practices"		: "Practices"
+	,"industries"		: "Industries"
+	,"international"	: "International"
+	,"search_keyword_input"	: "Search for practice areas"
+	
+	,"head"		:	{
+		"title"						:	"Yulchon LLC"
+		,"practices_keyword"		:	"Yulchon, practices, practice, industry, group, team"
+		,"industries_keyword"		:	"Yulchon, practices, practice, industry"
+		,"international_keyword"	:	"Yulchon, practices, practice, region"
+		,"practices_description"	:	"Yulchon provides exceptional legal services through best professionals of various fields."
+		,"industries_description"	:	"Yulchon provides exceptional legal services through best professionals of various fields."
+		,"international_description":	"Yulchon provides the smooth overseas business support based on rich international business experience and global network."
+	}
+	
+	,"experise_moreview"	:	"See more practice areas"
+	,"professional"			:	"Professionals"
+	,"professional_moreview":	"See more Professionals"
+	,"performance"			:	"Representative Work"
+	,"awards"				:	"Updates/Awards"
+	,"publications"			:	"Publications"
+	
+	,"periodicals"		:	"Periodicals"
+	,"legal_update"		:	"Legal Update"
+	,"paper_pub"			:	"Publications"
+	,"deals_and_cases"	:	"Deals & Cases"
+	,"yulchon_news"		:	"Yulchon News"
+	,"in_the_press"		:	"In the Press"
+}

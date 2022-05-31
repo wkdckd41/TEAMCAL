@@ -1,0 +1,156 @@
+@charset "utf-8";
+  
+/* 업무분야 공통 */
+.practice .sub_visual_area {background-image: url(../../images/official/practice/top_visual_type01.jpg);}
+.practice .sub_tl{font-size:68px;}
+.practice .sub_stl {margin:0 auto; max-width:630px; word-break:keep-all;}
+
+.practice .sub_visual_area {padding-bottom:20px;}
+.practice .info_sbj_box {padding:143px 0 128px;}
+.txt_ctg{font-size:18px;line-height:35px;}
+.txt_article{margin-top:25px;font-size:24px;line-height:35px;}
+.txt_article a {font-weight:300 !important;}
+[class*="_info_box"] > a{display:inline-block;width:100%;height:100%;padding:40px;box-sizing:border-box;}
+[class*="_info_box"] > a:hover{text-decoration:none;}
+[class*="_info_box"] > a:hover .txt_article,
+[class*="_info_box"] > a:hover .txt_article .ellip-line {text-decoration: underline;}
+[class*="_info_box"].bg_light .txt_date{color:#888;}
+[class*="_info_box"] .txt_ctg{line-height:21px;}
+[class*="_info_box"] > a .txt_article .ellip {word-break:keep-all;}
+
+/* search form */
+.search.search_area .row .col-8 {float:none; margin:0 auto;}
+.search .box_search {padding-top:0; padding-bottom:0;}
+.search .box_search label {display:inline-block;}
+.search .box_search .wrap_search {max-width:764px; margin:0 auto; border:4px solid #fff;}
+.search .box_search .wrap_search:after {content:''; display:block; clear:both; height:0;}
+.search .box_search .area_word,
+.search .box_search .area_search_btn {float:left; width:64px; height:82px; text-align:center; overflow:hidden;}
+.search .box_search .area_word .label_word {position:absolute; line-height:82px; height:82px; padding-top:1px; font-size:20px; color:rgba(255,255,255,0.6); cursor:text; text-indent:30px;}
+.search .box_search .area_word {position:relative; width:calc(100% - 64px);}
+.search .box_search .area_word .tf_word {width:100%; vertical-align:top; text-align:left; line-height:82px; height:82px; font-family:inherit; font-size:24px; color:rgba(255,255,255,0.6); background:transparent; border:0 none; text-indent:30px; margin-left:0; padding:0 18px 0 0;}
+.search .box_search .area_word .tf_word::-ms-clear {display:none;}
+.search .box_search .area_search_btn:after {content:''; display:inline-block; height:100%; vertical-align:middle;}
+.search .box_search .area_search_btn .btn_search {display:block; width:100%; height:100%; min-width:0; padding:0; background-image:url(../../images/common/btn_search.png); background-repeat:no-repeat; background-size:25px auto; background-position:calc(100% - 24px) 50%; vertical-align:middle; text-indent:-99999px;}
+.search .box_search .area_word .del_keyword {display:none; position:absolute; top:50%; margin-top:-13px; right:0; padding:0; width:26px; min-width:0; height:26px; background:url(../../images/common/btn_delete.png) no-repeat center center; overflow:hidden; text-indent:-99999px;background-size:auto 100%;}
+
+/* 주요실적*/
+.performance .pm_info_box{overflow:hidden;height:370px;margin-bottom:2.501%;border:1px solid #4d6a86;box-sizing:border-box;}
+.performance .pm_info_box > a{color:#fff;}
+.performance .pm_info_box .txt_ctg{color:#0096f3;} 
+
+/* 소식/수상 */
+.awards .awd_info_box{overflow:hidden;position:relative;height:370px;margin-bottom:2.501%;box-sizing:border-box;} 
+.awards .awd_info_box > a{color:#fff;} 
+.awards .awd_info_box .txt_date{position:absolute;bottom:40px;left:40px;font-size:16px;font-weight:300;}
+.awards .awd_info_box, .awards .awd_info_box a{color:#fff;font-weight:400;} 
+.awards .awd_info_box.bg_deep01{background-color:#01a4b6;}
+.awards .awd_info_box.bg_deep02{background-color:#1c5db1;}
+.awards .awd_info_box.bg_deep03{background-color:#109cf3;}
+.awards .awd_info_box.bg_deep04{background-color:#002951;} 
+.awards .awd_info_box.bg_light{color:#999;background:#fff;}
+.awards .awd_info_box.bg_light a{color:#222;}
+.awards .awd_info_box.bg_light .txt_ctg{color:#0096f3;} 
+
+/* 논문저서 */
+.publication .pb_info_box{overflow:hidden;position:relative;height:400px;margin-bottom:2.501%;background:#fff;box-sizing:border-box;} 
+.publication .pb_info_box > a{color:#222;} 
+.publication .pb_info_box .txt_ctg{color:#0096f3;}
+.publication .pb_info_box .txt_date{position:absolute;bottom:30px;left:30px;font-weight:300;}
+
+/* 업무분야 리스트 */
+.practice_type .sub_visual_area{ background-image: url(../../images/official/practice/top_visual.jpg);}
+.page_practice_list .con_box{position:relative;margin-bottom:20px;background:#fff;}
+.page_practice_list .con_box a{display:inline-block;}
+.page_practice_list .con_box .level1{padding:32px 40px;background: url(../../images/common/img_bullet_blue.png) no-repeat 40px center;background-size:4px auto;}
+.page_practice_list .con_box .level1 a{padding-left:15px;font-size:24px;}
+.page_practice_list .con_box .con_list{padding:35px 40px;background:#fafafa;}
+.page_practice_list .con_box .con_list ul.level2{position:relative;display:table;padding:0 20px;width:100%;box-sizing:border-box;}
+.page_practice_list .con_box .con_list ul.level2 li{float:left;display:table-cell;margin:3px 20px;width: calc(33.333% - 40px);}
+.page_practice_list .con_box .con_list ul.level2 a{font-size:16px;color:#888;font-weight:300;line-height:normal;}
+.page_practice_list .con_box .con_list ul.level2 a:hover{color:#075aba;}
+.page_practice_list .con_box .con_list ul.level2 a:hover:after{content:'';display:inline-block; width:8px; height:15px; margin-left:10px; background:url(../../images/common/img_arrow_blue02.png) no-repeat 0 0; background-size:8px auto; vertical-align:middle; }
+.page_practice_list .con_box.col-6-nm{margin-bottom: 20px;width: calc(49.998% - 15px);height: 100px;display: table;}
+.page_practice_list .con_box.col-6-nm:nth-child(odd){float: left;}
+.page_practice_list .con_box.col-6-nm:nth-child(even){float: right;}
+.page_practice_list .con_box.col-6-nm .level1{padding: 0 20px 0 40px;display: table-cell;vertical-align: middle;}
+.page_practice_list .con_box.col-6-nm .level1 a{display: inline-block;}
+.page_practice_list .con_box.col-6-nm .level1 a:focus:after,
+.page_practice_list .con_box.col-6-nm .level1 a:hover:after{content: "";position: absolute;width: 12px;height: 19px;top: 50%;right: 40px;margin-top: -6px;background: url(../../images/common/img_arrow_blue03.png) no-repeat left top;background-size: 12px auto;}
+
+@media only screen and (max-width: 1440px) { 	
+	/* 업무분야  리스트 */
+	.page_practice_list .con_box .con_list ul.level2 li{width:calc(50% - 40px);}
+	.page_practice_list .con_box .con_list ul.level2 li br{display:none;}
+}
+
+@media only screen and (max-width: 1200px) { 
+	ul.top_anchors {border-left:none;} 
+}
+  
+@media only screen and (max-width: 1024px) {
+	.practice .sub_stl {margin:0 auto; max-width:630px;}
+	.performance .pm_info_box, .awards .awd_info_box{width:47.333%;}
+
+	/* 업무분야 리스트 */
+	.page_practice_list .con_box .level1 a{font-size: 23px;}
+}
+
+@media only screen and (max-width: 767px) { 
+	.sub_visual_area{height:200px;}
+	.practice .sub_visual_area {background-image: url(../../images/official/practice/top_visual_type01_m.jpg);}
+	.practice .sub_tl{font-size:28px;}
+
+
+	/* 업무분야 공통 */
+	.practice .info_sbj_box {padding:20px 0 32px;}
+	.txt_ctg{font-size:14px;line-height:18px;}
+	.txt_article{margin-top:15px;font-size:17px;line-height:24px;}
+	[class*="_info_box"] > a {padding:20px 25px;}
+	.awards .awd_info_box .txt_date,
+	.publication .pb_info_box .txt_date{bottom:20px;left:25px;font-size:13px;}
+	.member_introduce .mb_info_box .mb_contact ul li a{padding:0 0 0 20px;height:18px;background-position: 0 1px;background-size:18px auto;}
+	.member_introduce .mb_info_box .mb_contact ul li a.mb_email{padding:0 0 0 23px;}
+	.member_introduce .mb_info_box .mb_contact ul li a.mb_email:hover,
+	.member_introduce .mb_info_box .mb_contact ul li a.mb_vcard:hover{background-position: 0 -17px;}
+	.member_introduce .mb_info_box{margin-bottom:4%;}
+	.performance .pm_info_box, .awards .awd_info_box, 
+	.publication .pb_info_box{margin-bottom:20px;/*margin-bottom:4%;*/}
+	.performance .pm_info_box, .awards .awd_info_box{width:95.94%;}
+
+	/* 구성원 */
+	.member_introduce .mb_info_box a{padding:10px 10px 40px;}
+	.member_introduce .mb_info_box .right_box{margin-top:5px;margin-left:20px;/*width:172px;*/}
+	.member_introduce .mb_info_box .mb_contact{bottom:20px;right:10px;}
+	.member_introduce .mb_info_box .mb_contact ul li{margin:0 0 0 18px;}
+	.member_introduce .mb_info_box p{font-size:17px;line-height:24px;}
+	.member_introduce .mb_info_box p span{font-size:14px;line-height:15px;}
+	
+	/* 주요 실적 */ 
+	.publication .pb_info_box .txt_date{font-size:13px;line-height:17px;}
+	.performance .pm_info_box{height:auto;min-height:250px;}
+	.performance .btn_area a.readmore{color:#fff;}
+	
+	/* 소식/수상 */
+	.awards .awd_info_box, .publication .pb_info_box{height:auto;min-height:250px;}
+
+		
+	/* 업무분야 리스트 */
+	.practice_type .sub_visual_area{ background-image: url(../../images/official/practice/top_visual_m.jpg);}
+	.page_practice_list .con_box .level1{padding:15px 20px;background-position:20px center;}
+	.page_practice_list .con_box{margin-bottom:10px;}
+	.page_practice_list .con_box .level1 a{padding-left:10px;font-size:17px;}
+	.page_practice_list .con_box .con_list{padding:15px;}
+	.page_practice_list .con_box .con_list ul.level2{padding:0 15px;}
+	.page_practice_list .con_box .con_list ul.level2 li{margin:3px 0;width:100%;}
+	.page_practice_list .con_box .con_list ul.level2 a{font-size:13px;}
+	.page_practice_list .con_box .con_list ul.level2 a:hover:after{display:none;/*width:8px; height:14px;*/}
+
+	.page_practice_list .con_box.col-6-nm{margin-top: 10px;margin-bottom: 10px;width: auto; height: auto;display: block;}
+	.page_practice_list .con_box.col-6-nm:nth-child(odd){float: none;}
+	.page_practice_list .con_box.col-6-nm:nth-child(even){float: none;}
+	.page_practice_list .con_box.col-6-nm .level1{padding: 32px 40px;display: block;}
+	.page_practice_list .con_box.col-6-nm .level1 a{display: inline-block;}
+	.page_practice_list .con_box.col-6-nm .level1 a:hover:after{display:none;}
+
+}

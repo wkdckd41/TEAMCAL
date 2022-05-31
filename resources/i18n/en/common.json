@@ -1,0 +1,119 @@
+{
+	"****************************************" : "common_en",
+	
+	
+	"yulchon"		:	"율촌",
+	"print"			:	"프린트",
+	"comma_space"	:	", ",
+	"center_dot"	:	"・",
+	
+	"button"			:{
+		"go"			:	"Go",
+		"save"			:	"Save",
+		"cancel"		:	"취소",
+		"close"			:	"닫기",
+		"share"			:	"공유하기",
+		"like"			:	"좋아요",
+		"closed"		:	"닫힘",
+		"search"		:	"Search",
+		"select"		:	"선택",
+		"all"			:	"All",
+		"list"			:	"List",
+		"learn_more"	:	"Learn More",
+		"shortcut"		:	"바로가기",
+		"view_more"		:	"See More",
+		"prev_btn"		:	"Previous Post",
+		"next_btn"		:	"Next Post"
+	},
+	
+	"login"					: "Login",
+	"request_login"			: "Please Login",
+	"no_result"				: "No Results Found.",
+	"turn_on_auto_complete"		:	"자동완성 켜기",
+	"turn_off_auto_complete"		:	"Turn off predictive text",
+	"no_keyword_result": "No Results Found.",
+	"alt": {
+		"member_represent_image": "구성원 대표 이미지"
+	},
+	"************": "header start",
+	"business_field": "Expertise",
+	"practices": "Practices",
+	"industries": "Industries",
+	"international": "International",
+	"member": "Professionals",
+	"news_data": "Resources",
+	"seminar": "Seminar",
+	"yulchon_introduce": "Our Firm",
+	"social_contribution": "Pro Bono",
+	"incruit": "Careers",
+	"introduction": "Introduction",
+	"legal_knowledge": "Contributing Legal Knowledge to the Society",
+	"sharing": "Fulfilling the Value of Sharing",
+	"creating_shared_value": "Creating Shared Value",
+	"in_the_press": "In the Press",
+	"publications": "Publications",
+	"periodicals": "Periodicals",
+	"legal_update": "Legal Update",
+	"paper_pub": "Publications",
+	"seminars": "Seminars",
+	"seminars_info": "Seminars",
+	"confirmation_of_application": "Confirmation of Application",
+	"confirmation_letter": "Issue a participation confirmation letter",
+	"our_firm": "Our Firm",
+	"overview_values": "Overview/Values",
+	"accolades": "Accolades",
+	"academy": "Academy",
+	"location": "Location",
+	"global_office": "Global Offices",
+	"yulchon_news": "Yulchon News",
+	"*******": "header end",
+	"business_case": "Deals & Cases",
+	"request_newletter": "Subscribe to Newsletter",
+	"labe_word_part_member_news": "What can we help you find?",
+	"searchkey_delete": "검색어 삭제",
+	"auto_complete_off": "Turn Off Auto-Correction",
+	"alert": {
+		"thanks_to_contents": "Thank you for your interest in this content."
+	},
+	"footer": {
+		"legal_notice": "Legal Notice",
+		"privacy_policy": "Privacy Policy",
+		"limited_liability": "Limited Liability",
+		"web_accessibility": "Web Accessibility",
+		"web_acc_popup_content_1": "<span>Yulchon’s website has been created in accordance with web accessibility guidelines for the convenience of the people who have difficulty accessing information on the Internet.</span>",
+		"web_acc_popup_content_2": "Yulchon strives to continuously improve the website for the convenience of all users.",
+		"site_map": "Sitemap"
+	},
+	"head": {
+		"main_title": "Yulchon LLC",
+		"main_keyword": "Yulchon, Yulchon LLC, Korea Law Firm, Global Law Firm, Legal Services, Members, Practice Areas, News, Data, Awards, Office",
+		"main_description": "Yulchon LLC was founded in 1997 following the meaning of Yulchon: “Lawyer’s Village”—Top legal experts come together and combine their talents to create a village of lawyers. Based on diverse experience in all major practice areas including Corporate & Finance, Antitrust, Dispute Resolution, Intellectual Property, Labor and Overseas Investment, Yulchon’s professionals have provided their clients with the highest quality of legal services as promptly and accurately as possible."
+	},
+	"title": {
+		"download": "다운로드"
+	},
+	"breadcrumb": {
+		"home": "홈",
+		"share": "공유하기",
+		"print_out": "프린트"
+	},
+	"ref": {
+		"notice": "Notice",
+		"award": "Award",
+		"seminar": "Seminar",
+		"contribution": "Contribution",
+		"event": "Event",
+		"attended_event": "Attended Event",
+		"commission": "Commission",
+		"selection": "Selection",
+		"publication": "Publication",
+		"appointment": "Appointment",
+		"announcement": "Announcement",
+		"interview": "Interview"
+	}
+	
+	,"partChoice"		: 	"Select Areas"
+	,"check_all"		: 	"Select All"
+	,"logout_confirm"	: 	"Are you sure you want to log out?"
+	,"logout_result"	: 	"You have been logged out."
+}

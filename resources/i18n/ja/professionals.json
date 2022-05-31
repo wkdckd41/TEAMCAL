@@ -1,0 +1,46 @@
+{
+	"**********"	:	"professionals_ja",
+	
+	
+	"member_search"				:	"構成員を検索する",
+	"member_condition_search"	: "構成員の条件別検索",
+	"searchkey_delete"			: "검색어 삭제",
+	
+	"select"		: "선택",
+	"practices"		: "分野別",
+	"industries"	: "産業別",
+	"international"	: "地域別",
+	
+	"member"					: "構成員",
+	
+	"tab" : {
+		"biography"					:	"<span>紹介</span>",
+		"representative_matters"	:	"<span>主な実績</span>",
+		"awards_recognition"		:	"<span>受賞等</span>",
+		"speech_presentation"		:	"<span>講演/発表</span>",
+		"news_publications"			:	"<span>お知らせ/資料</span>"
+	},
+	
+	"practice_focus"			:	"主な業務分野",
+	"biography"					:	"紹介",
+	"education"					:	"学歴",
+	"experience"				:	"経歴",
+	"associations"				:	"資格",
+	"languages"					:	"言語",
+	"representative_matters"	:	"主な実績",
+	"awards_recognition"		:	"受賞等",
+	"speech_presentation"		:	"講演/発表",
+	"news_publications"			:	"お知らせ/資料",
+	"articles_books"			:	"講演/発表",
+	"news"						:	"お知らせ",
+	
+	"open"							:	"開く",
+	"fold"							:	"閉じる"
+	
+	,"head"					:	{
+			"title"					:	"構成員 | 法務法人(有)律村"
+			,"keyword"				:	"律村、構成員、弁護士、関税士、会計士、税理士、弁理士、労務士、顧問、専門委員、研究員"
+			,"description"			:	"律村が誇る最高の専門家がクライアントのニーズに合わせ、多様なリーガルサービスを提供しています。"
+	}
+	,"graduate"							:	"졸업"
+}

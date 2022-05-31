@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+/* 사회공헌 소개 */ 
+.sub_visual_area{background-image:url(../../images/official/csr/top_visual.jpg);}
+.sm-visible{display:none;}
+.yc_csr .csr_des.no_pd{padding:0;}
+.yc_csr .csr_info_box{float:left;width:100%;margin:50px 0;line-height:0;}
+.yc_csr .csr_info_box:first-child, .yc_csr .csrtype02 .csr_info_box:first-child{margin-top:0;}
+.yc_csr .col-6-nm{display:table;min-height:400px;}
+.yc_csr .col-6-nm.fl_right{float:right;}
+.yc_csr .col-6-nm.fl_right img{float:right;}
+.yc_csr .csr_des{display:table-cell;padding:0 45px;vertical-align:middle;/*word-break:keep-all;*/}
+.yc_csr .csr_info_box p{font-size:18px;color:#666;line-height:28px;font-weight:300;}
+.yc_csr .csr_info_box p.txt_tl{padding-bottom:25px;font-size:36px;color:#222;line-height: 42px;font-weight:400;/* word-break:break-all; */}
+.yc_csr .csr_info_box p span{color:#075aba;}
+.yc_csr .btn_area{display:inline-block;width:100%;margin:30px auto;}
+.yc_csr .btn_area a{display:inline-block;min-width:240px;padding:15px 10px;font-size:20px;color:#fff;background:#075aba;text-align:center;}
+.yc_csr .btn_area a:hover{background:#064895}
+
+/* 사회공헌 소개 이외 페이지 */
+.yc_csr .csrtype02  .csr_info_box{margin:50px 0 15px;}
+.yc_csr .csrtype02 .col-6-nm.fl_right img{float:none;}
+.yc_csr .csrtype02 .csr_info_box p.txt_tl{padding:25px 0;font-size:30px;line-height:36px;}
+.yc_csr .csrtype02 .col-6-nm, .yc_csr .csrtype02 .csr_des{display:block;} 
+.yc_csr .csrtype02 .col-6-nm{width:47.998%;}
+.yc_csr .csrtype02 .csr_info_box.no_featured{margin-top: 30px;}
+
+/* 공유가치 창출 */
+.yc_csr .csrtype02 .col-4.non_ml{margin-left:0;}
+.yc_csr .csrtype02 .col-4.non_mc{margin-left:2.50%;}
+.yc_csr .csrtype02 .col-4.non_mr {float:right;margin-right:0;}
+
+
+@media only screen and (max-width: 1300px){
+    p.non_br br{display:none;}
+    .yc_csr .csr_info_box p{word-break:keep-all;}
+}
+
+@media only screen and (max-width: 1024px){
+    .yc_csr .col-6-nm{min-height:0; line-height:1;}
+    /* .non_br br{display:none;} */
+    .sm-hide{display:none;}
+    .sm-visible{display:block;}
+    .yc_csr .col-6-nm{display:block;min-height:0;width:100%;line-height:0;}
+    .yc_csr .csr_info_box, 
+    .yc_csr .csrtype02 .csr_info_box{margin:20px 0;}
+    .yc_csr .csr_des{padding:0;}
+    .yc_csr .csr_info_box p.txt_tl{padding:25px 0;}
+    .yc_csr .csr_info_box p.al_right{text-align:left;}
+}
+
+@media only screen and (max-width: 767px){
+    .sub_visual_area{background-image:url(../../images/official/csr/top_visual_m.jpg);}
+    .sm-visible{display:none;}
+    .yc_csr .csrtype02 .col-6-nm{width:100%;}
+    .yc_csr .csrtype02 .col-6-nm:first-child{margin-bottom:40px;}
+    .yc_csr .csrtype02 .col-4.non_mc{margin-left:0;}
+    .yc_csr .csrtype02 .col-4{float:left;width:100%;margin:20px 0;} 
+    .yc_csr .csrtype02 .csr_info_box.no_featured{margin-top:0;} 
+    .yc_csr .csr_featured{width:100%;}
+    .yc_csr .csr_info_box p.txt_tl{padding:25px 0;font-size:23px;line-height: 31px;}
+    .yc_csr .csrtype02 .csr_info_box p.txt_tl{padding:15px 0;font-size:20px;line-height:25px;}
+    .yc_csr .csr_info_box p,
+    .yc_csr .csrtype02 .csr_info_box p{font-size:14px;line-height:21px;}
+    .yc_csr .csr_des{padding:0;}
+    .yc_csr .btn_area a{min-width:225px;padding:15px 0;font-size:15px; } 
+}

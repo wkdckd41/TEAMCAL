@@ -1,0 +1,33 @@
+{
+	"****************" : "zh"
+	
+	,"expertise"		: "业务领域"
+	,"practices"		: "按领域"
+	,"industries"		: "按产业"
+	,"international"	: "按地域"
+	,"search_keyword_input"	: "搜索业务领域"
+		
+	,"head"		:	{
+		"title"						:	"法务法人（有限）律村"
+		,"practices_keyword"		:	"律村、业务领域、practice、产业类别、团队、组"
+		,"industries_keyword"		:	"律村、业务领域、practice、产业类别"
+		,"international_keyword"	:	"律村、业务领域、practice、地域类别"
+		,"practices_description"	:	"律村顶尖专家在各个领域提供最精准的法律服务。"
+		,"industries_description"	:	"律村顶尖专家在各个产业提供最精准的法律服务。"
+		,"international_description":	"律村以丰富的国际业务经验和全球性网络为基础支持企业活跃的海外投资。"
+	}
+	
+	,"experise_moreview"	:	"查看更多的业务领域"
+	,"professional"			:	"专业人员"
+	,"professional_moreview":	"查看更多的专业人员"
+	,"performance"			:	"主要业绩"
+	,"awards"				:	"消息/荣誉"
+	,"publications"			:	"期刊"
+		
+	,"periodicals"		:	"定期简讯"
+	,"legal_update"		:	"最新法律信息"
+	,"paper_pub"			:	"论文/著作"
+	,"deals_and_cases"	:	"律村业绩"
+	,"yulchon_news"		:	"律村动向"
+	,"in_the_press"		:	"新闻报道"
+}

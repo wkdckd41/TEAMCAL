@@ -1,0 +1,43 @@
+{
+	"****************" : "search_ja"
+	
+	,"all"				:	"全部"
+	,"expertise"		:	"業務分野"
+	,"deals_and_cases"	:	"最新の事例"
+	,"professionals"	:	"構成員"
+	,"yulchon_news"		:	"お知らせ"
+	,"in_the_press"		:	"報道資料"
+	,"publications"		:	"刊行物"
+	,"periodicals"		:	"定期ニュースレター"
+	,"legal_update"		:	"最新法律情報"
+	,"paper_pub"		:	"論文/著書"
+
+	,"search"					:	"검색"
+	,"all_search"				:	"刊行物"
+	,"search_keyword_input"		:	"業務分野、構成員、お知らせ/資料の検索"
+	,"search_keyword_delete"		:	"검색 키워드를 입력하세요."
+	
+	,"result"		:	{
+		"total"					:	"<span class=\"main_blue\">“{{keyword}}”</span>に関する検索結果が<span class=\"main_blue\">“{{count}}”</span>件です。"
+		,"practices_result"		:	"業務分野 <span class=\"main_blue\">({{count}})</span>"
+		,"pro_result"			:	"構成員 <span class=\"main_blue\">({{count}})</span>"
+		,"case_result"			:	"最新の事例 <span class=\"main_blue\">({{count}})</span>"
+		,"news_result"			:	"お知らせ <span class=\"main_blue\">({{count}})</span>"
+		,"media_result"			:	"報道資料 <span class=\"main_blue\">({{count}})</span>"
+		,"pub_result"			:	"刊行物 <span class=\"main_blue\">({{count}})</span>"
+	}
+	
+	,"search_title"	:	{
+		"pro_result"			:	"<strong class=\"search_title\">構成員 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"practices_result"		:	"<strong class=\"search_title\">業務分野 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"case_result"			:	"<strong class=\"search_title\">最新の事例 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"news_result"			:	"<strong class=\"search_title\">お知らせ <span class=\"main_blue\">({{count}})</span></strong>"
+		,"media_result"			:	"<strong class=\"search_title\">報道資料 <span class=\"main_blue\">({{count}})</span></strong>"
+		,"pub_result"			:	"<strong class=\"search_title\">刊行物 <span class=\"main_blue\">({{count}})</span></strong>"
+	}
+	
+	,"practices"		: "分野別"
+	,"industries"		: "産業別"
+	,"international"	: "地域別"
+	,"etc"				: "기타"
+}
